@@ -1,7 +1,8 @@
 # fatsoma-monitor
 
-Watches Fatsoma 24/7 via GitHub Actions (every ~5 min) and posts to a private
-Discord channel when **normal** tickets drop or get re-released for:
+Watches Fatsoma 24/7 via GitHub Actions (cron every 5 min, 3 checks per run —
+effective cadence ~1.5-2 min) and posts to a private Discord channel when
+**normal** tickets drop or get re-released for:
 
 - **Ministry of Sound Tuesdays** (Milkshake student nights, Freshers launches, Halloween etc.)
 - **fabric student nights** (any seller listing an event at fabric, EC1M 6HJ)
