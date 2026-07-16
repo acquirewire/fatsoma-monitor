@@ -1,0 +1,33 @@
+{
+  "max_price_per_person_gbp": 30,
+  "renotify_cooldown_hours": 6,
+  "discord_mention": "@everyone",
+  "exclude_ticket_name_patterns": [
+    "vip",
+    "\\btables?\\b",
+    "booth",
+    "queue\\s*jump",
+    "bottle",
+    "\\bpackage\\b",
+    "meet\\s*&?\\s*greet",
+    "add\\s*-?\\s*on"
+  ],
+  "watches": [
+    {
+      "name": "Ministry of Sound Tuesdays",
+      "page_ids": ["cf1c5642-94c6-4078-a72a-125d49a7b90d"],
+      "queries": ["ministry of sound"],
+      "venue_patterns": ["ministry of sound"],
+      "venue_postcodes": ["SE1 6DP"],
+      "weekdays": ["tuesday"]
+    },
+    {
+      "name": "fabric student nights",
+      "page_ids": [],
+      "queries": ["fabric"],
+      "venue_patterns": ["\\bfabric\\b"],
+      "venue_postcodes": ["EC1M 6HJ"],
+      "weekdays": []
+    }
+  ]
+}
