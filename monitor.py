@@ -283,7 +283,6 @@ def save_state(state):
             return True
 
     state["events"] = {eid: ev for eid, ev in state["events"].items() if still_relevant(ev)}
-    state["last_run"] = now.isoformat()
     STATE_PATH.write_text(json.dumps(state, indent=1, sort_keys=True), encoding="utf-8")
 
 
