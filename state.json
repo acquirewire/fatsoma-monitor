@@ -122,6 +122,52 @@
     }
    }
   },
+  "1c73f8b9-5911-459f-925e-adbf21393d43": {
+   "ends": "2026-08-19T04:00:00+01:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 August 18th 2026 \ud83c\udf0d ",
+   "opts": {
+    "23c60121-80a1-4345-bdda-634a2b1bd65d": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "4f902948-7893-49ed-807e-df852bd43467": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "74961197-693c-42d4-ba84-dbb3778d90e8": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "7f387a2d-0db2-437f-9a78-a27d07618f55": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "8d98c915-921d-4992-9cb9-feb92ad4913b": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "93349f61-1fab-4391-aa4b-de10bdc594fe": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "d8f6c0f9-a845-4cfb-91a9-3909b001636a": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "db006540-09dd-4148-b4a3-3edbac651934": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "f10acaa0-2fdb-481a-92c5-0b209f383334": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "fff65f9a-f6ce-4bf9-b3d6-76bc42f904c4": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    }
+   }
+  },
   "48c9d24a-fc10-4816-997a-806c498e22f1": {
    "ends": "2026-10-30T04:00:00+00:00",
    "name": "The Halloween Rave at Fabric! Halloween 2026 \ud83c\udfc6",
@@ -519,6 +565,52 @@
      "st": "available"
     },
     "f837a727-adad-4a51-8f6d-e3cbc5cc436e": {
+     "st": "available"
+    }
+   }
+  },
+  "e1417cce-97ec-485e-92e3-b8b5ed3e0bbe": {
+   "ends": "2026-08-26T04:00:00+01:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 August 25th 2026 \ud83c\udf0d ",
+   "opts": {
+    "4704edff-daaa-4401-84d4-0427b0dff5a6": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "614e9b40-7696-4238-bb1b-2c3465969681": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "62af6ae5-5087-4d7c-84d7-5c1794650bc5": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "7249d34b-91ee-467d-8d1d-8385158ad1f9": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "7cb6ec11-4a68-420c-ba2b-ac80953fd2ab": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "882a4aa8-fe2b-4487-8958-6a66f3443626": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "8fed43d4-882d-40c9-8c23-15bf692edd89": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "9fc0c91e-8429-4e6c-9639-c6bd4464da28": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "aa09d1c6-68ca-413a-9376-08188cddabeb": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
+     "st": "available"
+    },
+    "dc820b99-a155-4a5f-8bd7-af979e2e1655": {
+     "notified_at": "2026-07-20T11:17:00.890999+00:00",
      "st": "available"
     }
    }
