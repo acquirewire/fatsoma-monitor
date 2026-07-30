@@ -197,6 +197,21 @@
     }
    }
   },
+  "76cdd013-9860-4868-a979-ed53cf34d682": {
+   "ends": "2026-09-23T04:00:00+01:00",
+   "name": "The Arts Takeover at fabric London 2026",
+   "opts": {
+    "3a4e0aed-0a44-496c-bd5b-0d0ad5f778e8": {
+     "st": "not_started"
+    },
+    "88cf2827-f173-418b-903f-268afc8a89ef": {
+     "st": "not_started"
+    },
+    "c031d4a9-06ff-47a9-ab02-1c102b82d812": {
+     "st": "not_started"
+    }
+   }
+  },
   "88bc58d3-03ea-40c7-94d7-447f0b0c4f93": {
    "ends": "2026-09-24T04:00:00+01:00",
    "name": "THE FRESHERS RAVE @ FABRIC! - LONDON FRESHERS WEEK 2026",
