@@ -217,7 +217,8 @@
    "name": "THE FRESHERS RAVE @ FABRIC! - LONDON FRESHERS WEEK 2026",
    "opts": {
     "0a1d4662-8be7-4135-bd31-e86cafaf422b": {
-     "st": "sold_out"
+     "notified_at": "2026-08-01T17:27:49.991799+00:00",
+     "st": "available"
     },
     "0fb1d7d8-bc95-4d1c-bc42-9097785e656b": {
      "st": "available"
