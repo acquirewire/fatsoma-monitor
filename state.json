@@ -460,7 +460,8 @@
      "st": "available"
     },
     "d43e4fa7-266f-45a0-8379-e865493429a7": {
-     "st": "sold_out"
+     "notified_at": "2026-08-02T17:39:52.613918+00:00",
+     "st": "available"
     }
    }
   },
