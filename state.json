@@ -198,6 +198,40 @@
     }
    }
   },
+  "6e588d1f-da86-44d1-a424-7c9977fea24c": {
+   "ends": "2026-09-24T04:00:00+01:00",
+   "name": "THE FRESHERS RAVE @ FABRIC! - KCL FRESHERS WEEK 2026",
+   "opts": {
+    "1176ea9f-9b70-40ff-b744-ea266f47fe99": {
+     "notified_at": "2026-08-04T20:14:47.735622+00:00",
+     "st": "available"
+    },
+    "47f6bdce-c94a-477f-89ba-48e5642ab491": {
+     "notified_at": "2026-08-04T20:14:47.735622+00:00",
+     "st": "available"
+    },
+    "65d407fc-a9e1-4fa5-a399-a16e2d49d610": {
+     "notified_at": "2026-08-04T20:14:47.735622+00:00",
+     "st": "available"
+    },
+    "825a0022-195b-4dec-98bb-52eeac762841": {
+     "notified_at": "2026-08-04T20:14:47.735622+00:00",
+     "st": "available"
+    },
+    "9f6179f7-d6be-4391-849d-b1fe79aa01ca": {
+     "notified_at": "2026-08-04T20:14:47.735622+00:00",
+     "st": "available"
+    },
+    "ce6da84f-0b28-473f-a0ba-5e341f88919c": {
+     "notified_at": "2026-08-04T20:14:47.735622+00:00",
+     "st": "available"
+    },
+    "e781a486-73aa-415f-80ee-72da79a84e8b": {
+     "notified_at": "2026-08-04T20:14:47.735622+00:00",
+     "st": "available"
+    }
+   }
+  },
   "76cdd013-9860-4868-a979-ed53cf34d682": {
    "ends": "2026-09-23T04:00:00+01:00",
    "name": "The Arts Takeover at fabric London 2026",
