@@ -58,7 +58,7 @@
     },
     "e308d854-4704-4114-858c-a3ad0b07dfd0": {
      "notified_at": "2026-08-02T22:09:22.541121+00:00",
-     "st": "available"
+     "st": "sold_out"
     }
    }
   },
@@ -280,6 +280,36 @@
     },
     "e34df715-65e1-4d50-ac26-43dea8d63995": {
      "st": "sold_out"
+    }
+   }
+  },
+  "95d72fd3-3e76-4382-a716-548bf473d14c": {
+   "ends": "2026-09-22T04:00:00+01:00",
+   "name": "THE LONDON FRESHERS IBIZA WHITE PARTY @ FABRIC! - KCL FRESHERS WEEK 2026",
+   "opts": {
+    "480aa99c-8679-4275-a926-b2876c65906a": {
+     "notified_at": "2026-08-04T18:46:04.433530+00:00",
+     "st": "available"
+    },
+    "8531db3b-383e-4b41-a13f-42edabfd3acd": {
+     "notified_at": "2026-08-04T18:46:04.433530+00:00",
+     "st": "available"
+    },
+    "99cd3798-3c07-45ac-98c0-76b0bbdbb2ac": {
+     "notified_at": "2026-08-04T18:46:04.433530+00:00",
+     "st": "available"
+    },
+    "c29310ec-264a-4b8d-b49b-7bfabdec2e1c": {
+     "notified_at": "2026-08-04T18:46:04.433530+00:00",
+     "st": "available"
+    },
+    "cf129298-6991-4a44-bdf7-ddd25045aef2": {
+     "notified_at": "2026-08-04T18:46:04.433530+00:00",
+     "st": "available"
+    },
+    "ed4d9596-f818-45e2-b8e2-0445f3ed01a3": {
+     "notified_at": "2026-08-04T18:46:04.433530+00:00",
+     "st": "available"
     }
    }
   },
