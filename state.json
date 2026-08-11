@@ -194,6 +194,68 @@
     }
    }
   },
+  "2fc4ba51-3a0d-47ba-8e46-7f733da2d423": {
+   "ends": "2026-09-29T04:00:00+01:00",
+   "name": "THE LONDON FRESHERS FESTIVAL @ FABRIC! HUGE LINE-UP TO BE CONFIRMED \ud83c\udf89 LONDON FRESHERS WEEK 2026",
+   "opts": {
+    "4d89b6d8-6c99-4c98-a5ec-ed07676fa310": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "8f77cdb7-5100-4374-8857-69d06809ea16": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "9ce15838-5608-4355-9593-34421a7ed79c": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "caf1d5e1-2e93-408a-9434-cc615119a314": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "f7c72c96-9d50-440f-8e4f-04229100364d": {
+     "st": "sold_out"
+    },
+    "ff987456-00ad-4441-a713-e8415ea3669e": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    }
+   }
+  },
+  "3425d80e-8d56-48dd-aaef-7abee8055417": {
+   "ends": "2026-10-02T04:00:00+01:00",
+   "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC!  - LONDON FRESHERS WEEK 2026",
+   "opts": {
+    "2ac5cc3e-0ca3-402d-bb10-080a51a4f00f": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "6639da67-80ec-43f7-82ff-a1c62c4ebd82": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "74a6236f-2b85-4520-8102-243e230e448f": {
+     "st": "sold_out"
+    },
+    "9d434703-2604-42f2-9e6e-60eb98091861": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "a90b1a1e-026e-4c93-838f-304ed79a463d": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "b2606046-1846-487b-9a69-9566017acce1": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    },
+    "fda88810-9d15-4317-9aff-6d187a963c59": {
+     "notified_at": "2026-08-11T14:00:35.675819+00:00",
+     "st": "available"
+    }
+   }
+  },
   "48c9d24a-fc10-4816-997a-806c498e22f1": {
    "ends": "2026-10-30T04:00:00+00:00",
    "name": "The Halloween Rave at Fabric! Halloween 2026 \ud83c\udfc6",
