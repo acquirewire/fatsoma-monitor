@@ -223,6 +223,32 @@
     }
    }
   },
+  "3146c6c2-8fce-4849-9012-1cb4ba4a036b": {
+   "ends": "2026-09-29T04:00:00+01:00",
+   "name": "THE LONDON FRESHERS FESTIVAL @ FABRIC FT HUGE LINEUP! - KCL FRESHERS WEEK 2026",
+   "opts": {
+    "0dc7a218-91eb-436a-90cb-07367dd1d29b": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "2f4f2980-d188-4733-9076-2de7dd63ddf1": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "6d21d5ea-3c2d-4a42-8975-64175bcea36f": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "80ec903c-5344-4a8f-ad39-fcb9c43c7af0": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "fe769e54-30c4-476f-9daa-f7d7cd206917": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    }
+   }
+  },
   "3425d80e-8d56-48dd-aaef-7abee8055417": {
    "ends": "2026-10-02T04:00:00+01:00",
    "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC!  - LONDON FRESHERS WEEK 2026",
@@ -669,6 +695,32 @@
      "st": "available"
     },
     "d1a945a3-cbeb-40da-a606-918b84870305": {
+     "st": "available"
+    }
+   }
+  },
+  "ca6b6129-55b0-46af-86d2-0cae1a441f21": {
+   "ends": "2026-10-02T04:00:00+01:00",
+   "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC! - KCL FRESHERS WEEK 2026",
+   "opts": {
+    "00ee0107-63fe-410d-b589-bd7003cf61f7": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "19dc1e03-77bf-4d52-ad03-bdd3288dd0cd": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "3747c4f6-0fb2-4d4a-9220-9aff1e0dd317": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "56322c3e-37a0-47d7-93d9-d85f37ff784e": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
+     "st": "available"
+    },
+    "d6429883-cc82-4e13-a545-7c65b1a059d1": {
+     "notified_at": "2026-08-11T15:12:21.487977+00:00",
      "st": "available"
     }
    }
