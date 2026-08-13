@@ -78,52 +78,6 @@
     }
    }
   },
-  "18264ed6-8b30-4951-b9bc-6114975ba396": {
-   "ends": "2026-08-12T04:00:00+01:00",
-   "name": "Milkshake, Ministry of Sound | Pre A Level Results Rave \ud83d\udd25 August 11th 2026 \ud83c\udf0d ",
-   "opts": {
-    "1791cbb5-d507-4eec-b5d9-713b52a8f62e": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "completed"
-    },
-    "1a16db15-7886-4c1f-b0fa-0d863a47c81e": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "sold_out"
-    },
-    "2206e8e5-44bc-476d-9e54-cda4427a8fc9": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "sold_out"
-    },
-    "4da8b444-4ce8-4ed1-a76e-d710428a5b49": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "sold_out"
-    },
-    "5b74daeb-223e-4417-aebb-ca558711fc15": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "completed"
-    },
-    "6f5cd715-0611-43a6-92c9-1ad99cd28a5e": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "sold_out"
-    },
-    "803fd13e-57f0-4e12-98f0-4c81fb27b911": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "completed"
-    },
-    "91272f4b-a715-469a-b9d9-934a340525c2": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "sold_out"
-    },
-    "a89b5733-92da-45c5-b40e-56c704750844": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "sold_out"
-    },
-    "b2030dfd-4039-4404-8e71-549ae25ce4a0": {
-     "notified_at": "2026-08-05T23:36:41.966270+00:00",
-     "st": "available"
-    }
-   }
-  },
   "1b1b952b-4cf3-48ab-8483-73e285903b0b": {
    "ends": "2026-09-23T03:00:00+01:00",
    "name": "The Freshers Rave \u26a1\ufe0f @ Fabric | London Freshers Week 2026",
