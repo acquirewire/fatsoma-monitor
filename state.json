@@ -326,10 +326,12 @@
    "name": "The Arts Takeover at fabric London 2026",
    "opts": {
     "3a4e0aed-0a44-496c-bd5b-0d0ad5f778e8": {
-     "st": "not_started"
+     "notified_at": "2026-08-13T07:49:44.744161+00:00",
+     "st": "available"
     },
     "88cf2827-f173-418b-903f-268afc8a89ef": {
-     "st": "not_started"
+     "notified_at": "2026-08-13T07:49:44.744161+00:00",
+     "st": "available"
     },
     "c031d4a9-06ff-47a9-ab02-1c102b82d812": {
      "notified_at": "2026-08-04T15:01:04.582147+00:00",
