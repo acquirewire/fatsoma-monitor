@@ -36,33 +36,6 @@
     }
    }
   },
-  "17da1b90-6a21-4a8e-bab2-d00b672cbb71": {
-   "ends": "2026-08-14T04:00:00+01:00",
-   "name": "A-Level Results Night 2026 @ FABRIC! \ud83c\udf89",
-   "opts": {
-    "28f6ceeb-91b0-42fa-a27b-f460def3f29e": {
-     "notified_at": "2026-07-16T13:49:03.471680+00:00",
-     "st": "sold_out"
-    },
-    "2c1d4f0e-5ea7-4a3d-a44c-d52ef8cdc384": {
-     "st": "sold_out"
-    },
-    "5baf2db2-00e9-4387-b80e-d2def4399e1a": {
-     "st": "sold_out"
-    },
-    "67a48639-d5fa-4198-aee7-edaae53bac23": {
-     "notified_at": "2026-08-05T16:43:36.539550+00:00",
-     "st": "sold_out"
-    },
-    "726cca42-09fa-4aa5-a6e4-d078fcf8f16d": {
-     "st": "sold_out"
-    },
-    "e308d854-4704-4114-858c-a3ad0b07dfd0": {
-     "notified_at": "2026-08-05T16:43:36.539550+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "181cc3da-f317-41e9-89c9-749daa947312": {
    "ends": "2026-09-30T04:00:00+01:00",
    "name": "The UCL Freshers Rave 2026 at fabric \ud83d\udd0a",
@@ -518,36 +491,6 @@
      "st": "available"
     },
     "fcb29638-13c8-4b9f-97bc-f9361379f76a": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "b2c87605-17aa-4211-99e6-5fa04ece4a48": {
-   "ends": "2026-08-14T04:00:00+01:00",
-   "name": "A-Level Results Night 2026 @ FABRIC! \ud83c\udf89",
-   "opts": {
-    "0a906760-47df-47ce-99ac-9e3d84b037de": {
-     "st": "sold_out"
-    },
-    "293b9552-a533-4ee1-8d9d-cdfd10912e98": {
-     "st": "sold_out"
-    },
-    "5d32b947-fbea-4541-babc-0accb41b257d": {
-     "st": "sold_out"
-    },
-    "6b1bc680-2426-45e2-9772-3c249294d3a2": {
-     "st": "sold_out"
-    },
-    "6f56d00b-ceec-4c38-a607-9f31a3d53ce4": {
-     "st": "sold_out"
-    },
-    "83765782-7631-4585-9815-6b5533fbf739": {
-     "st": "sold_out"
-    },
-    "93a32012-5b88-496f-af47-b12ad0da508e": {
-     "st": "sold_out"
-    },
-    "947578b0-b513-4252-8c63-0d8d64203be8": {
      "st": "sold_out"
     }
    }
