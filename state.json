@@ -139,7 +139,7 @@
     },
     "db006540-09dd-4148-b4a3-3edbac651934": {
      "notified_at": "2026-07-20T11:17:00.890999+00:00",
-     "st": "available"
+     "st": "sold_out"
     },
     "f10acaa0-2fdb-481a-92c5-0b209f383334": {
      "notified_at": "2026-07-20T11:17:00.890999+00:00",
@@ -509,7 +509,7 @@
      "st": "available"
     },
     "756beb62-31a1-445b-96e2-decdf79680ee": {
-     "st": "available"
+     "st": "sold_out"
     },
     "b0b5bf6f-ccb2-419a-be39-d49f591bc8ac": {
      "st": "sold_out"
