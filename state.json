@@ -684,6 +684,36 @@
     }
    }
   },
+  "d4887631-a0ee-480c-b094-62dc6ea152be": {
+   "ends": "2026-09-29T04:00:00+01:00",
+   "name": "THE LONDON FRESHERS FESTIVAL @ FABRIC! HUGE LINE-UP TO BE CONFIRMED \ud83c\udf89 LONDON FRESHERS WEEK 2026",
+   "opts": {
+    "27c458d8-c0ab-4756-9655-80fa756b731c": {
+     "notified_at": "2026-08-22T07:53:13.131739+00:00",
+     "st": "available"
+    },
+    "4d427642-064e-4c1f-ad68-b06733d7cd23": {
+     "notified_at": "2026-08-22T07:53:13.131739+00:00",
+     "st": "available"
+    },
+    "50c4d1d2-956d-4b98-afbf-14cad16a0c69": {
+     "notified_at": "2026-08-22T07:53:13.131739+00:00",
+     "st": "available"
+    },
+    "74cbf8b7-ff66-453d-9961-b055aaeaf8fd": {
+     "notified_at": "2026-08-22T07:53:13.131739+00:00",
+     "st": "available"
+    },
+    "e2f9e4ac-6151-4499-85b1-91e5c33ac2f3": {
+     "notified_at": "2026-08-22T07:53:13.131739+00:00",
+     "st": "available"
+    },
+    "f6e330d9-0b0a-4f09-a869-dea35fe7f5af": {
+     "notified_at": "2026-08-22T07:53:13.131739+00:00",
+     "st": "available"
+    }
+   }
+  },
   "ddb7b4f0-ad80-4f82-a384-83c3c087b7e3": {
    "ends": "2026-10-30T04:00:00+00:00",
    "name": "The Halloween Rave at Fabric! Halloween 2026 \ud83c\udfc6",
