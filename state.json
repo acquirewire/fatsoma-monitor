@@ -244,52 +244,6 @@
     }
    }
   },
-  "58c3dbb0-079a-49f0-a2c1-a02bf25815d2": {
-   "ends": "2026-09-02T04:00:00+01:00",
-   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 Sept 1st 2026 \ud83c\udf0d ",
-   "opts": {
-    "17a35b83-3aaf-4233-919b-b5395dbe6bd7": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "1aa7863a-a81b-4ec4-9f59-576bcbc133c3": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "7c2296b9-c7cf-40cd-a1d2-4ccbe8fce3bd": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "9ecdf90d-399a-46d0-a022-a88385eeecf1": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "available"
-    },
-    "aa2ca399-37d6-4589-aae6-c094c7d2493a": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "c2617108-bc1c-4002-8245-51e728718d6b": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "ce2a4de8-263f-48fb-8f4a-f2b331252846": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "d4ab6580-e87f-440e-983f-06571de24a02": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "d79de358-7527-4183-b544-4d7bf5b0a968": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "sold_out"
-    },
-    "fb83f80c-54fe-437a-a986-b5acb328b7be": {
-     "notified_at": "2026-08-17T09:59:59.752808+00:00",
-     "st": "available"
-    }
-   }
-  },
   "6e588d1f-da86-44d1-a424-7c9977fea24c": {
    "ends": "2026-09-24T04:00:00+01:00",
    "name": "THE FRESHERS RAVE @ FABRIC! - KCL FRESHERS WEEK 2026",
