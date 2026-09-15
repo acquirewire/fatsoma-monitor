@@ -14,7 +14,7 @@
     },
     "aa0a6346-7b47-481d-b916-f5b115153fdc": {
      "notified_at": "2026-09-14T23:41:58.909732+00:00",
-     "st": "available"
+     "st": "sold_out"
     },
     "acc8dba9-2177-48cb-88a2-166809d1f9c0": {
      "st": "sold_out"
@@ -109,6 +109,52 @@
      "st": "available"
     },
     "93d1271f-e3ad-474a-9f87-8271cd7bfa3a": {
+     "st": "available"
+    }
+   }
+  },
+  "2e0a8bcc-0d12-4ce1-81df-863208a481e0": {
+   "ends": "2026-10-07T04:00:00+01:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 October 6th 2026 \ud83c\udf0d ",
+   "opts": {
+    "54c41e4a-c7c3-4ee1-ae4b-21792ddade10": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "62a938cc-b91d-434e-9f74-5ab7027f59d9": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "67daf31a-9118-4a20-a4d2-c83b20ac7e26": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "6ac3bd63-d0b1-4cad-9644-4749b38ad0c4": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "73a26d12-bde5-40c6-99e8-8c757fb6eb2e": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "80054f84-511e-48b8-8713-2eea8e87c3c7": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "9fada341-2c02-49fd-a7d1-08f04b56f298": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "a9c4f5a4-46ef-46bb-8840-d3325dc7d57a": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "b42cff19-4254-4b26-bcc5-59ab738c5a2d": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "f981c866-fa00-4b21-b128-ec5f275553fb": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
      "st": "available"
     }
    }
@@ -301,6 +347,52 @@
     "c031d4a9-06ff-47a9-ab02-1c102b82d812": {
      "notified_at": "2026-08-04T15:01:04.582147+00:00",
      "st": "sold_out"
+    }
+   }
+  },
+  "774bd9c8-2eb3-4f24-8077-d6ac3176fdee": {
+   "ends": "2026-10-14T04:00:00+01:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 October 13th 2026 \ud83c\udf0d ",
+   "opts": {
+    "1a3f4ed8-aba4-40bf-bc96-738f32331cff": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "1ed6a8b2-18a1-49fc-9ae3-11b2e07bd739": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "49030daa-4e82-4bd8-921d-5dc875d10771": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "4bfed2e3-25d1-44a4-8399-9893d1a2416d": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "56c40006-2514-4dce-bba9-bff5bbb18f76": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "6bd5f014-0f75-4d35-adec-69a5ab70ae91": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "8aec7d3b-c1df-4cf7-a421-6db27761ef82": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "c4b128b9-d459-40ef-b318-10371a1f83d4": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "dc11b513-770d-4f1c-8663-7756f40d267b": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
+    },
+    "f693b50d-585e-4e13-994a-7be78ad8dfbe": {
+     "notified_at": "2026-09-15T12:53:39.170315+00:00",
+     "st": "available"
     }
    }
   },
