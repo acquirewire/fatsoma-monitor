@@ -1,35 +1,5 @@
 {
  "events": {
-  "0fb9f2af-22b5-4db5-8582-828a54b1062c": {
-   "ends": "2026-09-16T04:00:00+01:00",
-   "name": "Ministry of Sound, Milkshake - Official London Freshers Launch 2026",
-   "opts": {
-    "499b21b1-0302-4354-b0a2-19811268cb7a": {
-     "notified_at": "2026-07-16T13:49:03.471680+00:00",
-     "st": "sold_out"
-    },
-    "4db014d9-efd4-434a-99ce-18c9ff2b687c": {
-     "notified_at": "2026-09-09T15:11:08.299258+00:00",
-     "st": "sold_out"
-    },
-    "aa0a6346-7b47-481d-b916-f5b115153fdc": {
-     "notified_at": "2026-09-14T23:41:58.909732+00:00",
-     "st": "sold_out"
-    },
-    "acc8dba9-2177-48cb-88a2-166809d1f9c0": {
-     "st": "sold_out"
-    },
-    "b3f67f7f-718a-4962-b5d4-d7f7ff9850f0": {
-     "st": "sold_out"
-    },
-    "d69cf206-6433-434d-8a8e-8428d00ec77a": {
-     "st": "sold_out"
-    },
-    "f4bd4a28-146a-46ae-a03c-b786392d8ae5": {
-     "st": "sold_out"
-    }
-   }
-  },
   "11d8e761-ee7f-4cfd-9c57-5b2636d88a25": {
    "ends": "2026-10-02T04:00:00+01:00",
    "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC!  - LONDON FRESHERS WEEK 2026 [WEEK 3]",
@@ -123,7 +93,7 @@
     },
     "62a938cc-b91d-434e-9f74-5ab7027f59d9": {
      "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "available"
+     "st": "sold_out"
     },
     "67daf31a-9118-4a20-a4d2-c83b20ac7e26": {
      "notified_at": "2026-09-15T12:53:39.170315+00:00",
