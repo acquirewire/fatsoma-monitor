@@ -372,6 +372,16 @@
     }
    }
   },
+  "86cac57d-e3ec-41b1-b675-dc7e9ae9fa99": {
+   "ends": "2026-09-24T04:00:00+01:00",
+   "name": "THE FRESHERS RAVE @ FABRIC! - LONDON FRESHERS WEEK 2026",
+   "opts": {
+    "9d39448c-207d-4ccd-94ea-69e02d9d9f1f": {
+     "notified_at": "2026-09-19T23:25:20.770839+00:00",
+     "st": "available"
+    }
+   }
+  },
   "88bc58d3-03ea-40c7-94d7-447f0b0c4f93": {
    "ends": "2026-09-24T04:00:00+01:00",
    "name": "THE FRESHERS RAVE @ FABRIC! - LONDON FRESHERS WEEK 2026",
@@ -595,6 +605,16 @@
     },
     "fcb29638-13c8-4b9f-97bc-f9361379f76a": {
      "st": "sold_out"
+    }
+   }
+  },
+  "be880495-0aa0-4194-973a-752368d2cff9": {
+   "ends": "2026-09-22T04:00:00+01:00",
+   "name": "THE LONDON FRESHERS IBIZA WHITE PARTY @ FABRIC! - LONDON FRESHERS WEEK 2026",
+   "opts": {
+    "5005b080-c3f8-42d7-9591-6300ddb06a04": {
+     "notified_at": "2026-09-19T23:25:20.770839+00:00",
+     "st": "available"
     }
    }
   },
