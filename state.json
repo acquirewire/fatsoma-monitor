@@ -87,7 +87,7 @@
     },
     "968c7a32-6f74-4541-a394-2303a6182aac": {
      "notified_at": "2026-09-22T06:09:10.147386+00:00",
-     "st": "available"
+     "st": "sold_out"
     }
    }
   },
@@ -316,6 +316,10 @@
    "ends": "2026-09-23T04:00:00+01:00",
    "name": "The Arts Takeover at fabric London 2026",
    "opts": {
+    "2ce88e3e-8de1-4750-ae72-5f1481123d6a": {
+     "notified_at": "2026-09-22T19:17:04.993910+00:00",
+     "st": "available"
+    },
     "3a4e0aed-0a44-496c-bd5b-0d0ad5f778e8": {
      "notified_at": "2026-08-13T07:49:44.744161+00:00",
      "st": "sold_out"
@@ -563,7 +567,7 @@
      "st": "sold_out"
     },
     "61009e45-78bf-4194-9b34-16443e48237e": {
-     "st": "available"
+     "st": "sold_out"
     },
     "756beb62-31a1-445b-96e2-decdf79680ee": {
      "st": "sold_out"
@@ -829,7 +833,7 @@
     },
     "ce4ac72d-88a4-4d32-a791-73cab0844cad": {
      "notified_at": "2026-09-19T18:57:04.505837+00:00",
-     "st": "available"
+     "st": "sold_out"
     },
     "cf00da8a-ba29-4385-b8fb-5b93efe17535": {
      "st": "sold_out"
