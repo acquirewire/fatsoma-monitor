@@ -83,7 +83,7 @@
      "st": "sold_out"
     },
     "93d1271f-e3ad-474a-9f87-8271cd7bfa3a": {
-     "st": "available"
+     "st": "completed"
     },
     "968c7a32-6f74-4541-a394-2303a6182aac": {
      "notified_at": "2026-09-22T06:09:10.147386+00:00",
@@ -318,7 +318,7 @@
    "opts": {
     "2ce88e3e-8de1-4750-ae72-5f1481123d6a": {
      "notified_at": "2026-09-22T19:17:04.993910+00:00",
-     "st": "available"
+     "st": "completed"
     },
     "3a4e0aed-0a44-496c-bd5b-0d0ad5f778e8": {
      "notified_at": "2026-08-13T07:49:44.744161+00:00",
