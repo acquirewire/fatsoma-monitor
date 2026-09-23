@@ -246,38 +246,6 @@
     }
    }
   },
-  "526669e1-2233-4170-b33e-0a1289c3e730": {
-   "ends": "2026-09-22T04:00:00+01:00",
-   "name": "The London Freshers Ibiza White Party @ Fabric! - London Freshers Week 2026 [WEEK 2]",
-   "opts": {
-    "091fe5f9-6401-4971-b219-cc0a86201b35": {
-     "notified_at": "2026-09-18T09:39:51.996698+00:00",
-     "st": "sold_out"
-    },
-    "0c494f0b-0ea0-49e7-b16f-3bd8b1266264": {
-     "st": "sold_out"
-    },
-    "129de6b8-6b14-460f-9582-f68a28808cab": {
-     "st": "sold_out"
-    },
-    "51bf6762-d025-4960-bcec-a004d985268d": {
-     "st": "sold_out"
-    },
-    "784f3fc9-f78b-4f92-b0e2-63af08572b71": {
-     "st": "sold_out"
-    },
-    "8eec9956-f819-43a0-bd2d-17369da4545f": {
-     "st": "sold_out"
-    },
-    "bc26587b-817e-4636-9661-d60cc571801a": {
-     "st": "sold_out"
-    },
-    "c02bb5bc-a54f-4c73-af03-94fccd0a8f63": {
-     "notified_at": "2026-09-18T09:39:51.996698+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "6e588d1f-da86-44d1-a424-7c9977fea24c": {
    "ends": "2026-09-24T04:00:00+01:00",
    "name": "THE FRESHERS RAVE @ FABRIC! - KCL FRESHERS WEEK 2026",
@@ -399,7 +367,7 @@
      "st": "sold_out"
     },
     "0fb1d7d8-bc95-4d1c-bc42-9097785e656b": {
-     "st": "available"
+     "st": "sold_out"
     },
     "3e5c4868-5448-4f13-818c-8567fba77b05": {
      "st": "sold_out"
@@ -408,7 +376,7 @@
      "st": "sold_out"
     },
     "5cc60057-de6f-4684-ba46-607b314ccbe0": {
-     "st": "available"
+     "st": "sold_out"
     },
     "656f4898-1858-4be5-b522-98830a6a9181": {
      "st": "available"
@@ -469,69 +437,6 @@
    "name": "The Halloween Rave at Fabric! Halloween 2026 \ud83c\udfc6",
    "opts": {}
   },
-  "931203f4-0c21-44b6-b9a4-868978abb12f": {
-   "ends": "2026-09-22T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS IBIZA WHITE PARTY @ FABRIC! - LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "074b92a2-9e88-46cc-9dd5-0fafc8d7e234": {
-     "notified_at": "2026-09-18T09:39:51.996698+00:00",
-     "st": "sold_out"
-    },
-    "10cba09d-9c80-4596-bf55-87e4afc81dc4": {
-     "st": "sold_out"
-    },
-    "16a8f629-cda1-48cf-b433-bb3d335dda49": {
-     "notified_at": "2026-08-25T13:08:06.643858+00:00",
-     "st": "sold_out"
-    },
-    "2d819e0c-78c4-46a2-bf0d-208c03250fe1": {
-     "st": "sold_out"
-    },
-    "3d34c6de-b11b-442e-bc7b-f8b04513f264": {
-     "notified_at": "2026-09-18T09:39:51.996698+00:00",
-     "st": "sold_out"
-    },
-    "7e2e40a6-fc9d-43c3-988b-a4baea35e551": {
-     "st": "sold_out"
-    },
-    "b9d6a399-cbca-46fd-9365-4d109e7ded1f": {
-     "st": "sold_out"
-    },
-    "e34df715-65e1-4d50-ac26-43dea8d63995": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "95d72fd3-3e76-4382-a716-548bf473d14c": {
-   "ends": "2026-09-22T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS IBIZA WHITE PARTY @ FABRIC! - KCL FRESHERS WEEK 2026",
-   "opts": {
-    "480aa99c-8679-4275-a926-b2876c65906a": {
-     "notified_at": "2026-08-04T18:46:04.433530+00:00",
-     "st": "sold_out"
-    },
-    "8531db3b-383e-4b41-a13f-42edabfd3acd": {
-     "notified_at": "2026-08-04T18:46:04.433530+00:00",
-     "st": "sold_out"
-    },
-    "99cd3798-3c07-45ac-98c0-76b0bbdbb2ac": {
-     "notified_at": "2026-08-04T18:46:04.433530+00:00",
-     "st": "sold_out"
-    },
-    "c29310ec-264a-4b8d-b49b-7bfabdec2e1c": {
-     "notified_at": "2026-08-04T18:46:04.433530+00:00",
-     "st": "available"
-    },
-    "cf129298-6991-4a44-bdf7-ddd25045aef2": {
-     "notified_at": "2026-09-20T21:17:34.499622+00:00",
-     "st": "available"
-    },
-    "ed4d9596-f818-45e2-b8e2-0445f3ed01a3": {
-     "notified_at": "2026-08-04T18:46:04.433530+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "a1f99811-9463-43d4-bcee-c1c3626f3a27": {
    "ends": "2026-10-28T04:00:00+00:00",
    "name": "The Gaunt Street Massacre 2026 \ud83d\udc7b - Milkshake, Ministry of Sound - Halloween Rave! \ud83d\udc79 ",
@@ -591,7 +496,7 @@
      "st": "sold_out"
     },
     "509751de-62a7-46d7-8c4a-1ef19dbebca6": {
-     "st": "available"
+     "st": "sold_out"
     },
     "625fbd26-fcc3-4f5b-b06e-e38de1ddb2cd": {
      "st": "sold_out"
@@ -606,55 +511,12 @@
      "st": "sold_out"
     },
     "e54953cf-251e-4dc7-9b62-a5155f93206a": {
-     "st": "available"
+     "st": "sold_out"
     },
     "f158a93b-8fe1-41fe-aae1-dbb29647cc7c": {
      "st": "sold_out"
     },
     "fcb29638-13c8-4b9f-97bc-f9361379f76a": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "be880495-0aa0-4194-973a-752368d2cff9": {
-   "ends": "2026-09-22T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS IBIZA WHITE PARTY @ FABRIC! - LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "5005b080-c3f8-42d7-9591-6300ddb06a04": {
-     "notified_at": "2026-09-19T23:25:20.770839+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
-  "c097091d-c3c8-489a-8045-299bc095b160": {
-   "ends": "2026-09-22T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS IBIZA WHITE PARTY @ FABRIC! - LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "2a9ba2ed-5ba2-4b9d-ac39-5b8a3aa36f7a": {
-     "st": "sold_out"
-    },
-    "41b8c9e3-0e45-42c2-b9b9-c9052fd10d04": {
-     "notified_at": "2026-09-18T09:39:51.996698+00:00",
-     "st": "sold_out"
-    },
-    "53997dc2-1b41-4198-a548-0f41a3f0393b": {
-     "st": "sold_out"
-    },
-    "598f0857-2d08-4466-bbea-784c49728de8": {
-     "st": "sold_out"
-    },
-    "68238031-03ce-4635-bf15-9e5fe639c6c6": {
-     "st": "sold_out"
-    },
-    "9d729bd9-fd0b-4b2a-899d-a4807d0da718": {
-     "st": "sold_out"
-    },
-    "ae603f20-9ea4-4ef1-a4a0-29caa5c157f5": {
-     "notified_at": "2026-09-18T09:39:51.996698+00:00",
-     "st": "sold_out"
-    },
-    "d43e4fa7-266f-45a0-8379-e865493429a7": {
-     "notified_at": "2026-08-02T17:39:52.613918+00:00",
      "st": "sold_out"
     }
    }
@@ -676,7 +538,7 @@
      "st": "sold_out"
     },
     "a26c5c3a-7832-4aa5-86df-d62471167655": {
-     "st": "available"
+     "st": "sold_out"
     },
     "a6e73521-1a79-4ce0-a594-d4e02d59ab71": {
      "st": "sold_out"
@@ -685,7 +547,7 @@
      "st": "sold_out"
     },
     "c2a8f0f3-3bea-467d-9d4d-49dc6e1ef2fe": {
-     "st": "available"
+     "st": "sold_out"
     },
     "d1a945a3-cbeb-40da-a606-918b84870305": {
      "st": "sold_out"
