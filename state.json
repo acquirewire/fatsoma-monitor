@@ -63,34 +63,6 @@
     }
    }
   },
-  "1b1b952b-4cf3-48ab-8483-73e285903b0b": {
-   "ends": "2026-09-23T03:00:00+01:00",
-   "name": "The Freshers Rave \u26a1\ufe0f @ Fabric | London Freshers Week 2026",
-   "opts": {
-    "02cd3669-3a01-46d8-a781-efb2202c498f": {
-     "st": "sold_out"
-    },
-    "040df25e-8d1f-409d-9112-3090a4136a5b": {
-     "st": "sold_out"
-    },
-    "5ffff048-4daf-4e12-8c5b-6022424addb0": {
-     "st": "sold_out"
-    },
-    "636f5300-edeb-449f-bca8-dcc9aeab4dbb": {
-     "st": "sold_out"
-    },
-    "8e7890ca-cd08-4fc5-aa97-ea4d87ee4539": {
-     "st": "sold_out"
-    },
-    "93d1271f-e3ad-474a-9f87-8271cd7bfa3a": {
-     "st": "completed"
-    },
-    "968c7a32-6f74-4541-a394-2303a6182aac": {
-     "notified_at": "2026-09-22T06:09:10.147386+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "2e0a8bcc-0d12-4ce1-81df-863208a481e0": {
    "ends": "2026-10-07T04:00:00+01:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 October 6th 2026 \ud83c\udf0d ",
@@ -276,28 +248,6 @@
     },
     "e781a486-73aa-415f-80ee-72da79a84e8b": {
      "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
-  "76cdd013-9860-4868-a979-ed53cf34d682": {
-   "ends": "2026-09-23T04:00:00+01:00",
-   "name": "The Arts Takeover at fabric London 2026",
-   "opts": {
-    "2ce88e3e-8de1-4750-ae72-5f1481123d6a": {
-     "notified_at": "2026-09-22T19:17:04.993910+00:00",
-     "st": "completed"
-    },
-    "3a4e0aed-0a44-496c-bd5b-0d0ad5f778e8": {
-     "notified_at": "2026-08-13T07:49:44.744161+00:00",
-     "st": "sold_out"
-    },
-    "88cf2827-f173-418b-903f-268afc8a89ef": {
-     "notified_at": "2026-08-13T07:49:44.744161+00:00",
-     "st": "sold_out"
-    },
-    "c031d4a9-06ff-47a9-ab02-1c102b82d812": {
-     "notified_at": "2026-08-04T15:01:04.582147+00:00",
      "st": "sold_out"
     }
    }
@@ -673,37 +623,6 @@
     "fca893e7-6482-48c3-8932-8123acee3605": {
      "notified_at": "2026-08-15T11:51:06.043200+00:00",
      "st": "available"
-    }
-   }
-  },
-  "ee24cb3c-be17-497e-9cbb-b860c99c3d4d": {
-   "ends": "2026-09-23T04:00:00+01:00",
-   "name": "Ministry of Sound, Milkshake - Official London Freshers Launch \ud83d\udd25 PART 2 \ud83d\udd25 \ud83d\udc40",
-   "opts": {
-    "02fd49dc-681e-44b5-b264-ce31cc529a31": {
-     "notified_at": "2026-08-18T15:33:30.589279+00:00",
-     "st": "sold_out"
-    },
-    "03213616-7d2f-4e18-98f2-c7bb2a53afbf": {
-     "st": "sold_out"
-    },
-    "1cc86c69-05ef-4dda-96cb-f2c5ff27d723": {
-     "st": "sold_out"
-    },
-    "52c28444-7967-40dd-9d2b-4ff15c18567b": {
-     "notified_at": "2026-09-15T20:25:17.218564+00:00",
-     "st": "sold_out"
-    },
-    "caa92e1f-eedf-4a25-8aad-669d2f66bf16": {
-     "notified_at": "2026-09-18T13:52:55.524419+00:00",
-     "st": "available"
-    },
-    "ce4ac72d-88a4-4d32-a791-73cab0844cad": {
-     "notified_at": "2026-09-19T18:57:04.505837+00:00",
-     "st": "sold_out"
-    },
-    "cf00da8a-ba29-4385-b8fb-5b93efe17535": {
-     "st": "sold_out"
     }
    }
   }
