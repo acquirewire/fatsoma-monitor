@@ -218,40 +218,6 @@
     }
    }
   },
-  "6e588d1f-da86-44d1-a424-7c9977fea24c": {
-   "ends": "2026-09-24T04:00:00+01:00",
-   "name": "THE FRESHERS RAVE @ FABRIC! - KCL FRESHERS WEEK 2026",
-   "opts": {
-    "1176ea9f-9b70-40ff-b744-ea266f47fe99": {
-     "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "available"
-    },
-    "47f6bdce-c94a-477f-89ba-48e5642ab491": {
-     "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "available"
-    },
-    "65d407fc-a9e1-4fa5-a399-a16e2d49d610": {
-     "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "sold_out"
-    },
-    "825a0022-195b-4dec-98bb-52eeac762841": {
-     "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "available"
-    },
-    "9f6179f7-d6be-4391-849d-b1fe79aa01ca": {
-     "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "sold_out"
-    },
-    "ce6da84f-0b28-473f-a0ba-5e341f88919c": {
-     "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "sold_out"
-    },
-    "e781a486-73aa-415f-80ee-72da79a84e8b": {
-     "notified_at": "2026-08-04T20:14:47.735622+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "774bd9c8-2eb3-4f24-8077-d6ac3176fdee": {
    "ends": "2026-10-14T04:00:00+01:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 October 13th 2026 \ud83c\udf0d ",
@@ -295,50 +261,6 @@
     "f693b50d-585e-4e13-994a-7be78ad8dfbe": {
      "notified_at": "2026-09-23T22:14:18.681767+00:00",
      "st": "available"
-    }
-   }
-  },
-  "86cac57d-e3ec-41b1-b675-dc7e9ae9fa99": {
-   "ends": "2026-09-24T04:00:00+01:00",
-   "name": "THE FRESHERS RAVE @ FABRIC! - LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "9d39448c-207d-4ccd-94ea-69e02d9d9f1f": {
-     "notified_at": "2026-09-19T23:25:20.770839+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "88bc58d3-03ea-40c7-94d7-447f0b0c4f93": {
-   "ends": "2026-09-24T04:00:00+01:00",
-   "name": "THE FRESHERS RAVE @ FABRIC! - LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "0a1d4662-8be7-4135-bd31-e86cafaf422b": {
-     "notified_at": "2026-08-01T17:27:49.991799+00:00",
-     "st": "sold_out"
-    },
-    "0fb1d7d8-bc95-4d1c-bc42-9097785e656b": {
-     "st": "sold_out"
-    },
-    "3e5c4868-5448-4f13-818c-8567fba77b05": {
-     "st": "sold_out"
-    },
-    "4d919ab3-f624-40e2-b9f1-d342865c8011": {
-     "st": "sold_out"
-    },
-    "5cc60057-de6f-4684-ba46-607b314ccbe0": {
-     "st": "sold_out"
-    },
-    "656f4898-1858-4be5-b522-98830a6a9181": {
-     "st": "sold_out"
-    },
-    "7684e3ec-cdeb-4f49-815f-ccc88331d046": {
-     "st": "sold_out"
-    },
-    "971dae22-fe16-461e-8d3f-187d150c9cfc": {
-     "st": "sold_out"
-    },
-    "b050aa99-db1c-4912-be1e-48ff56972a4f": {
-     "st": "sold_out"
     }
    }
   },
@@ -439,72 +361,6 @@
      "st": "sold_out"
     },
     "edccb7d3-8cd3-4334-9101-3841baf530ee": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "ae5b1572-3851-42a2-b285-6172b38b9bd9": {
-   "ends": "2026-09-24T04:00:00+01:00",
-   "name": "THE FRESHERS RAVE @ FABRIC! - London Freshers Week 2026 [WEEK 2]",
-   "opts": {
-    "355cfb9d-692f-4513-b29e-eb758933d137": {
-     "st": "sold_out"
-    },
-    "509751de-62a7-46d7-8c4a-1ef19dbebca6": {
-     "st": "sold_out"
-    },
-    "625fbd26-fcc3-4f5b-b06e-e38de1ddb2cd": {
-     "st": "sold_out"
-    },
-    "6be2aab1-b75c-43cb-9859-277127d4dab2": {
-     "st": "sold_out"
-    },
-    "9f4b5387-a041-42b0-a304-b9279f0398be": {
-     "st": "sold_out"
-    },
-    "e107000b-afb0-479c-8f11-3a7f9422577d": {
-     "st": "sold_out"
-    },
-    "e54953cf-251e-4dc7-9b62-a5155f93206a": {
-     "st": "sold_out"
-    },
-    "f158a93b-8fe1-41fe-aae1-dbb29647cc7c": {
-     "st": "sold_out"
-    },
-    "fcb29638-13c8-4b9f-97bc-f9361379f76a": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "c9152b89-5c12-42f8-914e-448adea7305e": {
-   "ends": "2026-09-24T04:00:00+01:00",
-   "name": "THE FRESHERS RAVE @ FABRIC! - LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "22fdeb08-36bb-4208-b5fa-cd5732effca7": {
-     "st": "sold_out"
-    },
-    "93957a7f-7841-4f89-b10b-91760e66bf05": {
-     "st": "sold_out"
-    },
-    "968ec669-e503-4aa0-9336-2e14469ce9d2": {
-     "st": "sold_out"
-    },
-    "9b3b38a5-1236-47de-8759-f56df769665a": {
-     "st": "sold_out"
-    },
-    "a26c5c3a-7832-4aa5-86df-d62471167655": {
-     "st": "sold_out"
-    },
-    "a6e73521-1a79-4ce0-a594-d4e02d59ab71": {
-     "st": "sold_out"
-    },
-    "ad4ee736-8167-41af-a86e-516425cd04c7": {
-     "st": "sold_out"
-    },
-    "c2a8f0f3-3bea-467d-9d4d-49dc6e1ef2fe": {
-     "st": "sold_out"
-    },
-    "d1a945a3-cbeb-40da-a606-918b84870305": {
      "st": "sold_out"
     }
    }
