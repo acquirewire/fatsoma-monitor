@@ -30,6 +30,27 @@
     }
    }
   },
+  "11f87087-1a6d-41df-abe9-35b4dcbb46be": {
+   "ends": "2026-10-07T03:35:00+01:00",
+   "name": "HOLLOWAY FRESHERS TAKEOVER MINISTRY OF SOUND  - PART 2 - MILKSHAKE TAKEOVER",
+   "opts": {
+    "1297772a-102f-44c5-999f-1f42a24ab94a": {
+     "st": "not_started"
+    },
+    "6e941df3-acdf-4dfa-83f5-a48ff1f16254": {
+     "st": "not_started"
+    },
+    "82aae476-d08e-45ec-b502-45cf1d7d9169": {
+     "st": "not_started"
+    },
+    "ddbec67b-6980-4e39-a206-88ccbd201507": {
+     "st": "not_started"
+    },
+    "dfdfffa6-1899-4e0e-8639-348f68085a61": {
+     "st": "not_started"
+    }
+   }
+  },
   "15125288-832f-44eb-8962-5104287636ee": {
    "ends": "2026-09-30T04:00:00+01:00",
    "name": "UCL Freshers Boat Party Afterparty #3 - fabric (Tuesday 29th!)",
@@ -164,6 +185,48 @@
     },
     "db499410-dd9f-4ac3-8663-3943a8a8a6ba": {
      "st": "sold_out"
+    }
+   }
+  },
+  "569e6da6-cdef-45c8-a051-e50c04902e22": {
+   "ends": "2026-10-07T03:35:00+01:00",
+   "name": "BRUNEL TAKEOVER MINISTRY OF SOUND -  PART 2 MILKSHAKE TAKEOVER",
+   "opts": {
+    "05b071af-eae3-40ac-84b2-137177e1bfbc": {
+     "st": "not_started"
+    },
+    "3e986a46-5793-4980-a9cc-a164c9ae18d5": {
+     "st": "not_started"
+    },
+    "6dd44cf8-1e10-425f-9f10-b6f8ea5fb47e": {
+     "st": "not_started"
+    },
+    "72805667-7f3f-43af-861b-9f749f75c64d": {
+     "st": "not_started"
+    },
+    "c87d65e2-b646-410b-bb27-0e462da72b12": {
+     "st": "not_started"
+    }
+   }
+  },
+  "638b49ec-74ca-4343-a1a6-5d0380fd327a": {
+   "ends": "2026-10-14T03:35:00+01:00",
+   "name": "SURREY TAKOVER MILKSHAKE @MINISTRY OF SOUND TAKEOVER ",
+   "opts": {
+    "263fdf67-a721-4e22-b8e1-474afdd631b3": {
+     "st": "not_started"
+    },
+    "5e50c202-271e-4da4-9af2-6fe3138ee939": {
+     "st": "not_started"
+    },
+    "b99f8bf4-c4d3-4746-a9eb-37167ffb9e0f": {
+     "st": "not_started"
+    },
+    "e0697fb6-a526-4d1e-8cf6-8f6105718249": {
+     "st": "not_started"
+    },
+    "fb49d45f-c48e-4970-a09a-529a470e09f8": {
+     "st": "not_started"
     }
    }
   },
