@@ -113,65 +113,6 @@
     }
    }
   },
-  "2fc4ba51-3a0d-47ba-8e46-7f733da2d423": {
-   "ends": "2026-09-29T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS FESTIVAL @ FABRIC! HUGE LINE-UP TO BE CONFIRMED \ud83c\udf89 LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "4d89b6d8-6c99-4c98-a5ec-ed07676fa310": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "8cc3bc11-6201-4ff4-9144-588e21ee078e": {
-     "notified_at": "2026-09-28T00:47:04.758125+00:00",
-     "st": "available"
-    },
-    "8f77cdb7-5100-4374-8857-69d06809ea16": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "9ce15838-5608-4355-9593-34421a7ed79c": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "caf1d5e1-2e93-408a-9434-cc615119a314": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "f7c72c96-9d50-440f-8e4f-04229100364d": {
-     "st": "sold_out"
-    },
-    "ff987456-00ad-4441-a713-e8415ea3669e": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
-  "3146c6c2-8fce-4849-9012-1cb4ba4a036b": {
-   "ends": "2026-09-29T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS FESTIVAL @ FABRIC FT HUGE LINEUP! - KCL FRESHERS WEEK 2026",
-   "opts": {
-    "0dc7a218-91eb-436a-90cb-07367dd1d29b": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    },
-    "2f4f2980-d188-4733-9076-2de7dd63ddf1": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    },
-    "6d21d5ea-3c2d-4a42-8975-64175bcea36f": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    },
-    "80ec903c-5344-4a8f-ad39-fcb9c43c7af0": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    },
-    "fe769e54-30c4-476f-9daa-f7d7cd206917": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "3425d80e-8d56-48dd-aaef-7abee8055417": {
    "ends": "2026-10-02T04:00:00+01:00",
    "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC!  - LONDON FRESHERS WEEK 2026",
@@ -282,40 +223,6 @@
     }
    }
   },
-  "8f38ad2f-c17e-46f8-ae4a-afde15a79bc6": {
-   "ends": "2026-09-29T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS FESTIVAL @ FABRIC! HUGE LINE-UP TO BE CONFIRMED \ud83c\udf89 LONDON FRESHERS WEEK 2026 [WEEK 3]",
-   "opts": {
-    "024fdc7c-3bbe-43d6-be51-b4d45b99e559": {
-     "notified_at": "2026-08-15T09:43:11.305899+00:00",
-     "st": "sold_out"
-    },
-    "093ab950-d52e-4139-b2ed-69d7b460381f": {
-     "notified_at": "2026-08-15T09:43:11.305899+00:00",
-     "st": "sold_out"
-    },
-    "143968c5-e797-4a51-bbe7-17aaa176c734": {
-     "notified_at": "2026-08-15T09:43:11.305899+00:00",
-     "st": "sold_out"
-    },
-    "4b21fa31-38ba-4459-bfe3-82ca037de441": {
-     "notified_at": "2026-08-15T09:43:11.305899+00:00",
-     "st": "sold_out"
-    },
-    "60baa984-6841-47f5-87ee-4b46a7e05190": {
-     "notified_at": "2026-08-15T09:43:11.305899+00:00",
-     "st": "sold_out"
-    },
-    "91ccec15-63f4-4376-a2a3-68c9f5938f22": {
-     "notified_at": "2026-08-15T09:43:11.305899+00:00",
-     "st": "sold_out"
-    },
-    "ff6f7eac-f73d-477d-9f86-a2a1ce4835be": {
-     "notified_at": "2026-09-28T00:47:04.758125+00:00",
-     "st": "available"
-    }
-   }
-  },
   "923f6f7b-0ca6-47ed-a9a8-e9a6d27ffb7a": {
    "ends": "2026-10-30T04:00:00+00:00",
    "name": "The Halloween Rave at Fabric! Halloween 2026 \ud83c\udfc6",
@@ -404,40 +311,6 @@
     "d6429883-cc82-4e13-a545-7c65b1a059d1": {
      "notified_at": "2026-08-11T15:12:21.487977+00:00",
      "st": "available"
-    }
-   }
-  },
-  "d4887631-a0ee-480c-b094-62dc6ea152be": {
-   "ends": "2026-09-29T04:00:00+01:00",
-   "name": "THE LONDON FRESHERS FESTIVAL @ FABRIC! HUGE LINE-UP TO BE CONFIRMED \ud83c\udf89 LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "27c458d8-c0ab-4756-9655-80fa756b731c": {
-     "notified_at": "2026-08-22T07:53:13.131739+00:00",
-     "st": "sold_out"
-    },
-    "3c9ca2b3-72b0-4c45-aefb-9a3718e70e0f": {
-     "notified_at": "2026-09-28T00:47:04.758125+00:00",
-     "st": "available"
-    },
-    "4d427642-064e-4c1f-ad68-b06733d7cd23": {
-     "notified_at": "2026-08-22T07:53:13.131739+00:00",
-     "st": "sold_out"
-    },
-    "50c4d1d2-956d-4b98-afbf-14cad16a0c69": {
-     "notified_at": "2026-08-22T07:53:13.131739+00:00",
-     "st": "sold_out"
-    },
-    "74cbf8b7-ff66-453d-9961-b055aaeaf8fd": {
-     "notified_at": "2026-08-22T07:53:13.131739+00:00",
-     "st": "sold_out"
-    },
-    "e2f9e4ac-6151-4499-85b1-91e5c33ac2f3": {
-     "notified_at": "2026-08-22T07:53:13.131739+00:00",
-     "st": "sold_out"
-    },
-    "f6e330d9-0b0a-4f09-a869-dea35fe7f5af": {
-     "notified_at": "2026-08-22T07:53:13.131739+00:00",
-     "st": "sold_out"
     }
    }
   },
