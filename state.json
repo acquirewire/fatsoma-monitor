@@ -51,43 +51,6 @@
     }
    }
   },
-  "15125288-832f-44eb-8962-5104287636ee": {
-   "ends": "2026-09-30T04:00:00+01:00",
-   "name": "UCL Freshers Boat Party Afterparty #3 - fabric (Tuesday 29th!)",
-   "opts": {
-    "86d7ee8d-44ea-46e3-869a-c4510d96edaa": {
-     "notified_at": "2026-09-18T19:56:52.128676+00:00",
-     "st": "sold_out"
-    },
-    "ad1797d3-134f-4ae0-83c6-23615ec14772": {
-     "notified_at": "2026-07-21T12:50:14.610050+00:00",
-     "st": "sold_out"
-    },
-    "df2df964-82b3-40a8-a3cc-e8903cfea84c": {
-     "notified_at": "2026-07-21T12:50:14.610050+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
-  "181cc3da-f317-41e9-89c9-749daa947312": {
-   "ends": "2026-09-30T04:00:00+01:00",
-   "name": "The UCL Freshers Rave 2026 at fabric \ud83d\udd0a",
-   "opts": {
-    "31781403-3845-4645-9492-887d07ffaea2": {
-     "st": "sold_out"
-    },
-    "7c7f3b7c-4e99-4be1-b5e5-49efd0826272": {
-     "notified_at": "2026-09-28T20:16:13.996025+00:00",
-     "st": "sold_out"
-    },
-    "86db7cfe-0e2c-4ff2-bcea-49db0e31d068": {
-     "st": "sold_out"
-    },
-    "af43f39d-229b-41bb-a5b1-e971295b96ae": {
-     "st": "sold_out"
-    }
-   }
-  },
   "2e0a8bcc-0d12-4ce1-81df-863208a481e0": {
    "ends": "2026-10-07T04:00:00+01:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 October 6th 2026 \ud83c\udf0d ",
@@ -318,35 +281,6 @@
      "st": "sold_out"
     },
     "ddf431d9-abfa-4278-a792-0d2bcb6475be": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "a85b6cd3-f1b1-4f6e-92b8-fde65846c57c": {
-   "ends": "2026-09-30T04:00:00+01:00",
-   "name": "Ministry of Sound, Milkshake - Official London Freshers Launch \ud83c\udf0d PART 3 \ud83d\udd25 \ud83d\udc40",
-   "opts": {
-    "305cde1b-8d4a-4e6f-b5cf-deaec1680ab6": {
-     "st": "sold_out"
-    },
-    "4da9bdde-0748-4f18-86a1-57aca8f03158": {
-     "notified_at": "2026-09-24T00:35:13.912023+00:00",
-     "st": "available"
-    },
-    "61009e45-78bf-4194-9b34-16443e48237e": {
-     "notified_at": "2026-09-24T00:35:13.912023+00:00",
-     "st": "sold_out"
-    },
-    "756beb62-31a1-445b-96e2-decdf79680ee": {
-     "st": "sold_out"
-    },
-    "b0b5bf6f-ccb2-419a-be39-d49f591bc8ac": {
-     "st": "sold_out"
-    },
-    "bb743cf4-e63e-4e11-bbdf-63cda6799e6e": {
-     "st": "sold_out"
-    },
-    "edccb7d3-8cd3-4334-9101-3841baf530ee": {
      "st": "sold_out"
     }
    }
