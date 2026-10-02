@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Fatsoma ticket-drop monitor.
 
-Polls the Fatsoma JSON API for watched events (Ministry of Sound Tuesdays,
-fabric student nights), detects when a "normal" (non-VIP, non-table) ticket
-option becomes available, and posts a Discord webhook notification with the
-cheapest available option, date, title and link.
+Polls the Fatsoma JSON API for the watches in config.json, detects when a
+"normal" (non-VIP, non-table) ticket option becomes available, and posts a
+Discord webhook notification with the cheapest available option, date, title
+and link.
 
 State is kept in state.json so only *transitions* to available trigger a
 notification (new releases and re-releases included). First ever run just
@@ -13,6 +13,7 @@ baselines current availability without notifying.
 Stdlib only - no dependencies.
 """
 
+import gzip
 import json
 import os
 import re
@@ -27,6 +28,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 CONFIG_PATH = ROOT / "config.json"
 STATE_PATH = ROOT / "state.json"
+RUNTIME_PATH = ROOT / ".runtime.json"
 
 API_BASE = "https://api.fatsoma.com/v1"
 USER_AGENT = (
@@ -50,20 +52,36 @@ def api_get(path, params):
     url = f"{API_BASE}/{path}?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(
         url,
-        headers={"Accept": "application/vnd.api+json", "User-Agent": USER_AGENT},
+        headers={
+            "Accept": "application/vnd.api+json",
+            "Accept-Encoding": "gzip",
+            "User-Agent": USER_AGENT,
+        },
     )
     last_err = None
     for attempt in range(3):
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
-                return json.load(resp)
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
+                body = resp.read()
+                if resp.headers.get("Content-Encoding") == "gzip":
+                    body = gzip.decompress(body)
+                return json.loads(body)
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, OSError) as e:
             last_err = e
             time.sleep(2 * (attempt + 1))
     raise RuntimeError(f"API request failed after retries: {url}: {last_err}")
 
 
-def fetch_event_pages(extra_filters):
+# Sparse fieldsets: event descriptions dominate the payload otherwise. Must
+# list every attribute the code reads from these types.
+SPARSE_FIELDS = {
+    "fields[events]": "name,starts-at,ends-at,vanity-name,seo-name",
+    "fields[locations]": "name,city,postal-code",
+    "fields[pages]": "name",
+}
+
+
+def fetch_event_pages(extra_filters, max_pages=5):
     """Fetch all pages of /v1/events for the given filters.
 
     Returns (events, included_index) where included_index maps
@@ -72,7 +90,7 @@ def fetch_event_pages(extra_filters):
     events, index = [], {}
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
     page = 1
-    while page <= 5:
+    while page <= max_pages:
         params = {
             "filter[status]": "active",
             "filter[ends-at][gte]": now_iso,
@@ -80,6 +98,7 @@ def fetch_event_pages(extra_filters):
             "page[number]": str(page),
             "page[size]": "52",
             "sort": "starts-at-day,relevance",
+            **SPARSE_FIELDS,
         }
         params.update(extra_filters)
         data = api_get("events", params)
@@ -94,23 +113,29 @@ def fetch_event_pages(extra_filters):
 
 
 def fetch_all_sources(watch):
-    """Collect events for a watch from its page ids and search queries."""
+    """Collect events for a watch from its page ids and search queries.
+
+    Returns (events, index, complete) — complete is False if any source failed.
+    """
     all_events, index = {}, {}
+    complete = True
     sources = []
     for pid in watch.get("page_ids", []):
         sources.append({"filter[page.id]": pid})
     for q in watch.get("queries", []):
         sources.append({"filter[query]": q})
     for flt in sources:
+        flt.update(watch.get("extra_filters", {}))
         try:
-            events, inc = fetch_event_pages(flt)
+            events, inc = fetch_event_pages(flt, watch.get("max_pages", 5))
         except RuntimeError as e:
             log(f"WARN: source {flt} failed: {e}")
+            complete = False
             continue
         for ev in events:
             all_events[ev["id"]] = ev
         index.update(inc)
-    return list(all_events.values()), index
+    return list(all_events.values()), index, complete
 
 
 # ------------------------------------------------------------- event parsing
@@ -126,11 +151,17 @@ def event_matches_watch(event, index, watch):
     venue = (loc.get("name") or "").strip()
     postcode = (loc.get("postal-code") or "").replace(" ", "").upper()
 
+    city = (loc.get("city") or "").strip()
     venue_patterns = watch.get("venue_patterns", [])
     venue_postcodes = watch.get("venue_postcodes", [])
-    if venue_patterns or venue_postcodes:
-        venue_ok = any(re.search(p, venue, re.IGNORECASE) for p in venue_patterns) or any(
-            pc.replace(" ", "").upper() == postcode for pc in venue_postcodes
+    city_patterns = watch.get("city_patterns", [])
+    postcode_patterns = watch.get("postcode_patterns", [])
+    if venue_patterns or venue_postcodes or city_patterns or postcode_patterns:
+        venue_ok = (
+            any(re.search(p, venue, re.IGNORECASE) for p in venue_patterns)
+            or any(pc.replace(" ", "").upper() == postcode for pc in venue_postcodes)
+            or any(re.search(p, city, re.IGNORECASE) for p in city_patterns)
+            or any(re.search(p, postcode, re.IGNORECASE) for p in postcode_patterns)
         )
         if not venue_ok:
             return False
@@ -198,10 +229,13 @@ def event_url(attrs):
 
 # ------------------------------------------------------------------- Discord
 
-def send_discord(webhook, content, embeds):
-    """Post embeds to the webhook, 5 per message, honouring rate limits."""
-    for i in range(0, len(embeds), 5):
-        payload = {"embeds": embeds[i : i + 5], "allowed_mentions": {"parse": ["everyone"]}}
+def send_discord(webhook, content, embeds, per_message=5):
+    """Post embeds to the webhook, a few per message, honouring rate limits."""
+    for i in range(0, len(embeds), per_message):
+        payload = {
+            "embeds": embeds[i : i + per_message],
+            "allowed_mentions": {"parse": ["everyone"]},
+        }
         if content and i == 0:
             payload["content"] = content
         body = json.dumps(payload).encode()
@@ -222,6 +256,67 @@ def send_discord(webhook, content, embeds):
                     continue
                 raise
         time.sleep(0.5)
+
+
+def build_digest(watch, rows):
+    """One-off overview embeds for a newly added watch.
+
+    rows: (event, index, cheapest_opt). Reseller copies of the same night
+    (same venue and start time) collapse into one line linking the cheapest.
+    """
+    nights = {}
+    for event, index, cheapest in rows:
+        attrs = event["attributes"]
+        loc = index.get(("locations", rel_id(event, "location")), {})
+        venue_key = (loc.get("postal-code") or loc.get("name") or "?").replace(" ", "").lower()
+        key = (venue_key, attrs["starts-at"][:16])
+        entry = {"attrs": attrs, "venue": loc.get("name") or "?", "opt": cheapest}
+        group = nights.setdefault(key, [])
+        group.append(entry)
+
+    lines, last_day = [], None
+    best_per_night = [
+        (min(g, key=lambda e: per_person_price(e["opt"])), len(g)) for g in nights.values()
+    ]
+    ordered = sorted(
+        best_per_night,
+        key=lambda t: (t[0]["attrs"]["starts-at"][:10], per_person_price(t[0]["opt"])),
+    )
+    for best, n in ordered:
+        attrs = best["attrs"]
+        day = datetime.fromisoformat(attrs["starts-at"]).strftime("%a %d %b")
+        if day != last_day:
+            lines.append(f"\n**{day}**")
+            last_day = day
+        title = re.sub(r"\s+", " ", attrs["name"]).strip()
+        if len(title) > 48:
+            title = title[:47].rstrip() + "…"
+        extra = f" (+{n - 1} sellers)" if n > 1 else ""
+        lines.append(
+            f"`£{per_person_price(best['opt']):.2f}` [{title}](https://www.fatsoma.com/e/{attrs['vanity-name']})"
+            f" · {best['venue'][:22]}{extra}"
+        )
+
+    embeds, chunk = [], []
+    for line in lines:
+        if sum(len(x) + 1 for x in chunk) + len(line) > 3900:
+            embeds.append(chunk)
+            chunk = [line] if not line.startswith("\n") else [line.lstrip("\n")]
+        else:
+            chunk.append(line)
+    if chunk:
+        embeds.append(chunk)
+    out = []
+    for i, c in enumerate(embeds):
+        embed = {
+            "description": "\n".join(c).strip(),
+            "color": 0xF28C28,
+            "footer": {"text": "Cheapest normal ticket incl. fee · from now on only new drops are alerted"},
+        }
+        if i == 0:
+            embed["title"] = f"{watch['name']} — on sale now ({len(ordered)} nights)"
+        out.append(embed)
+    return out
 
 
 def build_embed(event, index, watch, triggered, cheapest, is_first_sight):
@@ -293,6 +388,20 @@ def save_state(state):
     STATE_PATH.write_text(json.dumps(state, indent=1, sort_keys=True), encoding="utf-8")
 
 
+# Per-watch last-sweep times live outside state.json so throttled watches
+# don't produce a commit every sweep. Lost on job handoff, which just means
+# the successor sweeps everything once immediately.
+def load_runtime():
+    try:
+        return json.loads(RUNTIME_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
+def save_runtime(runtime):
+    RUNTIME_PATH.write_text(json.dumps(runtime), encoding="utf-8")
+
+
 # ---------------------------------------------------------------------- main
 
 def run(test_mode=False):
@@ -303,12 +412,32 @@ def run(test_mode=False):
     cooldown = timedelta(hours=cfg.get("renotify_cooldown_hours", 6))
     now = datetime.now(timezone.utc)
 
-    embeds, test_embeds = [], []
+    embeds, test_embeds, digests = [], [], []
+    baselined = set(state.get("baselined_watches", []))
+    runtime = load_runtime()
 
     for watch in cfg["watches"]:
-        events, index = fetch_all_sources(watch)
+        name = watch["name"]
+        until = watch.get("active_until")
+        if until and now.date() > datetime.fromisoformat(until).date():
+            continue
+        interval = timedelta(minutes=watch.get("min_interval_minutes", 0))
+        last = runtime.get(name)
+        if not test_mode and last and now - datetime.fromisoformat(last) < interval - timedelta(seconds=20):
+            continue
+
+        events, index, complete = fetch_all_sources(watch)
+        # A big new watch would fire an alert per listing on its first sweep,
+        # so it baselines silently and posts one digest instead.
+        silent = bool(watch.get("silent_baseline")) and name not in baselined and not test_mode
+        if silent and not complete:
+            log(f"watch '{name}': incomplete sweep, deferring baseline")
+            continue
+        runtime[name] = now.isoformat()
+        digest_rows = []
+
         matched = [e for e in events if event_matches_watch(e, index, watch)]
-        log(f"watch '{watch['name']}': {len(events)} fetched, {len(matched)} match")
+        log(f"watch '{name}': {len(events)} fetched, {len(matched)} match")
 
         for event in matched:
             attrs = event["attributes"]
@@ -342,12 +471,14 @@ def run(test_mode=False):
                     notified_at is None
                     or now - datetime.fromisoformat(notified_at) > cooldown
                 )
-                if avail and not was_avail and cool_ok and not first_run:
+                if avail and not was_avail and cool_ok and not first_run and not silent:
                     triggered.append(opt)
                     prev["notified_at"] = now.isoformat()
                 prev["st"] = "available" if avail else (opt.get("on-sale-status") or "unknown")
                 ev_state["opts"][oid] = prev
 
+            if silent and cheapest is not None:
+                digest_rows.append((event, index, cheapest))
             if triggered:
                 name_ascii = attrs["name"].encode("ascii", "replace").decode()
                 log(f"  DROP: {name_ascii[:70]} ({len(triggered)} option(s))")
@@ -359,8 +490,23 @@ def run(test_mode=False):
                     build_embed(event, index, watch, [o for _, o in available], cheapest, False)
                 )
 
+        if silent:
+            baselined.add(name)
+            log(f"watch '{name}': baselined {len(digest_rows)} on-sale listing(s) silently")
+            if digest_rows and not first_run:
+                digests.append(build_digest(watch, digest_rows))
+
     state["initialized"] = True
+    state["baselined_watches"] = sorted(baselined)
     save_state(state)
+    save_runtime(runtime)
+
+    for digest in digests:
+        if webhook:
+            send_discord(webhook, "\U0001f383 Now tracking a new watch — here's what's on sale", digest, per_message=1)
+            log(f"sent digest ({len(digest)} message(s))")
+        else:
+            log("WARN: digest pending but DISCORD_WEBHOOK_URL is not set")
 
     if first_run:
         log("first run: baselined current availability, no notifications sent")

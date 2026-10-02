@@ -6,6 +6,7 @@ private Discord channel when **normal** tickets drop or get re-released for:
 - **Ministry of Sound Tuesdays** (Milkshake student nights, Freshers launches, Halloween etc.)
 - **fabric student nights** (any seller listing an event at fabric, EC1M 6HJ)
 - **LSE AU Wednesday sports nights** (currently at XOYO London)
+- **London Halloween club nights** (any London venue, any seller; until 1 Nov)
 
 Each notification includes the event title, date, the **cheapest normal ticket**
 (price + booking fee, and the per-order cap), which options just became
@@ -31,6 +32,15 @@ cooldown stops cart-release flapping from spamming the channel.
 - LSE AU: fetches the `lseathleticsunion` page's events plus an `lse`
   search, then keeps **Wednesday** events whose title or seller matches
   `LSE … AU/sports/athletics`. No venue filter, so a venue move is still caught.
+- Halloween: sweeps the whole `halloween` search restricted to the "Club Nights"
+  category (~27 pages, every 5 min), then keeps events with a Halloween-ish
+  title whose venue city is London or postcode is in a London district. The
+  API has no area/city filter and the `halloween london` search misses half the
+  London listings (it doesn't search venue city), hence the full sweep. Its
+  first sweep baselines silently and posts one digest instead of ~150 alerts.
+
+API calls use gzip and sparse fieldsets (`SPARSE_FIELDS` in `monitor.py`) —
+~17× smaller payloads. Any new attribute the code reads must be added there.
 
 GitHub throttles `*/5` cron schedules to a few runs a day, so the workflow
 runs one ~5.5h job that polls in a loop and dispatches its own successor
@@ -60,6 +70,8 @@ with Discord dynamic timestamps.
 | `renotify_cooldown_hours` | Min hours before the same option can notify again |
 | `discord_mention` | Prefix for real alerts, e.g. `@everyone` (empty to disable pings) |
 | `exclude_ticket_name_patterns` | Case-insensitive regexes for ticket names to ignore |
-| `watches[]` | `page_ids` / `queries` are sources; `venue_patterns` / `venue_postcodes` / `name_patterns` (title + seller) / `weekdays` filter — each omitted filter is skipped |
+| `watches[]` | `page_ids` / `queries` are sources (`extra_filters` added to each, `max_pages` caps paging); `venue_patterns` / `venue_postcodes` / `city_patterns` / `postcode_patterns` (any match) plus `name_patterns` (title + seller) and `weekdays` filter — each omitted filter is skipped |
+| `min_interval_minutes` / `active_until` | Per-watch sweep throttle and expiry date |
+| `silent_baseline` | First sweep records current listings without alerting and posts one digest |
 
 Run locally with `python monitor.py` (add `--test` for a snapshot message).

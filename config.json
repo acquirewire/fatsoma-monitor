@@ -35,6 +35,18 @@
       "queries": ["lse"],
       "name_patterns": ["\\blse\\b.*\\b(au|sports?|athletics?)\\b"],
       "weekdays": ["wednesday"]
+    },
+    {
+      "name": "London Halloween club nights",
+      "queries": ["halloween"],
+      "extra_filters": {"filter[categories.id]": "b5e903ca-1c7f-4ab6-868a-a4f5cdc106c2"},
+      "max_pages": 40,
+      "min_interval_minutes": 5,
+      "active_until": "2026-11-01",
+      "silent_baseline": true,
+      "name_patterns": ["hallowe", "spook", "fright", "haunted", "trick.?or.?treat", "\\bscream", "horror"],
+      "city_patterns": ["^(city of |greater )?london$"],
+      "postcode_patterns": ["^(EC|WC|E|N|NW|SE|SW|W)\\d"]
     }
   ]
 }
