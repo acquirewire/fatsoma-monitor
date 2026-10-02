@@ -1,5 +1,6 @@
 {
  "baselined_watches": [
+  "Halloween at student clubs",
   "London Halloween club nights"
  ],
  "events": {
@@ -2686,7 +2687,7 @@
      "st": "available"
     },
     "25a664a4-d036-4d48-bd04-3bea1ad572e9": {
-     "st": "available"
+     "st": "sold_out"
     },
     "4aac2f1e-38a8-4ef6-af6a-82969da3f26b": {
      "st": "available"
@@ -2879,6 +2880,30 @@
    "name": " Halloween House Party Saturday 31st October London",
    "opts": {
     "e10b5978-7d1c-4933-bbb1-ae0bcf5b62e9": {
+     "st": "available"
+    }
+   }
+  },
+  "f17152ee-376b-4d8a-a48a-1f1a0eaee824": {
+   "ends": "2026-10-31T19:00:00+00:00",
+   "name": "BACK IN THE DAY BHANGRA : HALLOWEEN RAVE! | 31.10.26 | XOYO",
+   "opts": {
+    "009908f8-1851-4461-a828-582a2b95d4d3": {
+     "st": "available"
+    },
+    "110a5ce2-bd17-428b-93fe-2781581d5bcb": {
+     "st": "available"
+    },
+    "1f83853f-0c5f-4b98-a6c9-58801707f089": {
+     "st": "available"
+    },
+    "790f0be9-9b61-4ce2-a450-97c4cba12c04": {
+     "st": "available"
+    },
+    "be5bfc37-af82-4278-ade8-d3e9fbdcc146": {
+     "st": "available"
+    },
+    "c5bb89bd-29ae-4120-83f5-7128ed113b2a": {
      "st": "available"
     }
    }
