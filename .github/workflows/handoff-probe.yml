@@ -1,0 +1,11 @@
+name: handoff-probe
+on: workflow_dispatch
+permissions:
+  actions: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run monitor.yml --ref main --repo ${{ github.repository }}
