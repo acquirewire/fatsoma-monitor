@@ -95,6 +95,31 @@
     }
    }
   },
+  "0c707f0e-ddc5-4ff5-8258-9b95c9d8f89e": {
+   "ends": "2026-10-30T00:00:00+00:00",
+   "name": "TLACS Presents\u2026 TRICK OR TREAT: The Halloween Party!",
+   "opts": {
+    "49099898-1e74-4870-bd00-b78be268bcc4": {
+     "st": "not_started"
+    },
+    "4a3e3e16-dae6-4c3e-8629-0014a2462d05": {
+     "st": "not_started"
+    },
+    "4e8ec30e-679f-4303-bc0e-5ab25423d02d": {
+     "st": "not_started"
+    }
+   }
+  },
+  "0e3b6f2d-f57a-4f26-a201-8636e86e8d88": {
+   "ends": "2026-10-31T21:00:00+00:00",
+   "name": "UKG BINGO Sat 31st October London Halloween special",
+   "opts": {
+    "e4e62179-1e30-4d95-8494-0095ef815340": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "0f881029-5bd9-4f6e-9938-ec761c392ed9": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "BackOutside - MEDUSA HALLOWEEN SOIR\u00c9E",
@@ -243,6 +268,11 @@
      "st": "available"
     }
    }
+  },
+  "177dfc27-2a4d-474d-92a0-302d02d6d4bd": {
+   "ends": "2026-11-01T05:00:00+00:00",
+   "name": "Rave To The Grave at Egg London! Halloween 2026",
+   "opts": {}
   },
   "1936db2d-1434-4acb-aacc-0cfee5879895": {
    "ends": "2026-10-08T03:00:00+01:00",
@@ -994,6 +1024,16 @@
     }
    }
   },
+  "602b6742-aaec-49df-a34f-c64513dc3548": {
+   "ends": "2026-10-31T21:00:00+00:00",
+   "name": "UKG BINGO Sat 31st October London Halloween special",
+   "opts": {
+    "beaed597-0a6e-4df1-a00c-b7090d825ecf": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "62a95314-3835-4ebd-b772-b687473feb64": {
    "ends": "2026-10-31T23:00:00+00:00",
    "name": "BIGGEST HALLOWEEN BOAT REGGAETON PARTY BY I LOVE REGGAETON - SAT 31/10/26",
@@ -1263,6 +1303,27 @@
     }
    }
   },
+  "757cff99-ac8d-4fd9-a055-4c32bbaf6997": {
+   "ends": "2026-11-01T03:00:00+00:00",
+   "name": "Haunted Haveli Halloween Party",
+   "opts": {
+    "13390aab-3b85-446e-8d1a-78ca2a190f73": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "5dc235cc-879a-479d-a980-770c614040f6": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "ef12b490-0ab8-4d6b-b16b-d5a26ca380bc": {
+     "st": "not_started"
+    },
+    "f4c406e8-4bad-42db-b1fb-bf9534dbfd73": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "7638a59b-1a70-424e-a0a4-c86830ef8033": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "F*CK ME It's Halloween 2026 - The UK's Biggest Halloween Tour | Freshers 2026",
@@ -1320,6 +1381,16 @@
     "f693b50d-585e-4e13-994a-7be78ad8dfbe": {
      "notified_at": "2026-09-23T22:14:18.681767+00:00",
      "st": "sold_out"
+    }
+   }
+  },
+  "7852cb3f-a687-44eb-8aed-1a291cbb93a6": {
+   "ends": "2026-11-01T03:00:00+00:00",
+   "name": "Nightmare in Clapham Halloween Party",
+   "opts": {
+    "679b0835-2064-486d-a46d-07acee121f7a": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
     }
    }
   },
@@ -1604,6 +1675,16 @@
     }
    }
   },
+  "95cbc766-8a35-47a0-a589-6dd9a546591f": {
+   "ends": "2026-11-01T05:00:00+00:00",
+   "name": "Secret Halloween Warehouse Rave",
+   "opts": {
+    "af68d217-197c-4997-b4e1-12ac797b2305": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "9b4b904a-a1bb-4daa-8d81-bba2513eb779": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "SPOOKY LONDON - LONDON'S BIGGEST HALLOWEEN PARTY",
@@ -1770,6 +1851,19 @@
     }
    }
   },
+  "a84863e2-7271-4837-b6e7-246223320a74": {
+   "ends": "2026-11-01T03:00:00+00:00",
+   "name": "Nightmare in Clapham Halloween Party",
+   "opts": {
+    "063115a5-8dd6-4f87-9045-94d9d489e59f": {
+     "st": "sold_out"
+    },
+    "a503968a-304e-42fc-b545-153d9b0f440d": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "a8d5f239-a6a4-4038-8e4f-617feeec2a86": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "Nightmare in Clapham Halloween Party",
@@ -1870,6 +1964,30 @@
     }
    }
   },
+  "b1a6523d-190e-4ef5-9bb4-2c910cf6bd5a": {
+   "ends": "2026-11-01T05:00:00+00:00",
+   "name": "REGGAETON All Night Long - Halloween Special",
+   "opts": {
+    "73e812f3-4932-4c48-8ed6-a4864b6aa6aa": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
+  "b39a2687-cb40-4011-9cbb-991e27c57dcc": {
+   "ends": "2026-10-31T22:00:00+00:00",
+   "name": "Day Breaks Halloween Special Day Time Party",
+   "opts": {
+    "0d27549d-b805-4b36-b3be-db935777a7c7": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "711d3dbe-f8a2-4577-aec6-45ed7bb13e2c": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "b55af9f4-1e8d-46e4-8666-6b691727559b": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "Trick or Treat - London's Biggest Halloween Party Everyone Free Before 12AM",
@@ -1893,6 +2011,11 @@
      "st": "available"
     }
    }
+  },
+  "b732a71f-dc0c-406e-b14f-da4e045c72f6": {
+   "ends": "2026-11-01T05:00:00+00:00",
+   "name": "HAUNTED HOUSE | HALLOWEEN PARTY SAT 31ST OCTOBER",
+   "opts": {}
   },
   "ba1e08c0-558e-469f-8b8d-c678d93b0f6c": {
    "ends": "2026-10-31T05:00:00+00:00",
@@ -2271,6 +2394,28 @@
     }
    }
   },
+  "d658688e-38fb-4552-ae8b-cc6a0d5928bd": {
+   "ends": "2026-11-01T05:00:00+00:00",
+   "name": "CLIMAX HALLOWEEN COME BACK X-OVER EDITION!",
+   "opts": {
+    "74c28f34-1080-4ff2-ae41-48539d9f4716": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "759df507-8e39-4bce-97f4-6806968ce422": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "9c8d025b-0246-4c12-98fe-976a70c091fb": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "f89450e1-55fc-48bd-b2b9-eabd0f1a9d76": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "d67538ce-e45f-4679-9d1f-6d4a55045fdb": {
    "ends": "2026-10-31T20:00:00+00:00",
    "name": "BOLLYDAY OF THE DEAD! The UK's First Bollywood (Halloween) Daytimer!",
@@ -2390,6 +2535,27 @@
      "st": "not_started"
     },
     "e391b628-3993-469b-a846-a5b2b301f47a": {
+     "st": "available"
+    }
+   }
+  },
+  "dc0c7fec-210b-4914-a976-cee332f6493d": {
+   "ends": "2026-12-01T04:00:00+00:00",
+   "name": "The London Halloween Ball 2026 \ud83c\udf83 Live From Electric Brixton \ud83d\udd2e Tickets Out Now! ",
+   "opts": {
+    "0aff8974-acd4-4ede-87ce-39e6f681cbce": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "73027cf6-c872-4036-9406-810b597f3425": {
+     "st": "sold_out"
+    },
+    "73a2579a-0300-46b8-9478-5ae6e83e0cfa": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "bd9a679b-8fe2-408b-b1dc-106e56d6700b": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
      "st": "available"
     }
    }
@@ -2545,6 +2711,28 @@
     }
    }
   },
+  "e453c179-c66a-4164-b802-d84e6c18ff00": {
+   "ends": "2026-11-01T04:00:00+00:00",
+   "name": "HAUNTED LONDON- THE BIGGEST HALLOWEEN PARTY 1000+ Ravers",
+   "opts": {
+    "4daf4019-ac3b-4add-9f02-86536aad37d9": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "5093ab35-571a-4d1f-8e97-168dd235d39d": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "709582e8-9c75-4038-b6e3-369a167c1cdf": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "79dddf58-935f-4d81-9b35-461407ff080f": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "e52fc6f7-110c-4a61-b294-a454c5ff0344": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Halloween in London 2026 The Official & Complete Guide \ud83c\udf83 SIGN UP FOR UPDATES!",
@@ -2695,6 +2883,36 @@
     }
    }
   },
+  "f25ed98a-03dd-41d1-9fe8-bbcdb45aef46": {
+   "ends": "2026-10-31T03:00:00+00:00",
+   "name": "Greenwich University Halloween Party Friday 30th October",
+   "opts": {
+    "1e9aab40-ce48-484f-8861-9ede0867ebe5": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "2d5e80ad-4b1f-45f8-aa9c-eb6f853af966": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "9baf13ee-1b90-4f2c-86d7-53a877c70a0c": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "ab08cb8d-7bd5-4c3e-94cd-872b39fb7042": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "c2fb2b6f-ab4e-49c4-aab6-c48cfb41449e": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "f6457507-7165-4e12-bc48-cf739772c3b3": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
   "f474176f-48c8-4c91-bbdb-e6740b2767fe": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "CONGAS 31 OCTOBER* HALLOWEEN EDICI\u00d3N ",
@@ -2730,6 +2948,20 @@
      "st": "available"
     },
     "f9e980c7-6ce4-4fe5-a29e-40b13ab03931": {
+     "st": "available"
+    }
+   }
+  },
+  "f5000f1f-932a-4743-b8ed-7e9fe4ac178e": {
+   "ends": "2026-11-01T03:00:00+00:00",
+   "name": "Halloween Pub Crawl Shoreditch",
+   "opts": {
+    "28656d6d-389a-41f2-b815-c015381cacb7": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    },
+    "59fae36f-a078-4f46-99b2-b0f5873336e2": {
+     "notified_at": "2026-10-02T18:46:57.905958+00:00",
      "st": "available"
     }
    }
