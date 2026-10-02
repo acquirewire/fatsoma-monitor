@@ -81,12 +81,23 @@ SPARSE_FIELDS = {
 }
 
 
-def fetch_event_pages(extra_filters, max_pages=5):
+_FETCH_CACHE = {}
+
+
+def fetch_event_pages(extra_filters, max_pages=8):
     """Fetch all pages of /v1/events for the given filters.
 
     Returns (events, included_index) where included_index maps
     (type, id) -> attributes for pages/locations/ticket-options.
+    Memoised per process, so watches sharing a query fetch it once per run.
     """
+    key = (tuple(sorted(extra_filters.items())), max_pages)
+    if key not in _FETCH_CACHE:
+        _FETCH_CACHE[key] = _fetch_event_pages(extra_filters, max_pages)
+    return _FETCH_CACHE[key]
+
+
+def _fetch_event_pages(extra_filters, max_pages):
     events, index = [], {}
     now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
     page = 1
@@ -127,7 +138,7 @@ def fetch_all_sources(watch):
     for flt in sources:
         flt.update(watch.get("extra_filters", {}))
         try:
-            events, inc = fetch_event_pages(flt, watch.get("max_pages", 5))
+            events, inc = fetch_event_pages(flt, watch.get("max_pages", 8))
         except RuntimeError as e:
             log(f"WARN: source {flt} failed: {e}")
             complete = False

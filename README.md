@@ -6,7 +6,8 @@ private Discord channel when **normal** tickets drop or get re-released for:
 - **Ministry of Sound Tuesdays** (Milkshake student nights, Freshers launches, Halloween etc.)
 - **fabric student nights** (any seller listing an event at fabric, EC1M 6HJ)
 - **LSE AU Wednesday sports nights** (currently at XOYO London)
-- **London Halloween club nights** (any London venue, any seller; until 1 Nov)
+- **Halloween at student clubs** — Egg, Studio 338, Electric Ballroom, The
+  Steel Yard, XOYO, Ministry of Sound, fabric (any seller; until 1 Nov)
 
 Each notification includes the event title, date, the **cheapest normal ticket**
 (price + booking fee, and the per-order cap), which options just became
@@ -32,12 +33,16 @@ cooldown stops cart-release flapping from spamming the channel.
 - LSE AU: fetches the `lseathleticsunion` page's events plus an `lse`
   search, then keeps **Wednesday** events whose title or seller matches
   `LSE … AU/sports/athletics`. No venue filter, so a venue move is still caught.
-- Halloween: sweeps the whole `halloween` search restricted to the "Club Nights"
-  category (~27 pages, every 5 min), then keeps events with a Halloween-ish
-  title whose venue city is London or postcode is in a London district. The
-  API has no area/city filter and the `halloween london` search misses half the
-  London listings (it doesn't search venue city), hence the full sweep. Its
-  first sweep baselines silently and posts one digest instead of ~150 alerts.
+- Halloween: searches each club by name (`egg`, `studio 338`, …), then keeps
+  events at the clubs' exact postcodes (or London-specific venue names, which
+  excludes XOYO Birmingham) with a Halloween-ish title. Venue-name searches
+  matched 43/43 Halloween listings a full nationwide `halloween` sweep found;
+  `<venue> halloween` searches missed 9. Its first sweep baselines silently and
+  posts one digest instead of an alert per listing.
+
+Watches sharing a query (e.g. `ministry of sound`) fetch it once per check.
+`city_patterns` / `postcode_patterns` and `min_interval_minutes` remain
+available for wide watches like a London-wide sweep.
 
 API calls use gzip and sparse fieldsets (`SPARSE_FIELDS` in `monitor.py`) —
 ~17× smaller payloads. Any new attribute the code reads must be added there.

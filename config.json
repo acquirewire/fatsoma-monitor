@@ -37,16 +37,13 @@
       "weekdays": ["wednesday"]
     },
     {
-      "name": "London Halloween club nights",
-      "queries": ["halloween"],
-      "extra_filters": {"filter[categories.id]": "b5e903ca-1c7f-4ab6-868a-a4f5cdc106c2"},
-      "max_pages": 40,
-      "min_interval_minutes": 5,
+      "name": "Halloween at student clubs",
+      "queries": ["egg", "studio 338", "electric ballroom", "steel yard", "xoyo", "ministry of sound", "fabric"],
       "active_until": "2026-11-01",
       "silent_baseline": true,
       "name_patterns": ["hallowe", "spook", "fright", "haunted", "trick.?or.?treat", "\\bscream", "horror"],
-      "city_patterns": ["^(city of |greater )?london$"],
-      "postcode_patterns": ["^(EC|WC|E|N|NW|SE|SW|W)\\d"]
+      "venue_postcodes": ["NW1 8QP", "SE10 0PF", "N7 9AP", "EC4R 3UE", "SE1 6DP", "EC1M 6HJ", "EC2A 4AP"],
+      "venue_patterns": ["electric ballroom", "studio\\s*338", "\\begg (london|ldn)\\b", "the steel\\s*yard", "ministry of sound", "fabric london", "xoyo london"]
     }
   ]
 }
