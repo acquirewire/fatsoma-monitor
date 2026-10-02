@@ -1,15 +1,16 @@
 # fatsoma-monitor
 
-Watches Fatsoma 24/7 via GitHub Actions (cron every 5 min, 3 checks per run —
-effective cadence ~1.5-2 min) and posts to a private Discord channel when
-**normal** tickets drop or get re-released for:
+Watches Fatsoma 24/7 via GitHub Actions (polls every 60s) and posts to a
+private Discord channel when **normal** tickets drop or get re-released for:
 
 - **Ministry of Sound Tuesdays** (Milkshake student nights, Freshers launches, Halloween etc.)
 - **fabric student nights** (any seller listing an event at fabric, EC1M 6HJ)
+- **LSE AU Wednesday sports nights** (currently at XOYO London)
 
 Each notification includes the event title, date, the **cheapest normal ticket**
-(price + booking fee, and how many are left), which options just became
-available, the seller, and a direct link.
+(price + booking fee, and the per-order cap), which options just became
+available, the seller, and a direct link. Fatsoma's `amount-available` is
+capped at `max-per-order`, so it is *not* remaining stock.
 
 VIP tables, booths, queue jumps, bottle packages and anything over
 `max_price_per_person_gbp` (default £30/head, bundles normalised per person)
@@ -27,6 +28,15 @@ cooldown stops cart-release flapping from spamming the channel.
 - fabric: searches `fabric` and keeps events whose venue matches
   `\bfabric\b` or postcode **EC1M 6HJ** — sellers each create their own copy
   of the venue record, so this catches all of them.
+- LSE AU: fetches the `lseathleticsunion` page's events plus an `lse`
+  search, then keeps **Wednesday** events whose title or seller matches
+  `LSE … AU/sports/athletics`. No venue filter, so a venue move is still caught.
+
+GitHub throttles `*/5` cron schedules to a few runs a day, so the workflow
+runs one ~5.5h job that polls in a loop and dispatches its own successor
+before ending (it waits as a pending run in the same concurrency group). An
+hourly cron restarts the chain if a handoff is ever lost. Each loop iteration
+`git pull`s, so config/code pushes take effect within a minute.
 
 Per-ticket-option availability is tracked in `state.json` (committed back by
 the workflow). Only transitions **to** available notify — the first run just
@@ -50,6 +60,6 @@ with Discord dynamic timestamps.
 | `renotify_cooldown_hours` | Min hours before the same option can notify again |
 | `discord_mention` | Prefix for real alerts, e.g. `@everyone` (empty to disable pings) |
 | `exclude_ticket_name_patterns` | Case-insensitive regexes for ticket names to ignore |
-| `watches[]` | `page_ids` / `queries` are sources; `venue_patterns` / `venue_postcodes` / `weekdays` filter |
+| `watches[]` | `page_ids` / `queries` are sources; `venue_patterns` / `venue_postcodes` / `name_patterns` (title + seller) / `weekdays` filter — each omitted filter is skipped |
 
 Run locally with `python monitor.py` (add `--test` for a snapshot message).

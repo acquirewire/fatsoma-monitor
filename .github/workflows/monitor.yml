@@ -1,8 +1,13 @@
 name: fatsoma-monitor
 
+# GitHub throttles frequent cron schedules to a few runs a day, so instead one
+# long-lived job polls every 60s for ~5.5h and dispatches its own successor
+# shortly before it ends. The successor waits as a pending run in the same
+# concurrency group and starts the moment this one finishes. The hourly cron
+# only restarts the chain if a handoff is ever lost.
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
     inputs:
       test:
@@ -12,15 +17,16 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
-  group: monitor
+  group: ${{ inputs.test && 'test' || 'monitor' }}
   cancel-in-progress: false
 
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
 
@@ -28,30 +34,36 @@ jobs:
         with:
           python-version: "3.12"
 
-      # GitHub's cron floor is 5 minutes, so each job polls 3x ~100s apart
-      # for an effective cadence of ~1.5-2 min. State is pushed after any
-      # iteration that saw a change so a mid-job failure can't re-notify.
-      - name: Run monitor
+      # Test runs don't commit state, so they can't clobber the live loop's
+      - name: Test notification
+        if: ${{ inputs.test }}
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python monitor.py --test
+
+      - name: Poll loop
+        if: ${{ !inputs.test }}
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "fatsoma-monitor[bot]"
           git config user.email "actions@users.noreply.github.com"
-          commit_state() {
+          end=$(( $(date +%s) + 330 * 60 ))
+          handed_off=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            started=$(date +%s)
+            # Picks up config/code pushes within a minute, no restart needed
+            git pull -q --rebase origin main || { git rebase --abort 2>/dev/null; true; }
+            python monitor.py || echo "monitor run failed, continuing"
             git add state.json
             if ! git diff --cached --quiet; then
-              git commit -m "update state"
-              git pull --rebase origin main
-              git push
+              git commit -q -m "update state"
+              { git pull -q --rebase origin main && git push -q; } || echo "push failed, retrying next loop"
             fi
-          }
-          if [ "${{ inputs.test }}" = "true" ]; then
-            python monitor.py --test
-            commit_state
-          else
-            for i in 1 2 3; do
-              python monitor.py
-              commit_state
-              if [ "$i" -lt 3 ]; then sleep 100; fi
-            done
-          fi
+            if [ "$handed_off" -eq 0 ] && [ $(( end - $(date +%s) )) -lt 600 ]; then
+              gh workflow run monitor.yml --ref main && handed_off=1
+            fi
+            elapsed=$(( $(date +%s) - started ))
+            sleep $(( elapsed < 55 ? 60 - elapsed : 5 ))
+          done

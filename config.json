@@ -28,6 +28,13 @@
       "venue_patterns": ["\\bfabric\\b"],
       "venue_postcodes": ["EC1M 6HJ"],
       "weekdays": []
+    },
+    {
+      "name": "LSE AU Sports Night (XOYO)",
+      "page_ids": ["5e06bd91-dde6-428d-ae40-69bde22b147b"],
+      "queries": ["lse"],
+      "name_patterns": ["\\blse\\b.*\\b(au|sports?|athletics?)\\b"],
+      "weekdays": ["wednesday"]
     }
   ]
 }

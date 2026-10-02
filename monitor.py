@@ -126,15 +126,21 @@ def event_matches_watch(event, index, watch):
     venue = (loc.get("name") or "").strip()
     postcode = (loc.get("postal-code") or "").replace(" ", "").upper()
 
-    venue_ok = False
-    for pat in watch.get("venue_patterns", []):
-        if re.search(pat, venue, re.IGNORECASE):
-            venue_ok = True
-    for pc in watch.get("venue_postcodes", []):
-        if pc.replace(" ", "").upper() == postcode:
-            venue_ok = True
-    if not venue_ok:
-        return False
+    venue_patterns = watch.get("venue_patterns", [])
+    venue_postcodes = watch.get("venue_postcodes", [])
+    if venue_patterns or venue_postcodes:
+        venue_ok = any(re.search(p, venue, re.IGNORECASE) for p in venue_patterns) or any(
+            pc.replace(" ", "").upper() == postcode for pc in venue_postcodes
+        )
+        if not venue_ok:
+            return False
+
+    name_patterns = watch.get("name_patterns", [])
+    if name_patterns:
+        seller = index.get(("pages", rel_id(event, "page")), {})
+        haystack = f"{attrs['name']} | {seller.get('name') or ''}"
+        if not any(re.search(p, haystack, re.IGNORECASE) for p in name_patterns):
+            return False
 
     weekdays = [w.lower() for w in watch.get("weekdays", [])]
     if weekdays:
@@ -225,16 +231,17 @@ def build_embed(event, index, watch, triggered, cheapest, is_first_sight):
     starts = datetime.fromisoformat(attrs["starts-at"])
     unix = int(starts.timestamp())
 
+    # amount-available is capped at max-per-order, not remaining stock
     lines = []
     for opt in triggered[:8]:
-        left = opt.get("amount-available")
-        left_s = f" — {left} left" if left is not None else ""
+        cap = opt.get("amount-available")
+        left_s = f" · max {cap}/order" if cap is not None else ""
         lines.append(f"• **{opt.get('name', '?').strip()}** — {fmt_price(opt)}{left_s}")
 
     cheapest_line = "—"
     if cheapest is not None:
-        left = cheapest.get("amount-available")
-        left_s = f" — {left} left" if left is not None else ""
+        cap = cheapest.get("amount-available")
+        left_s = f" · max {cap}/order" if cap is not None else ""
         cheapest_line = f"**{fmt_price(cheapest)}** — {cheapest.get('name', '?').strip()}{left_s}"
 
     header = "\U0001f195 New event on sale" if is_first_sight else "\U0001f501 Tickets (re-)released"
