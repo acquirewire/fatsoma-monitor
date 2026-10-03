@@ -1885,6 +1885,10 @@
    "ends": "2026-10-07T03:00:00+01:00",
    "name": "BRUNELBANTERS MINISTRY OF SOUND TAKEOVER",
    "opts": {
+    "37c53129-a2e1-4be3-a8b8-0ff69f616417": {
+     "notified_at": "2026-10-03T03:41:07.762820+00:00",
+     "st": "available"
+    },
     "5ff9fad2-20ac-42bc-b6c9-d72e0059bc6f": {
      "st": "sold_out"
     },
