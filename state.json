@@ -178,36 +178,6 @@
     }
    }
   },
-  "11d8e761-ee7f-4cfd-9c57-5b2636d88a25": {
-   "ends": "2026-10-02T04:00:00+01:00",
-   "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC!  - LONDON FRESHERS WEEK 2026 [WEEK 3]",
-   "opts": {
-    "537a6c42-e181-434b-9a0c-23f7fc054487": {
-     "notified_at": "2026-08-15T10:35:19.182390+00:00",
-     "st": "available"
-    },
-    "63bc3c95-73ce-4284-88c1-74f92cd34494": {
-     "notified_at": "2026-08-15T10:35:19.182390+00:00",
-     "st": "sold_out"
-    },
-    "7619952c-b9b7-475d-85af-a325139927cb": {
-     "notified_at": "2026-08-15T10:35:19.182390+00:00",
-     "st": "sold_out"
-    },
-    "7c4704f6-17d6-4617-a65b-b1572bfacece": {
-     "notified_at": "2026-08-15T10:35:19.182390+00:00",
-     "st": "sold_out"
-    },
-    "ea47d50a-68c9-433b-8966-8534d5accd4d": {
-     "notified_at": "2026-08-15T10:35:19.182390+00:00",
-     "st": "sold_out"
-    },
-    "ed5e5efc-c723-431d-a90c-07d47935430c": {
-     "notified_at": "2026-08-15T10:35:19.182390+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "11f87087-1a6d-41df-abe9-35b4dcbb46be": {
    "ends": "2026-10-07T03:35:00+01:00",
    "name": "HOLLOWAY FRESHERS TAKEOVER MINISTRY OF SOUND  - PART 2 - MILKSHAKE TAKEOVER",
@@ -599,39 +569,6 @@
     },
     "ff03446f-0ed7-4a0a-b5a5-26e315d69a56": {
      "st": "available"
-    }
-   }
-  },
-  "3425d80e-8d56-48dd-aaef-7abee8055417": {
-   "ends": "2026-10-02T04:00:00+01:00",
-   "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC!  - LONDON FRESHERS WEEK 2026",
-   "opts": {
-    "2ac5cc3e-0ca3-402d-bb10-080a51a4f00f": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "available"
-    },
-    "6639da67-80ec-43f7-82ff-a1c62c4ebd82": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "74a6236f-2b85-4520-8102-243e230e448f": {
-     "st": "sold_out"
-    },
-    "9d434703-2604-42f2-9e6e-60eb98091861": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "a90b1a1e-026e-4c93-838f-304ed79a463d": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "b2606046-1846-487b-9a69-9566017acce1": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
-    },
-    "fda88810-9d15-4317-9aff-6d187a963c59": {
-     "notified_at": "2026-08-11T14:00:35.675819+00:00",
-     "st": "sold_out"
     }
    }
   },
@@ -2175,32 +2112,6 @@
     }
    }
   },
-  "ca6b6129-55b0-46af-86d2-0cae1a441f21": {
-   "ends": "2026-10-02T04:00:00+01:00",
-   "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC! - KCL FRESHERS WEEK 2026",
-   "opts": {
-    "00ee0107-63fe-410d-b589-bd7003cf61f7": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "available"
-    },
-    "19dc1e03-77bf-4d52-ad03-bdd3288dd0cd": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    },
-    "3747c4f6-0fb2-4d4a-9220-9aff1e0dd317": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    },
-    "56322c3e-37a0-47d7-93d9-d85f37ff784e": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    },
-    "d6429883-cc82-4e13-a545-7c65b1a059d1": {
-     "notified_at": "2026-08-11T15:12:21.487977+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "cb8273bf-a514-400b-b2f3-d1ec8b5978db": {
    "ends": "2026-10-31T03:00:00+00:00",
    "name": "Halloween Pub Crawl London",
@@ -2647,36 +2558,6 @@
     },
     "d961a13c-c6e0-4e33-84d4-c5497b312ed1": {
      "st": "available"
-    }
-   }
-  },
-  "dee05920-02b0-465c-b6ee-28104d7c27dd": {
-   "ends": "2026-10-02T04:00:00+01:00",
-   "name": "FRESHERS TRAFFIC LIGHT PARTY \ud83d\udea6 HOSTED BY HUGE LOVE ISLAND 2026 STARS\ud83d\udc95 @ FABRIC!  - LONDON FRESHERS WEEK 2026 ",
-   "opts": {
-    "06dd4332-e97b-4d7e-8f3d-2ded22835151": {
-     "notified_at": "2026-08-15T11:51:06.043200+00:00",
-     "st": "sold_out"
-    },
-    "450cb12d-5202-444a-b917-76b28d0c5a76": {
-     "notified_at": "2026-08-15T11:51:06.043200+00:00",
-     "st": "sold_out"
-    },
-    "8e96fd5d-c816-4432-a1d5-3d329f39e4e4": {
-     "notified_at": "2026-08-15T11:51:06.043200+00:00",
-     "st": "available"
-    },
-    "9d2e1aab-91f2-45ce-8393-d127528e7008": {
-     "notified_at": "2026-08-15T11:51:06.043200+00:00",
-     "st": "sold_out"
-    },
-    "abb2e767-e1ea-4630-96a8-e209528edbf9": {
-     "notified_at": "2026-08-15T11:51:06.043200+00:00",
-     "st": "sold_out"
-    },
-    "fca893e7-6482-48c3-8932-8123acee3605": {
-     "notified_at": "2026-08-15T11:51:06.043200+00:00",
-     "st": "sold_out"
     }
    }
   },
