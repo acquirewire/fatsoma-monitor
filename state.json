@@ -243,7 +243,24 @@
   "177dfc27-2a4d-474d-92a0-302d02d6d4bd": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Rave To The Grave at Egg London! Halloween 2026",
-   "opts": {}
+   "opts": {
+    "543a4ccd-6b3f-41f4-944c-df91ceb230b2": {
+     "notified_at": "2026-10-05T12:14:10.242998+00:00",
+     "st": "available"
+    },
+    "65f8c7f4-3683-4d20-a3e4-607f571c3d33": {
+     "notified_at": "2026-10-05T12:14:10.242998+00:00",
+     "st": "available"
+    },
+    "8bc9dedf-a01e-4356-a182-e696ab782c7e": {
+     "notified_at": "2026-10-05T12:14:10.242998+00:00",
+     "st": "available"
+    },
+    "a5f83619-c23e-452c-8bee-e71db87f67e7": {
+     "notified_at": "2026-10-05T12:14:10.242998+00:00",
+     "st": "available"
+    }
+   }
   },
   "1936db2d-1434-4acb-aacc-0cfee5879895": {
    "ends": "2026-10-08T03:00:00+01:00",
