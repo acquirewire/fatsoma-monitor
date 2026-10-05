@@ -1446,6 +1446,28 @@
     }
    }
   },
+  "84b9b1fc-a29c-4eb3-a6cb-8ea17cbc7d4b": {
+   "ends": "2026-10-30T02:00:00+00:00",
+   "name": "THE HALLOWEEN RAVE @ THE STEEL YARD! LONDON HALLOWEEN 2026",
+   "opts": {
+    "13b567a5-bcbd-406b-917e-dcd3436d3032": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
+    },
+    "46f5f8e6-3b5e-4892-a017-5abb5ef677d7": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
+    },
+    "e5389423-cb72-4a0a-ba80-325db9c5de8b": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
+    },
+    "e8bfd030-f97b-4d56-ad72-d9f8bd21b571": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
+    }
+   }
+  },
   "865ad0f6-0fec-489b-9f24-d907437ea16c": {
    "ends": "2026-10-31T06:00:00+00:00",
    "name": "EGG LDN / HALLOWEEN / FRI 31 OCT",
@@ -2788,6 +2810,28 @@
     },
     "daf7d211-59ca-4e69-a315-d51678fbd11f": {
      "st": "sold_out"
+    }
+   }
+  },
+  "edaf1b27-a2ce-4776-987d-8556a4b8c85d": {
+   "ends": "2026-10-30T02:00:00+00:00",
+   "name": "THE HALLOWEEN RAVE @ THE STEEL YARD! LONDON HALLOWEEN 2026",
+   "opts": {
+    "1b04a8aa-d3ba-4605-9544-ea27e9c964f1": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
+    },
+    "51c028a6-2538-4216-abc1-eb63a870c073": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
+    },
+    "6ce6ebf9-4e77-4550-9678-7f6772d53465": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
+    },
+    "adfeb47a-c5cc-4b47-9997-bf78fefb21b2": {
+     "notified_at": "2026-10-05T01:31:02.479772+00:00",
+     "st": "available"
     }
    }
   },
