@@ -3078,6 +3078,32 @@
     }
    }
   },
+  "fb25bcb9-54d5-4696-94c6-f9a0dacac649": {
+   "ends": "2026-10-29T06:00:00+00:00",
+   "name": "THE HALLOWEEN CARNEVIL ALL-NIGHTER TILL 6AM TAKESOVER LONDON - WEDNESDAY 28TH OCTOBER [TICKETS NOW ON SALE]",
+   "opts": {
+    "0dcaa7f9-37ec-4754-942c-922866a66e23": {
+     "notified_at": "2026-10-06T17:12:05.429797+00:00",
+     "st": "available"
+    },
+    "264db183-6a73-4ceb-8350-c4e35f3ed92b": {
+     "notified_at": "2026-10-06T17:12:05.429797+00:00",
+     "st": "available"
+    },
+    "4e0c5697-e469-444a-be08-b4d401f82558": {
+     "notified_at": "2026-10-06T17:12:05.429797+00:00",
+     "st": "available"
+    },
+    "7f4c454e-e894-4a83-9e06-06044036b22b": {
+     "notified_at": "2026-10-06T17:12:05.429797+00:00",
+     "st": "available"
+    },
+    "d386ba0a-282d-4789-b710-50536111d6f1": {
+     "notified_at": "2026-10-06T17:12:05.429797+00:00",
+     "st": "available"
+    }
+   }
+  },
   "fbf3efec-9bf3-4cca-ac50-ccfcad7ac430": {
    "ends": "2026-11-01T06:00:00+00:00",
    "name": "HAUNTED HOUSE PARTY (ALL INCLUSIVE)",
