@@ -2901,7 +2901,8 @@
      "st": "available"
     },
     "13874180-449a-44bd-b5e5-098f58959ab4": {
-     "st": "sold_out"
+     "notified_at": "2026-10-06T21:07:06.142275+00:00",
+     "st": "available"
     },
     "517e8a1b-4a23-498f-8df3-378ac18bf782": {
      "st": "sold_out"
