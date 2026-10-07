@@ -588,6 +588,32 @@
     }
    }
   },
+  "30a92b40-f438-432d-af82-b8ddb01a6031": {
+   "ends": "2026-10-30T03:00:00+00:00",
+   "name": "Cherry | House & Disco - XOYO [HALLOWEEN EDITION]",
+   "opts": {
+    "190cde86-c8e0-4ecf-8980-1d0b6ee1f783": {
+     "notified_at": "2026-10-07T15:34:20.714740+00:00",
+     "st": "available"
+    },
+    "3caba7b6-c3c6-437c-a04b-ebac915698b8": {
+     "notified_at": "2026-10-07T15:34:20.714740+00:00",
+     "st": "available"
+    },
+    "71a327be-c4f2-465e-bdd9-d857c427dae2": {
+     "notified_at": "2026-10-07T15:34:20.714740+00:00",
+     "st": "available"
+    },
+    "96579ec1-91df-4c52-87f3-1e27bfb60df3": {
+     "notified_at": "2026-10-07T15:34:20.714740+00:00",
+     "st": "available"
+    },
+    "cc689a58-4905-4de3-87f7-f37dddb47d15": {
+     "notified_at": "2026-10-07T15:34:20.714740+00:00",
+     "st": "available"
+    }
+   }
+  },
   "337bdabb-6184-4f02-bce6-65d15f56704d": {
    "ends": "2026-11-02T00:00:00+00:00",
    "name": "\ud83d\ude08 SIN CITY - HALLOWEEN PARTY \ud83c\udf51",
