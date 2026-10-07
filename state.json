@@ -1412,6 +1412,16 @@
     }
    }
   },
+  "7e5f4c1f-cdd7-4e02-aa2e-8686ab4285bd": {
+   "ends": "2026-10-21T19:15:00+01:00",
+   "name": "SFG Dance Class: October\ud83d\udc7b",
+   "opts": {
+    "6dd08572-e6ab-4ebc-b51d-8ae9c8826f3b": {
+     "notified_at": "2026-10-07T13:36:10.278048+00:00",
+     "st": "available"
+    }
+   }
+  },
   "7e7dab8a-eb84-4b23-97da-17efcc8ccd77": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "Day of Dead Halloween Party Sat 31st London",
