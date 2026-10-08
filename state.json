@@ -205,32 +205,6 @@
     }
    }
   },
-  "11f87087-1a6d-41df-abe9-35b4dcbb46be": {
-   "ends": "2026-10-07T03:35:00+01:00",
-   "name": "HOLLOWAY FRESHERS TAKEOVER MINISTRY OF SOUND  - PART 2 - MILKSHAKE TAKEOVER",
-   "opts": {
-    "1297772a-102f-44c5-999f-1f42a24ab94a": {
-     "st": "sold_out"
-    },
-    "1574c24a-6287-41b9-a29b-5d68eb74b7bb": {
-     "notified_at": "2026-10-02T00:48:15.767041+00:00",
-     "st": "sold_out"
-    },
-    "6e941df3-acdf-4dfa-83f5-a48ff1f16254": {
-     "st": "sold_out"
-    },
-    "82aae476-d08e-45ec-b502-45cf1d7d9169": {
-     "notified_at": "2026-10-01T21:08:38.455990+00:00",
-     "st": "sold_out"
-    },
-    "ddbec67b-6980-4e39-a206-88ccbd201507": {
-     "st": "sold_out"
-    },
-    "dfdfffa6-1899-4e0e-8639-348f68085a61": {
-     "st": "sold_out"
-    }
-   }
-  },
   "124b2bf7-53a8-4ecb-979b-c230ca95533f": {
    "ends": "2026-10-31T03:00:00+00:00",
    "name": "The Hip Hop Halloween - Central London Halloween Party!",
@@ -892,32 +866,6 @@
    "opts": {
     "0f2856d6-1750-431a-972e-2510bcc2df58": {
      "st": "available"
-    }
-   }
-  },
-  "569e6da6-cdef-45c8-a051-e50c04902e22": {
-   "ends": "2026-10-07T03:35:00+01:00",
-   "name": "BRUNEL TAKEOVER MINISTRY OF SOUND -  PART 2 MILKSHAKE TAKEOVER",
-   "opts": {
-    "05b071af-eae3-40ac-84b2-137177e1bfbc": {
-     "st": "sold_out"
-    },
-    "3e986a46-5793-4980-a9cc-a164c9ae18d5": {
-     "st": "sold_out"
-    },
-    "57e3a787-003e-4fc1-967a-26fd391d551d": {
-     "notified_at": "2026-10-02T18:22:08.374790+00:00",
-     "st": "sold_out"
-    },
-    "6dd44cf8-1e10-425f-9f10-b6f8ea5fb47e": {
-     "st": "sold_out"
-    },
-    "72805667-7f3f-43af-861b-9f749f75c64d": {
-     "st": "sold_out"
-    },
-    "c87d65e2-b646-410b-bb27-0e462da72b12": {
-     "notified_at": "2026-10-01T21:08:38.455990+00:00",
-     "st": "sold_out"
     }
    }
   },
