@@ -123,6 +123,24 @@
     }
    }
   },
+  "0c2c6543-c830-4f17-8780-329a9c3f52bc": {
+   "ends": "2026-10-27T03:00:00+00:00",
+   "name": "MOTION HALLOWEEN \ud83c\udf83",
+   "opts": {
+    "054da3c7-7a06-4521-870f-8f7745eba5c7": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    },
+    "5dcedf13-e3ef-4677-8465-1029a549cef7": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    },
+    "8a761fb2-78a0-476b-ac4c-c8c3d8af8cfe": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    }
+   }
+  },
   "0c707f0e-ddc5-4ff5-8258-9b95c9d8f89e": {
    "ends": "2026-10-30T00:00:00+00:00",
    "name": "TLACS Presents\u2026 TRICK OR TREAT: The Halloween Party!",
@@ -1944,6 +1962,24 @@
     }
    }
   },
+  "aa01d455-0eed-4b5d-8e00-10f259ec965f": {
+   "ends": "2026-10-27T03:00:00+00:00",
+   "name": "MOTION HALLOWEEN \ud83c\udf83",
+   "opts": {
+    "c665ce20-9ee5-4203-9dcf-9bfcb4058631": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    },
+    "cd11f290-0b41-4eb1-b0d3-56560e732947": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    },
+    "eb131406-526a-4a1b-b706-ea9b820ebbfb": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    }
+   }
+  },
   "aacb0bba-e99e-4c93-a49a-846d932c9043": {
    "ends": "2026-10-27T04:00:00+00:00",
    "name": "Imperial College Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
@@ -1964,6 +2000,24 @@
      "st": "available"
     },
     "fbd2e5b6-ff19-4494-9379-178b11834633": {
+     "st": "available"
+    }
+   }
+  },
+  "ab1f7073-3a7d-430c-9615-6c31f52bba7f": {
+   "ends": "2026-10-27T03:00:00+00:00",
+   "name": "MOTION HALLOWEEN \ud83c\udf83",
+   "opts": {
+    "1b52a096-ac76-4798-9d7b-7fc4d2a8086d": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    },
+    "309e209c-40ec-43c2-99ff-7938fbcb6186": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
+     "st": "available"
+    },
+    "ca6f09e3-5e70-4811-bf7a-d78566500d13": {
+     "notified_at": "2026-10-08T14:02:55.027890+00:00",
      "st": "available"
     }
    }
