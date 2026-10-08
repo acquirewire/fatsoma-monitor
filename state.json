@@ -587,6 +587,31 @@
     }
    }
   },
+  "31973c31-0833-4c2f-8b29-cccda8f41d84": {
+   "ends": "2026-10-27T03:00:00+00:00",
+   "name": "MOTION HALLOWEEN \ud83c\udf83",
+   "opts": {
+    "a2386ffe-4ef2-4cf3-8a18-b50f37603603": {
+     "notified_at": "2026-10-08T14:03:54.743340+00:00",
+     "st": "available"
+    },
+    "d59b13f7-d3bd-458e-b667-f124d4d565cc": {
+     "st": "sold_out"
+    },
+    "eea02f17-4a91-4610-9c06-970e405ad6cb": {
+     "notified_at": "2026-10-08T14:03:54.743340+00:00",
+     "st": "available"
+    },
+    "eef70102-7b07-4525-9c11-05bd08d0b3b3": {
+     "notified_at": "2026-10-08T14:03:54.743340+00:00",
+     "st": "available"
+    },
+    "ef76adac-dab7-49ed-8347-0265f70240e6": {
+     "notified_at": "2026-10-08T14:03:54.743340+00:00",
+     "st": "available"
+    }
+   }
+  },
   "337bdabb-6184-4f02-bce6-65d15f56704d": {
    "ends": "2026-11-02T00:00:00+00:00",
    "name": "\ud83d\ude08 SIN CITY - HALLOWEEN PARTY \ud83c\udf51",
@@ -1605,6 +1630,30 @@
     },
     "dd9752c2-f930-4935-97ef-f8fd5476895e": {
      "st": "sold_out"
+    }
+   }
+  },
+  "8fdd8acc-5c15-4eae-a7da-45716df3fd90": {
+   "ends": "2026-10-27T03:00:00+00:00",
+   "name": "MOTION HALLOWEEN \ud83c\udf83",
+   "opts": {
+    "262046b1-22bd-4fdc-b970-22e20ff4e895": {
+     "st": "sold_out"
+    },
+    "7ac352f1-6f64-43ba-8140-435c1a0ebc72": {
+     "notified_at": "2026-10-08T14:03:54.743340+00:00",
+     "st": "available"
+    },
+    "9fb4af75-668e-4d5a-b68c-f956e1028335": {
+     "st": "sold_out"
+    },
+    "cd607e6d-57af-404f-8d63-ee8b595a8af8": {
+     "notified_at": "2026-10-08T14:03:54.743340+00:00",
+     "st": "available"
+    },
+    "e44a869e-2906-49b1-bec5-46f3584c31fa": {
+     "notified_at": "2026-10-08T14:03:54.743340+00:00",
+     "st": "available"
     }
    }
   },
