@@ -1301,6 +1301,31 @@
     }
    }
   },
+  "7606776e-a107-4cfd-a2b2-858bf7ab28fa": {
+   "ends": "2026-10-27T03:00:00+00:00",
+   "name": "MOTION HALLOWEEN \ud83c\udf83",
+   "opts": {
+    "263b5891-1031-4931-8656-d90378ae6ce9": {
+     "notified_at": "2026-10-08T14:04:55.178967+00:00",
+     "st": "available"
+    },
+    "3d9672c2-3e85-4239-83b2-b7e09bb75dff": {
+     "notified_at": "2026-10-08T14:04:55.178967+00:00",
+     "st": "available"
+    },
+    "718e1e8c-ffbf-4555-bbb4-a1f139b2ebca": {
+     "notified_at": "2026-10-08T14:04:55.178967+00:00",
+     "st": "available"
+    },
+    "9a7cfce6-0bf4-4571-a605-de7130822a92": {
+     "st": "sold_out"
+    },
+    "e93238f0-df23-460e-8b2a-08bf778c5a20": {
+     "notified_at": "2026-10-08T14:04:55.178967+00:00",
+     "st": "available"
+    }
+   }
+  },
   "7638a59b-1a70-424e-a0a4-c86830ef8033": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "F*CK ME It's Halloween 2026 - The UK's Biggest Halloween Tour | Freshers 2026",
