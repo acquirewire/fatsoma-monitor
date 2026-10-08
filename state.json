@@ -1678,6 +1678,28 @@
     }
    }
   },
+  "995501fa-e106-477e-b609-bfaaf6f546b8": {
+   "ends": "2026-11-01T23:00:00+00:00",
+   "name": "BASHMENT NATION - London's Wildest Halloween Party (2000+ RAVERS)",
+   "opts": {
+    "313fca60-cead-4a5f-9cbb-5debafb8a49c": {
+     "notified_at": "2026-10-08T09:58:47.085393+00:00",
+     "st": "available"
+    },
+    "4612dfc4-4970-483a-a022-3276867728ed": {
+     "notified_at": "2026-10-08T09:58:47.085393+00:00",
+     "st": "available"
+    },
+    "66af14d4-0075-4422-ae51-6a8f1dcff6a4": {
+     "notified_at": "2026-10-08T09:58:47.085393+00:00",
+     "st": "available"
+    },
+    "e4e20c5e-27aa-46ea-867b-33974ddadffe": {
+     "notified_at": "2026-10-08T09:58:47.085393+00:00",
+     "st": "available"
+    }
+   }
+  },
   "9b4b904a-a1bb-4daa-8d81-bba2513eb779": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "SPOOKY LONDON - LONDON'S BIGGEST HALLOWEEN PARTY",
@@ -2621,7 +2643,7 @@
    "opts": {
     "06236324-cd9c-465a-8bc5-09d5a4082a9c": {
      "notified_at": "2026-10-08T09:40:46.991240+00:00",
-     "st": "available"
+     "st": "sold_out"
     },
     "25a664a4-d036-4d48-bd04-3bea1ad572e9": {
      "notified_at": "2026-10-02T18:48:58.185739+00:00",
