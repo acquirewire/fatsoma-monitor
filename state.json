@@ -88,6 +88,32 @@
     }
    }
   },
+  "09d4f037-a2de-4b11-834c-760097e426df": {
+   "ends": "2026-10-15T03:00:00+01:00",
+   "name": "LSE AU Presents \ud83d\udc83 The Official LSE Sports Night : XOYO London \ud83e\udef6",
+   "opts": {
+    "2a97b2d9-68c0-434c-85c5-ac6c12b7cb9a": {
+     "notified_at": "2026-10-08T00:10:31.944735+00:00",
+     "st": "available"
+    },
+    "4150101e-b1d7-4643-9e83-f6ec0d7081cd": {
+     "notified_at": "2026-10-08T00:10:31.944735+00:00",
+     "st": "available"
+    },
+    "42d94833-588b-4607-a9ee-b1c5f4db5969": {
+     "notified_at": "2026-10-08T00:10:31.944735+00:00",
+     "st": "available"
+    },
+    "5a29f4e4-692f-4d87-b0b7-7e951fbe4b5b": {
+     "notified_at": "2026-10-08T00:10:31.944735+00:00",
+     "st": "available"
+    },
+    "6b7184fe-9ab6-4809-ac54-eb6c6292018c": {
+     "notified_at": "2026-10-08T00:10:31.944735+00:00",
+     "st": "available"
+    }
+   }
+  },
   "0beb2801-7b6a-450c-9c03-cb89bdb58b86": {
    "ends": "2026-10-30T02:00:00+00:00",
    "name": "KCLSU PRESENTS : THE HALLOWEEN RAVE @ THE STEEL YARD! LONDON HALLOWEEN 2026",
