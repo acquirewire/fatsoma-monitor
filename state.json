@@ -1943,6 +1943,15 @@
    "ends": "2026-10-31T22:00:00+00:00",
    "name": "Garage Nation Halloween Festival ",
    "opts": {
+    "08036d0c-618d-4ef1-b27b-968d5486592a": {
+     "st": "not_started"
+    },
+    "3c84de50-d1fc-4c85-978c-1d240ff60ec9": {
+     "st": "not_started"
+    },
+    "4348a160-bed6-440a-b8a2-f33e4cf3d35a": {
+     "st": "not_started"
+    },
     "8e00bb64-bd80-4253-82dc-e96044d68cd4": {
      "st": "available"
     },
