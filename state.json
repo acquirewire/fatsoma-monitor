@@ -3011,13 +3011,16 @@
    "name": "RNB NATION \u2013 HALLOWEEN INDOOR FESTIVAL 2026 \ud83c\udf83\ud83d\udd25",
    "opts": {
     "3d36a12e-6ab3-49fb-8a7c-9c051f986672": {
-     "st": "not_started"
+     "notified_at": "2026-10-09T14:00:34.591537+00:00",
+     "st": "available"
     },
     "5e1e51a3-656b-444b-ac7b-cff4dd859ccc": {
-     "st": "not_started"
+     "notified_at": "2026-10-09T14:00:34.591537+00:00",
+     "st": "available"
     },
     "f507a12d-f791-4b65-9ee0-8299e51eab6f": {
-     "st": "not_started"
+     "notified_at": "2026-10-09T14:00:34.591537+00:00",
+     "st": "available"
     }
    }
   },
