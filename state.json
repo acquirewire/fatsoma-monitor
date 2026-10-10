@@ -3287,7 +3287,7 @@
      "st": "sold_out"
     },
     "25e0a88e-a16f-4aca-bd41-a690ee3ed067": {
-     "st": "available"
+     "st": "sold_out"
     },
     "2e2b444c-bcad-47e6-80b6-a300480ca6e6": {
      "st": "sold_out"
@@ -3299,7 +3299,7 @@
      "st": "available"
     },
     "d003a32f-8706-418a-b8f4-83e1cd2b54a8": {
-     "st": "available"
+     "st": "sold_out"
     }
    }
   }
