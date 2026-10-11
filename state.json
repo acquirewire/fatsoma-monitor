@@ -3032,7 +3032,8 @@
    "name": "UCL\u2019s Official Halloween Party - Nightmare In Camden \ud83c\udf83  at the Electric Ballroom!",
    "opts": {
     "0c23bf0b-f002-4682-bc62-d7ad080e61f5": {
-     "st": "sold_out"
+     "notified_at": "2026-10-11T18:17:07.696120+00:00",
+     "st": "available"
     },
     "13874180-449a-44bd-b5e5-098f58959ab4": {
      "notified_at": "2026-10-06T21:07:06.142275+00:00",
