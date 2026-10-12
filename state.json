@@ -1936,8 +1936,16 @@
    "ends": "2026-10-27T04:00:00+00:00",
    "name": "Westminster Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
    "opts": {
+    "0a07f397-5796-4703-aa5c-46036a4a1803": {
+     "notified_at": "2026-10-12T15:11:43.642482+00:00",
+     "st": "available"
+    },
     "652175c1-f90a-4fe6-b6cd-f831f4bf8ac4": {
      "st": "sold_out"
+    },
+    "7028d825-cd34-41ad-8fa4-0f8a88fe2b9e": {
+     "notified_at": "2026-10-12T15:11:43.642482+00:00",
+     "st": "available"
     },
     "a3058a5a-c178-4fb8-9917-c129713bf28a": {
      "st": "available"
