@@ -434,6 +434,36 @@
     }
    }
   },
+  "27b9f865-9a07-4e73-93f5-13139b484db0": {
+   "ends": "2026-10-27T04:00:00+00:00",
+   "name": "Desi Beatz : HALLOWEEN MELA! ",
+   "opts": {
+    "3d6d8908-ec9c-4dbd-bc3c-2e86eef25b5e": {
+     "notified_at": "2026-10-13T10:00:13.614458+00:00",
+     "st": "available"
+    },
+    "4722f4fa-0da6-4b11-986f-77e587ed8e23": {
+     "notified_at": "2026-10-13T10:00:13.614458+00:00",
+     "st": "available"
+    },
+    "908cd737-7a00-4721-a857-13ebaff7eb72": {
+     "notified_at": "2026-10-13T10:00:13.614458+00:00",
+     "st": "available"
+    },
+    "95e938b5-9966-4bdf-9589-7cb48174366d": {
+     "notified_at": "2026-10-13T10:00:13.614458+00:00",
+     "st": "available"
+    },
+    "f1e1c882-d53a-455a-9b6f-9f5b8019ba53": {
+     "notified_at": "2026-10-13T10:00:13.614458+00:00",
+     "st": "available"
+    },
+    "f4b4dead-23cf-483a-baab-bd39a7cf1e19": {
+     "notified_at": "2026-10-13T10:00:13.614458+00:00",
+     "st": "available"
+    }
+   }
+  },
   "27e732cd-69ff-446d-bbbd-4f949deff2ff": {
    "ends": "2026-10-31T01:00:00+00:00",
    "name": "ELECTRIC DREAMS HALLOWEEN PARTY @ The Star of Kings",
