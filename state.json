@@ -790,6 +790,32 @@
    "name": "Sports Night at SCALA London - Halloween Party!",
    "opts": {}
   },
+  "48a58249-a47a-43eb-b855-55f577775daf": {
+   "ends": "2026-10-27T04:00:00+00:00",
+   "name": "QMUL ASOC : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
+   "opts": {
+    "0171ca03-a0d2-4e16-b04f-b663bd32071c": {
+     "notified_at": "2026-10-13T14:47:48.247278+00:00",
+     "st": "available"
+    },
+    "0c0af927-4981-4863-9f6b-113a71ba1f44": {
+     "notified_at": "2026-10-13T14:47:48.247278+00:00",
+     "st": "available"
+    },
+    "6a3b6a58-50d0-48fd-bc4d-7093d8e29dc5": {
+     "notified_at": "2026-10-13T14:47:48.247278+00:00",
+     "st": "available"
+    },
+    "743f8aed-d14a-4166-a807-4a2dc2ecb3ff": {
+     "notified_at": "2026-10-13T14:47:48.247278+00:00",
+     "st": "available"
+    },
+    "cc6310dd-1643-4360-a565-d805c9c1d5dc": {
+     "notified_at": "2026-10-13T14:47:48.247278+00:00",
+     "st": "available"
+    }
+   }
+  },
   "48c9d24a-fc10-4816-997a-806c498e22f1": {
    "ends": "2026-10-30T04:00:00+00:00",
    "name": "The Halloween Rave at Fabric! Halloween 2026 \ud83c\udfc6",
