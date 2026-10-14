@@ -37,6 +37,32 @@
     }
    }
   },
+  "03d0c45e-2f65-4019-ac6c-c347cd21ce87": {
+   "ends": "2026-10-31T05:00:00+00:00",
+   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
+   "opts": {
+    "3822be3f-7b10-4015-8ad6-898726a89665": {
+     "notified_at": "2026-10-14T11:00:18.539060+00:00",
+     "st": "available"
+    },
+    "874d5acb-fe6f-4df5-a6f3-6d6735cd5a3c": {
+     "notified_at": "2026-10-14T11:00:18.539060+00:00",
+     "st": "available"
+    },
+    "be5d07cb-6162-4f70-98ce-ec005c7a083e": {
+     "notified_at": "2026-10-14T11:00:18.539060+00:00",
+     "st": "available"
+    },
+    "cd18695d-d2d5-4c4e-ae5e-4d55ac2e9928": {
+     "notified_at": "2026-10-14T11:00:18.539060+00:00",
+     "st": "available"
+    },
+    "e2a5189c-fe98-4d98-babf-ac455f6fc1ba": {
+     "notified_at": "2026-10-14T11:00:18.539060+00:00",
+     "st": "available"
+    }
+   }
+  },
   "05a656ea-ba07-441c-89ef-3ec9dadbeed1": {
    "ends": "2026-10-30T04:00:00+00:00",
    "name": "F*CK ME IT'S HALLOWEEN \ud83d\udc7b - THE BIGGEST EVENT OF HALLOWEEN 2026!",
