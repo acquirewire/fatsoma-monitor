@@ -816,6 +816,32 @@
     }
    }
   },
+  "434f6a64-bd11-4425-b0aa-223015ce29a4": {
+   "ends": "2026-10-31T05:00:00+00:00",
+   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
+   "opts": {
+    "6f76a994-1ddf-4029-8a96-181e30881488": {
+     "notified_at": "2026-10-14T10:30:18.822997+00:00",
+     "st": "available"
+    },
+    "73170340-b336-451a-b6c2-e4785232f9db": {
+     "notified_at": "2026-10-14T10:30:18.822997+00:00",
+     "st": "available"
+    },
+    "83bb97ee-f828-4302-91c9-21cf63023871": {
+     "notified_at": "2026-10-14T10:30:18.822997+00:00",
+     "st": "available"
+    },
+    "8c6705f4-1017-4129-b546-75911827a7d5": {
+     "notified_at": "2026-10-14T10:30:18.822997+00:00",
+     "st": "available"
+    },
+    "dd2dabfa-d1ec-408c-890e-4486b6d13485": {
+     "notified_at": "2026-10-14T10:30:18.822997+00:00",
+     "st": "available"
+    }
+   }
+  },
   "45fed4ab-0216-4f02-93d0-fffbcb0cda15": {
    "ends": "2026-10-29T04:00:00+00:00",
    "name": "Sports Night at SCALA London - Halloween Party!",
