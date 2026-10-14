@@ -3024,6 +3024,10 @@
    "ends": "2026-10-21T04:00:00+01:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Midweek Rave \ud83d\udd25 October 20th 2026 \ud83c\udf0d ",
    "opts": {
+    "1f19c014-e3bd-4d6a-bd03-9dca1e0b335e": {
+     "notified_at": "2026-10-14T00:51:05.548181+00:00",
+     "st": "available"
+    },
     "30dda8bf-0769-419b-8a72-0c6dbc43ad51": {
      "notified_at": "2026-10-06T18:37:06.057231+00:00",
      "st": "sold_out"
