@@ -2300,6 +2300,32 @@
     }
    }
   },
+  "ba37ff05-f549-43b6-8dc2-327329e179b4": {
+   "ends": "2026-10-31T05:00:00+00:00",
+   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
+   "opts": {
+    "03ec93e3-c81e-47a4-9bbd-899b2ff00be8": {
+     "notified_at": "2026-10-14T09:00:17.896253+00:00",
+     "st": "available"
+    },
+    "22b4cdee-5039-46c4-aba1-64539f63940c": {
+     "notified_at": "2026-10-14T09:00:17.896253+00:00",
+     "st": "available"
+    },
+    "9fc7dbf1-0b5a-400d-b8bf-b4ad31fad6cd": {
+     "notified_at": "2026-10-14T09:00:17.896253+00:00",
+     "st": "available"
+    },
+    "b11fa05d-c5e1-47d2-a109-60c15481e1a7": {
+     "notified_at": "2026-10-14T09:00:17.896253+00:00",
+     "st": "available"
+    },
+    "d2ab8352-a348-43b7-88ec-f58114deec43": {
+     "notified_at": "2026-10-14T09:00:17.896253+00:00",
+     "st": "available"
+    }
+   }
+  },
   "bd54c0fa-9e67-4a4b-89c6-e2e4bd5638e5": {
    "ends": "2026-10-31T05:00:00+00:00",
    "name": "Shoreditch Halloween Free Party- Everyone Free Before 12AM",
