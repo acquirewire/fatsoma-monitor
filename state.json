@@ -1514,56 +1514,6 @@
     }
    }
   },
-  "774bd9c8-2eb3-4f24-8077-d6ac3176fdee": {
-   "ends": "2026-10-14T04:00:00+01:00",
-   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 October 13th 2026 \ud83c\udf0d ",
-   "opts": {
-    "1a3f4ed8-aba4-40bf-bc96-738f32331cff": {
-     "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "sold_out"
-    },
-    "1ed6a8b2-18a1-49fc-9ae3-11b2e07bd739": {
-     "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "sold_out"
-    },
-    "49030daa-4e82-4bd8-921d-5dc875d10771": {
-     "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "sold_out"
-    },
-    "4bfed2e3-25d1-44a4-8399-9893d1a2416d": {
-     "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "sold_out"
-    },
-    "56c40006-2514-4dce-bba9-bff5bbb18f76": {
-     "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "sold_out"
-    },
-    "6bd5f014-0f75-4d35-adec-69a5ab70ae91": {
-     "notified_at": "2026-09-23T22:14:18.681767+00:00",
-     "st": "sold_out"
-    },
-    "8aec7d3b-c1df-4cf7-a421-6db27761ef82": {
-     "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "sold_out"
-    },
-    "c4b128b9-d459-40ef-b318-10371a1f83d4": {
-     "notified_at": "2026-10-05T12:36:19.501316+00:00",
-     "st": "sold_out"
-    },
-    "dc11b513-770d-4f1c-8663-7756f40d267b": {
-     "notified_at": "2026-09-15T12:53:39.170315+00:00",
-     "st": "sold_out"
-    },
-    "f5e04a79-aeaa-4e9b-8c9d-52909c7c619f": {
-     "notified_at": "2026-10-07T15:36:21.337669+00:00",
-     "st": "sold_out"
-    },
-    "f693b50d-585e-4e13-994a-7be78ad8dfbe": {
-     "notified_at": "2026-09-23T22:14:18.681767+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "7852cb3f-a687-44eb-8aed-1a291cbb93a6": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "Nightmare in Clapham Halloween Party",
