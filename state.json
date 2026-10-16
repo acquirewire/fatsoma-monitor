@@ -884,6 +884,32 @@
     }
    }
   },
+  "444d6f8c-3670-4878-91f4-014b9803e506": {
+   "ends": "2026-11-04T04:00:00+00:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 3rd 2026 \ud83c\udf0d ",
+   "opts": {
+    "28136de2-6cdd-4fa1-8af5-4a41974847e6": {
+     "notified_at": "2026-10-16T16:46:50.054523+00:00",
+     "st": "available"
+    },
+    "adf37587-7cba-4a22-925f-272cbb009772": {
+     "notified_at": "2026-10-16T16:46:50.054523+00:00",
+     "st": "available"
+    },
+    "bb253535-b88e-4646-97db-f0bb687572e6": {
+     "notified_at": "2026-10-16T16:46:50.054523+00:00",
+     "st": "available"
+    },
+    "c6160ab3-6137-4965-a9fa-7a6acaf3dd79": {
+     "notified_at": "2026-10-16T16:46:50.054523+00:00",
+     "st": "available"
+    },
+    "cacfd95f-64e5-47ca-b6dc-b64029745f53": {
+     "notified_at": "2026-10-16T16:46:50.054523+00:00",
+     "st": "available"
+    }
+   }
+  },
   "45fed4ab-0216-4f02-93d0-fffbcb0cda15": {
    "ends": "2026-10-29T04:00:00+00:00",
    "name": "Sports Night at SCALA London - Halloween Party!",
