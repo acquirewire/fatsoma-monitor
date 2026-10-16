@@ -2182,7 +2182,8 @@
    "name": "F*CK ME IT'S HALLOWEEN \ud83d\udc7b - THE BIGGEST EVENT OF HALLOWEEN 2026!",
    "opts": {
     "01a8e7b6-f4c0-4ec5-94fc-01e104975fb6": {
-     "st": "sold_out"
+     "notified_at": "2026-10-16T17:07:50.013810+00:00",
+     "st": "available"
     },
     "068cdc09-b2b5-4759-abc0-38c5bafd5248": {
      "st": "sold_out"
@@ -2194,7 +2195,8 @@
      "st": "sold_out"
     },
     "864df1b5-f57e-4df2-a10b-fb639283dcd0": {
-     "st": "sold_out"
+     "notified_at": "2026-10-16T17:07:50.013810+00:00",
+     "st": "available"
     },
     "cf0e5021-fea2-4945-a2f3-1157398254c3": {
      "notified_at": "2026-10-12T23:35:54.070431+00:00",
