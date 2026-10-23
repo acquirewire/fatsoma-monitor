@@ -3255,6 +3255,32 @@
     }
    }
   },
+  "e9db53e2-e377-41b6-b0d9-382df2f8bbc5": {
+   "ends": "2026-11-18T04:00:00+00:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 17th 2026 \ud83c\udf0d ",
+   "opts": {
+    "13c3fffc-fe64-4eb1-866b-a14ef42df908": {
+     "notified_at": "2026-10-23T11:53:33.047728+00:00",
+     "st": "available"
+    },
+    "24966250-3f2a-49a8-8997-3e80cf625293": {
+     "notified_at": "2026-10-23T11:53:33.047728+00:00",
+     "st": "available"
+    },
+    "475299cf-5e2a-476b-85ae-4430171453e9": {
+     "notified_at": "2026-10-23T11:53:33.047728+00:00",
+     "st": "available"
+    },
+    "fc17e857-466d-4ae9-bc5f-ed70e65b6c6a": {
+     "notified_at": "2026-10-23T11:53:33.047728+00:00",
+     "st": "available"
+    },
+    "ff7fd608-4198-461a-9661-1c29cbeb11d2": {
+     "notified_at": "2026-10-23T11:53:33.047728+00:00",
+     "st": "available"
+    }
+   }
+  },
   "ea0433cf-ab7b-4bcd-a3d4-cecd65397363": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "SPOOKY ISLAND \ud83c\udf83\ud83c\udf34",
