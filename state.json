@@ -801,6 +801,32 @@
     }
    }
   },
+  "396ebfb0-0540-40ca-8a44-7f560683570f": {
+   "ends": "2026-11-11T04:00:00+00:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 10th 2026 \ud83c\udf0d ",
+   "opts": {
+    "0bacd77d-2f2a-41cd-b940-3cf8c122c034": {
+     "notified_at": "2026-10-23T11:52:32.864619+00:00",
+     "st": "available"
+    },
+    "3f4397a1-c586-4989-8d12-f30ac657ddce": {
+     "notified_at": "2026-10-23T11:52:32.864619+00:00",
+     "st": "available"
+    },
+    "871bf248-793a-44aa-adbd-81a901a84523": {
+     "notified_at": "2026-10-23T11:52:32.864619+00:00",
+     "st": "available"
+    },
+    "d93b97a3-fecb-4e7d-bd8a-c5282148bb91": {
+     "notified_at": "2026-10-23T11:52:32.864619+00:00",
+     "st": "available"
+    },
+    "e62ff93c-5b9f-4839-a47b-2e7305d173bf": {
+     "notified_at": "2026-10-23T11:52:32.864619+00:00",
+     "st": "available"
+    }
+   }
+  },
   "3a7407fa-211c-49d3-963c-a88a3299ac9b": {
    "ends": "2026-10-31T19:00:00+00:00",
    "name": "BACK IN THE DAY BHANGRA : HALLOWEEN RAVE! | 31.10.26 | XOYO",
