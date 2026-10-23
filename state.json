@@ -573,6 +573,32 @@
     }
    }
   },
+  "2a2b1b5f-adc9-43a9-8631-9ecf04dc477f": {
+   "ends": "2026-11-25T04:00:00+00:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 24th 2026 \ud83c\udf0d ",
+   "opts": {
+    "2db12bd1-598d-43d1-8b71-0f85c5a3f135": {
+     "notified_at": "2026-10-23T11:54:32.715125+00:00",
+     "st": "available"
+    },
+    "5c1dbab7-abc5-4c67-80f5-f474c9d3939b": {
+     "notified_at": "2026-10-23T11:54:32.715125+00:00",
+     "st": "available"
+    },
+    "e63cbccb-92d4-4dfc-b5aa-fa104ce224ef": {
+     "notified_at": "2026-10-23T11:54:32.715125+00:00",
+     "st": "available"
+    },
+    "f742fc56-91e5-4ca5-8bac-87c0d4f6fe51": {
+     "notified_at": "2026-10-23T11:54:32.715125+00:00",
+     "st": "available"
+    },
+    "f9c2147c-206d-422a-a635-c6b291a24fb6": {
+     "notified_at": "2026-10-23T11:54:32.715125+00:00",
+     "st": "available"
+    }
+   }
+  },
   "2b29ac93-2197-425d-9208-74a13a23c1db": {
    "ends": "2026-10-31T18:00:00+00:00",
    "name": "Mexican Day of the Dead - Daytime Halloween Boat party and after-party ",
