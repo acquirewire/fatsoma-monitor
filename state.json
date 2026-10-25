@@ -419,15 +419,15 @@
     },
     "74226393-001c-4c35-8209-35e978ab2248": {
      "notified_at": "2026-10-25T12:03:53.326739+00:00",
-     "st": "sold_out"
+     "st": "available"
     },
     "a24416ce-4dc1-41f7-8032-abf99a937b6f": {
      "notified_at": "2026-10-25T12:03:53.326739+00:00",
-     "st": "available"
+     "st": "sold_out"
     },
     "ad72690f-6748-4aac-bd38-2d1b7d2535af": {
      "notified_at": "2026-10-25T12:03:53.326739+00:00",
-     "st": "available"
+     "st": "sold_out"
     }
    }
   },
