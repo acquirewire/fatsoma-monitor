@@ -344,19 +344,19 @@
    "opts": {
     "57ae98ce-f2ca-4055-afa8-97ac436cc15a": {
      "notified_at": "2026-10-15T00:14:44.556195+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "82c2ddf6-7a33-4137-bf62-757c03228cfb": {
      "notified_at": "2026-10-15T00:14:44.556195+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "9ece6c62-4585-42c3-a005-acc274e6f659": {
      "notified_at": "2026-10-15T00:14:44.556195+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "e4e8162b-7277-42e4-ab2a-078cdb818738": {
      "notified_at": "2026-10-15T15:49:10.798835+00:00",
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -497,27 +497,27 @@
    "opts": {
     "3d6d8908-ec9c-4dbd-bc3c-2e86eef25b5e": {
      "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "4722f4fa-0da6-4b11-986f-77e587ed8e23": {
      "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "908cd737-7a00-4721-a857-13ebaff7eb72": {
      "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "95e938b5-9966-4bdf-9589-7cb48174366d": {
      "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "f1e1c882-d53a-455a-9b6f-9f5b8019ba53": {
      "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "f4b4dead-23cf-483a-baab-bd39a7cf1e19": {
      "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -787,11 +787,11 @@
    "opts": {
     "481ad1f5-b920-4ee6-bc6d-c992e9b770ed": {
      "notified_at": "2026-10-16T10:15:39.797972+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "573f096b-4bcd-41ce-a106-f07dab5c4ea3": {
      "notified_at": "2026-10-21T12:02:07.127468+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "c34e0ad1-a478-4a2e-9f49-08b7923fbfa1": {
      "notified_at": "2026-10-21T12:08:07.378544+00:00",
@@ -918,7 +918,7 @@
     },
     "cf06b357-64f4-4e9e-bd5e-c50037ef125c": {
      "notified_at": "2026-10-21T00:10:50.438063+00:00",
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -1001,7 +1001,7 @@
     },
     "0c0af927-4981-4863-9f6b-113a71ba1f44": {
      "notified_at": "2026-10-13T14:47:48.247278+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "6a3b6a58-50d0-48fd-bc4d-7093d8e29dc5": {
      "notified_at": "2026-10-13T14:47:48.247278+00:00",
@@ -1009,7 +1009,7 @@
     },
     "743f8aed-d14a-4166-a807-4a2dc2ecb3ff": {
      "notified_at": "2026-10-13T14:47:48.247278+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "ae8e0268-4abe-4192-8266-b94af445f7b1": {
      "notified_at": "2026-10-21T12:01:07.234634+00:00",
@@ -1017,7 +1017,7 @@
     },
     "cc6310dd-1643-4360-a565-d805c9c1d5dc": {
      "notified_at": "2026-10-23T22:47:49.594867+00:00",
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -1188,15 +1188,15 @@
    "opts": {
     "219662cb-f53e-4c74-8661-6fd4c3a97d11": {
      "notified_at": "2026-10-20T23:40:51.061106+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "60ec5987-fb9e-4b97-8110-2898fe0f1065": {
      "notified_at": "2026-10-17T14:43:25.073363+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "83ac9ff7-8c93-4d84-a1a2-d47ee3d84439": {
      "notified_at": "2026-10-15T15:09:10.300670+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "a1ed0e19-a7cb-417e-a600-033f76bd9998": {
      "notified_at": "2026-10-21T00:05:50.511933+00:00",
@@ -1204,21 +1204,21 @@
     },
     "a2d4e9e3-d934-472c-acbc-8076e96a7f72": {
      "notified_at": "2026-10-25T10:58:53.787353+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "c1c13a4f-a496-4273-9af0-b97c9ac8c70b": {
      "notified_at": "2026-10-08T15:59:54.441917+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "ecb4cf9d-4c24-42d9-b72f-3c113e3d0fbe": {
      "notified_at": "2026-10-20T23:48:50.919872+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "f2273199-1a1f-4db4-86f6-b5f46415131b": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "fded8c7b-9bf5-4457-a278-fd7e8eec7b6b": {
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -1457,35 +1457,35 @@
    "opts": {
     "040e8aee-428f-4590-97c1-fd81cc305221": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "2f24b66d-2f43-4e3e-becd-30f34538b904": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "33f7d981-d3f1-40e9-b6e7-658a695d8589": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "6e139fd7-28b7-4949-a1ba-15d27d2054ab": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "6ead47f5-5669-47d7-a3f1-0b9107eca709": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "9a7433ad-b90e-414f-8f6d-16d8adaf6957": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "b5951633-9bfb-491f-b195-223f10bf6bb2": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "e12e043b-78ba-4128-b08c-1019b3812f18": {
      "notified_at": "2026-10-14T23:32:44.501994+00:00",
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -1977,7 +1977,7 @@
     },
     "19e9dd3a-6784-4424-bc70-d333989eb891": {
      "notified_at": "2026-10-12T15:15:43.994851+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "5faf7de5-72bf-4281-9fea-26777ce43c5a": {
      "notified_at": "2026-10-23T06:46:23.693799+00:00",
