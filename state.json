@@ -1114,6 +1114,24 @@
     }
    }
   },
+  "535dcced-ee40-44b6-b0ff-76d6061c8fdc": {
+   "ends": "2026-10-30T04:00:00+00:00",
+   "name": "House of Horrors at EGG LDN | UCL Takeover!",
+   "opts": {
+    "801df11b-78c0-478d-bc72-d41cdd9bdcf3": {
+     "notified_at": "2026-10-26T12:19:57.697121+00:00",
+     "st": "available"
+    },
+    "8b1ad40d-f37a-4e3e-b875-4809788128e0": {
+     "notified_at": "2026-10-26T12:19:57.697121+00:00",
+     "st": "available"
+    },
+    "e97f8a00-90cd-4f86-8ae4-dac7970cde86": {
+     "notified_at": "2026-10-26T12:19:57.697121+00:00",
+     "st": "available"
+    }
+   }
+  },
   "57146237-c08e-4692-9f54-8e8831a2cd32": {
    "ends": "2026-10-30T04:00:00+00:00",
    "name": "F*CK ME IT'S HALLOWEEN \ud83d\udc7b - THE BIGGEST EVENT OF HALLOWEEN 2026!",
