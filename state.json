@@ -2737,7 +2737,8 @@
    "name": "BACK IN THE DAY BHANGRA : HALLOWEEN RAVE! | 31.10.26 | XOYO",
    "opts": {
     "00366b49-baab-4d4b-872d-a4b330a9773d": {
-     "st": "sold_out"
+     "notified_at": "2026-10-26T13:02:57.662894+00:00",
+     "st": "available"
     },
     "7b93c289-df6b-4593-b1cf-f96b67c2975a": {
      "st": "available"
