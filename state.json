@@ -451,36 +451,6 @@
     }
    }
   },
-  "27b9f865-9a07-4e73-93f5-13139b484db0": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "Desi Beatz : HALLOWEEN MELA! ",
-   "opts": {
-    "3d6d8908-ec9c-4dbd-bc3c-2e86eef25b5e": {
-     "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "completed"
-    },
-    "4722f4fa-0da6-4b11-986f-77e587ed8e23": {
-     "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "completed"
-    },
-    "908cd737-7a00-4721-a857-13ebaff7eb72": {
-     "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "completed"
-    },
-    "95e938b5-9966-4bdf-9589-7cb48174366d": {
-     "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "completed"
-    },
-    "f1e1c882-d53a-455a-9b6f-9f5b8019ba53": {
-     "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "completed"
-    },
-    "f4b4dead-23cf-483a-baab-bd39a7cf1e19": {
-     "notified_at": "2026-10-13T10:00:13.614458+00:00",
-     "st": "completed"
-    }
-   }
-  },
   "27e732cd-69ff-446d-bbbd-4f949deff2ff": {
    "ends": "2026-10-31T01:00:00+00:00",
    "name": "ELECTRIC DREAMS HALLOWEEN PARTY @ The Star of Kings",
@@ -658,32 +628,6 @@
     }
    }
   },
-  "3458afe4-cf9e-4adf-bfef-dccfc10a1b37": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "ST Georges Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "257de605-15a5-4c05-b54e-5977f612402a": {
-     "st": "sold_out"
-    },
-    "9089c120-ddad-4eef-b489-c7fbfc79b7dd": {
-     "st": "sold_out"
-    },
-    "a4668f57-0019-45b6-8376-ef6fe44cae66": {
-     "notified_at": "2026-10-12T15:07:44.362339+00:00",
-     "st": "available"
-    },
-    "cfba78b8-1017-47f0-a668-3fec7c6bfb3d": {
-     "st": "sold_out"
-    },
-    "d74f9a5d-f16a-4089-9716-ec8d348099a7": {
-     "st": "sold_out"
-    },
-    "fc77d338-1cce-4764-8816-dc2223e8144a": {
-     "notified_at": "2026-10-12T15:06:44.559847+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "3662bf6b-b552-44e8-8ec1-8e055794cba6": {
    "ends": "2026-11-01T03:30:00+00:00",
    "name": "Mansion del Terror - Halloween - Mentirosa",
@@ -717,28 +661,6 @@
     },
     "f45a9af4-3809-48dd-bba1-57db7892df28": {
      "st": "sold_out"
-    }
-   }
-  },
-  "383ede93-30fd-4b17-a34a-59ccd82794ee": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "[85% SOLD OUT!] TONIGHT : UCL Punjabi Soc : HALLOWEEN MELA! | 26.10.26 | Ministry of Sound",
-   "opts": {
-    "481ad1f5-b920-4ee6-bc6d-c992e9b770ed": {
-     "notified_at": "2026-10-16T10:15:39.797972+00:00",
-     "st": "completed"
-    },
-    "573f096b-4bcd-41ce-a106-f07dab5c4ea3": {
-     "notified_at": "2026-10-21T12:02:07.127468+00:00",
-     "st": "completed"
-    },
-    "c34e0ad1-a478-4a2e-9f49-08b7923fbfa1": {
-     "notified_at": "2026-10-21T12:08:07.378544+00:00",
-     "st": "available"
-    },
-    "d926ad4c-06b2-4f43-ba4c-a5c73f84ce86": {
-     "notified_at": "2026-10-21T12:07:06.723314+00:00",
-     "st": "available"
     }
    }
   },
@@ -826,41 +748,6 @@
     }
    }
   },
-  "3ed07eec-ad09-4271-a709-36bc5209035c": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "City University Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "102c075a-a7a2-4183-bb52-107872641d13": {
-     "notified_at": "2026-10-20T23:37:50.805770+00:00",
-     "st": "sold_out"
-    },
-    "1f21d48b-8c3d-4639-96a5-75954912f38c": {
-     "st": "sold_out"
-    },
-    "5698c535-35fd-4c99-890b-fe27375c3fef": {
-     "st": "sold_out"
-    },
-    "866118be-cd91-4093-ad1e-b45a4cc1318c": {
-     "notified_at": "2026-10-21T00:11:51.250023+00:00",
-     "st": "available"
-    },
-    "94cc6ddf-b3dc-4121-a2a7-f91dcdd4ac9a": {
-     "notified_at": "2026-10-16T18:11:59.149962+00:00",
-     "st": "sold_out"
-    },
-    "b5433c67-c042-48c7-afe8-4bd35debac72": {
-     "notified_at": "2026-10-12T14:28:34.319257+00:00",
-     "st": "available"
-    },
-    "bb9e29d7-117d-4069-90b5-707cbc385507": {
-     "st": "sold_out"
-    },
-    "cf06b357-64f4-4e9e-bd5e-c50037ef125c": {
-     "notified_at": "2026-10-21T00:10:50.438063+00:00",
-     "st": "completed"
-    }
-   }
-  },
   "40893243-18a4-4e48-90f8-f44ad08138f8": {
    "ends": "2026-10-31T03:00:00+00:00",
    "name": "\u041e\u0411\u0420\u0410\u0422\u041d\u041e \u0412 \u041f\u0420\u041e\u0428\u041b\u041e\u0415 90x & 2000x - RETRO HALLOWEEN \u0412\u0435\u0447\u0435\u0440\u0438\u043d\u043a\u0430 \u0432 \u041b\u043e\u043d\u0434\u043e\u043d\u0435 - The Aubrey",
@@ -929,36 +816,6 @@
    "ends": "2026-10-29T04:00:00+00:00",
    "name": "Sports Night at SCALA London - Halloween Party!",
    "opts": {}
-  },
-  "48a58249-a47a-43eb-b855-55f577775daf": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "QMUL ASOC : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "0171ca03-a0d2-4e16-b04f-b663bd32071c": {
-     "notified_at": "2026-10-13T14:47:48.247278+00:00",
-     "st": "available"
-    },
-    "0c0af927-4981-4863-9f6b-113a71ba1f44": {
-     "notified_at": "2026-10-13T14:47:48.247278+00:00",
-     "st": "completed"
-    },
-    "6a3b6a58-50d0-48fd-bc4d-7093d8e29dc5": {
-     "notified_at": "2026-10-13T14:47:48.247278+00:00",
-     "st": "available"
-    },
-    "743f8aed-d14a-4166-a807-4a2dc2ecb3ff": {
-     "notified_at": "2026-10-13T14:47:48.247278+00:00",
-     "st": "completed"
-    },
-    "ae8e0268-4abe-4192-8266-b94af445f7b1": {
-     "notified_at": "2026-10-21T12:01:07.234634+00:00",
-     "st": "available"
-    },
-    "cc6310dd-1643-4360-a565-d805c9c1d5dc": {
-     "notified_at": "2026-10-23T22:47:49.594867+00:00",
-     "st": "completed"
-    }
-   }
   },
   "48c9d24a-fc10-4816-997a-806c498e22f1": {
    "ends": "2026-10-30T04:00:00+00:00",
@@ -1121,46 +978,6 @@
     }
    }
   },
-  "57ee82c6-0b43-4e64-9eb5-7eed620022e8": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "Desi Beatz : HALLOWEEN MELA! | 26.10.26 | Ministry of Sound",
-   "opts": {
-    "219662cb-f53e-4c74-8661-6fd4c3a97d11": {
-     "notified_at": "2026-10-20T23:40:51.061106+00:00",
-     "st": "completed"
-    },
-    "60ec5987-fb9e-4b97-8110-2898fe0f1065": {
-     "notified_at": "2026-10-17T14:43:25.073363+00:00",
-     "st": "completed"
-    },
-    "83ac9ff7-8c93-4d84-a1a2-d47ee3d84439": {
-     "notified_at": "2026-10-15T15:09:10.300670+00:00",
-     "st": "completed"
-    },
-    "a1ed0e19-a7cb-417e-a600-033f76bd9998": {
-     "notified_at": "2026-10-21T00:05:50.511933+00:00",
-     "st": "available"
-    },
-    "a2d4e9e3-d934-472c-acbc-8076e96a7f72": {
-     "notified_at": "2026-10-25T10:58:53.787353+00:00",
-     "st": "completed"
-    },
-    "c1c13a4f-a496-4273-9af0-b97c9ac8c70b": {
-     "notified_at": "2026-10-08T15:59:54.441917+00:00",
-     "st": "completed"
-    },
-    "ecb4cf9d-4c24-42d9-b72f-3c113e3d0fbe": {
-     "notified_at": "2026-10-20T23:48:50.919872+00:00",
-     "st": "completed"
-    },
-    "f2273199-1a1f-4db4-86f6-b5f46415131b": {
-     "st": "completed"
-    },
-    "fded8c7b-9bf5-4457-a278-fd7e8eec7b6b": {
-     "st": "completed"
-    }
-   }
-  },
   "58e2425e-6d14-42e8-883b-ee15a250f367": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "SleazeBox: HALLOWEEN - FOOTBALL ZOMBIES!",
@@ -1206,32 +1023,6 @@
     },
     "dd0cac58-39bc-4004-9ad3-391cb4f36ea2": {
      "st": "available"
-    }
-   }
-  },
-  "5ff5936a-81ee-4268-b273-6a03296c875a": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "Kingston Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "14ec025a-2a38-4a7b-be06-6c6c58101cb9": {
-     "st": "sold_out"
-    },
-    "8b63703f-ef01-417b-bf1d-d6e63ae62902": {
-     "notified_at": "2026-10-12T15:17:43.860635+00:00",
-     "st": "sold_out"
-    },
-    "b6c8257f-4ae4-45e7-9932-48423fa59d9e": {
-     "st": "sold_out"
-    },
-    "d1133f7b-3029-485a-a8fa-54f1caf08173": {
-     "st": "sold_out"
-    },
-    "da406e32-5c9e-498d-a04a-68777f8766f7": {
-     "notified_at": "2026-10-12T15:17:43.860635+00:00",
-     "st": "available"
-    },
-    "f968ccd0-bf59-42a5-8ef0-c30eeb3bcdb8": {
-     "st": "sold_out"
     }
    }
   },
@@ -1757,41 +1548,6 @@
     }
    }
   },
-  "8f38aa54-eb07-4ce4-a3e8-b505c61f04e4": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "QMBL Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "32f1ad07-f9ba-4050-a1be-d6a3ce0b4076": {
-     "st": "sold_out"
-    },
-    "7a34e34b-be8f-48d8-8f62-2e0580b35f92": {
-     "notified_at": "2026-10-21T00:13:50.727306+00:00",
-     "st": "available"
-    },
-    "895b422a-8056-4645-b6d6-c2c85fc324ad": {
-     "notified_at": "2026-10-23T17:20:41.758219+00:00",
-     "st": "sold_out"
-    },
-    "90182a11-b1b6-492c-8acb-a634018859e1": {
-     "st": "sold_out"
-    },
-    "91ab09b4-c9c8-4f0d-8c46-ea2732e25ee4": {
-     "notified_at": "2026-10-12T14:32:34.423598+00:00",
-     "st": "sold_out"
-    },
-    "91fdb5ac-9c4b-46a5-a379-a7eb186c0673": {
-     "notified_at": "2026-10-21T10:31:07.395326+00:00",
-     "st": "available"
-    },
-    "97f8a7d2-88b8-4ade-9615-d807d18627b4": {
-     "st": "sold_out"
-    },
-    "9b48e9d4-06f6-4f8a-a55e-b79f8cddb5d2": {
-     "notified_at": "2026-10-12T14:31:34.418293+00:00",
-     "st": "available"
-    }
-   }
-  },
   "8f40c465-9ea6-462a-800a-c5568111481c": {
    "ends": "2026-10-31T04:00:00+00:00",
    "name": "The London Halloween Ball 2026 \ud83c\udf83 Live From Electric Brixton \ud83d\udd2e Tickets Out Now!",
@@ -1839,39 +1595,6 @@
    "opts": {
     "0a661f0c-e77f-4467-90af-0f6e96b11e62": {
      "st": "available"
-    }
-   }
-  },
-  "91eb25be-2467-4663-9b08-f27e4ca66544": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "LSESU Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "0d45af08-e855-4061-a312-e1e2ac56a183": {
-     "notified_at": "2026-10-12T15:15:43.994851+00:00",
-     "st": "available"
-    },
-    "19e9dd3a-6784-4424-bc70-d333989eb891": {
-     "notified_at": "2026-10-12T15:15:43.994851+00:00",
-     "st": "completed"
-    },
-    "5faf7de5-72bf-4281-9fea-26777ce43c5a": {
-     "notified_at": "2026-10-23T06:46:23.693799+00:00",
-     "st": "sold_out"
-    },
-    "9cbb7394-af74-4268-b2c6-05a906c0a966": {
-     "notified_at": "2026-10-11T13:31:57.327605+00:00",
-     "st": "sold_out"
-    },
-    "c45c535c-9d23-4923-9688-30e09816cc65": {
-     "notified_at": "2026-10-12T15:16:44.141518+00:00",
-     "st": "available"
-    },
-    "dba4b718-cdb7-4f51-b9d3-161031ec3001": {
-     "notified_at": "2026-10-04T17:03:44.304657+00:00",
-     "st": "sold_out"
-    },
-    "e11c7a31-0637-4fd0-81ec-b7579f5790a2": {
-     "st": "sold_out"
     }
    }
   },
@@ -2075,34 +1798,6 @@
     }
    }
   },
-  "a29f72cf-9577-47b4-91f5-62efea7ed03c": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "Westminster Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "0a07f397-5796-4703-aa5c-46036a4a1803": {
-     "notified_at": "2026-10-12T15:11:43.642482+00:00",
-     "st": "sold_out"
-    },
-    "652175c1-f90a-4fe6-b6cd-f831f4bf8ac4": {
-     "st": "sold_out"
-    },
-    "7028d825-cd34-41ad-8fa4-0f8a88fe2b9e": {
-     "notified_at": "2026-10-12T15:11:43.642482+00:00",
-     "st": "available"
-    },
-    "a3058a5a-c178-4fb8-9917-c129713bf28a": {
-     "st": "sold_out"
-    },
-    "a4776f02-7e89-4636-9e58-21383be815ad": {
-     "notified_at": "2026-10-23T12:00:32.552619+00:00",
-     "st": "sold_out"
-    },
-    "baf76774-d97e-4185-bf2d-61d00112622d": {
-     "notified_at": "2026-10-07T21:44:31.904006+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "a2a6ef21-86e1-4fc8-bf2f-902d48119134": {
    "ends": "2026-11-01T23:00:00+00:00",
    "name": "BASHMENT NATION - London\u2019s Biggest Bashment Halloween Festival",
@@ -2204,31 +1899,6 @@
      "st": "sold_out"
     },
     "505f9f67-7224-47eb-b7dc-f8ae153cc80d": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "aacb0bba-e99e-4c93-a49a-846d932c9043": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "Imperial College Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "0f6716b2-7fd2-40c9-8674-43d0ad10e00d": {
-     "st": "sold_out"
-    },
-    "223d6402-c072-4acc-be9d-263454de86ae": {
-     "st": "sold_out"
-    },
-    "2e954232-7749-4767-85de-fb3ab329ebdb": {
-     "st": "available"
-    },
-    "57a78b52-8795-470b-9797-cc59f67bb18d": {
-     "st": "sold_out"
-    },
-    "b298c14d-cc03-49dd-8f28-1cf0f3015989": {
-     "st": "sold_out"
-    },
-    "fbd2e5b6-ff19-4494-9379-178b11834633": {
-     "notified_at": "2026-10-19T15:02:46.161975+00:00",
      "st": "sold_out"
     }
    }
@@ -2388,33 +2058,6 @@
     }
    }
   },
-  "c3a80b7e-388a-44eb-a05d-5f5637dd8bc6": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "LSESU Bhangra Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "4f81ca94-5ff3-41ec-a4da-85ce65e13055": {
-     "st": "sold_out"
-    },
-    "6d1b3659-34ef-4893-81fb-c4e5121fc6ff": {
-     "notified_at": "2026-10-12T14:30:35.030009+00:00",
-     "st": "available"
-    },
-    "876707a4-5fda-4fa3-97c6-6884dda8acc9": {
-     "st": "sold_out"
-    },
-    "93b882de-6d17-41ba-b96c-1ef618f6a6f3": {
-     "st": "sold_out"
-    },
-    "d625f35b-57b7-47c8-9110-a568e671b185": {
-     "notified_at": "2026-10-12T14:29:34.874795+00:00",
-     "st": "available"
-    },
-    "f7e91389-24df-469d-bf60-4fb9383ef022": {
-     "notified_at": "2026-10-20T20:42:48.387410+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "c56f7857-4b4e-4776-b595-a7ea3d2c2fd9": {
    "ends": "2026-10-30T02:00:00+00:00",
    "name": "KCLSU PRESENTS : THE HALLOWEEN RAVE @ THE STEEL YARD! LONDON HALLOWEEN 2026",
@@ -2462,41 +2105,6 @@
     },
     "c26093bd-bf0d-4e48-9267-79a655f49dff": {
      "notified_at": "2026-10-14T10:00:18.796443+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "c78ddc37-f97d-4f76-832a-4d31bbee63c3": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "KCL Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
-   "opts": {
-    "1867a9be-9c96-49a6-932a-b334a6882c2a": {
-     "st": "sold_out"
-    },
-    "24172ba1-9ca4-4bda-900d-103d33f4f3c4": {
-     "notified_at": "2026-10-12T14:33:34.466371+00:00",
-     "st": "available"
-    },
-    "9e7818ef-dcf2-426f-9224-d46bd15cd553": {
-     "notified_at": "2026-10-21T10:33:07.029388+00:00",
-     "st": "available"
-    },
-    "adb62e10-2dd3-439b-b3e3-7e89b2220d48": {
-     "notified_at": "2026-10-21T14:38:15.526398+00:00",
-     "st": "sold_out"
-    },
-    "af90edd1-9361-459d-bc0c-103f0f0051a3": {
-     "notified_at": "2026-10-21T10:33:07.029388+00:00",
-     "st": "available"
-    },
-    "c7dd6358-8c67-4345-b90b-6b05ad17969c": {
-     "st": "sold_out"
-    },
-    "ceec5253-7f50-43bf-8cf3-b37d2d86445c": {
-     "st": "sold_out"
-    },
-    "f02b7a1b-df85-461e-b8a3-093f47bf2e16": {
-     "notified_at": "2026-10-12T14:33:34.466371+00:00",
      "st": "available"
     }
    }
@@ -3477,48 +3085,6 @@
     },
     "ea177db0-17b2-45bf-9cde-ae1b4e7d10af": {
      "st": "available"
-    }
-   }
-  },
-  "ffa6fed0-92dc-4b75-a0b8-9d89aa4b600a": {
-   "ends": "2026-10-27T04:00:00+00:00",
-   "name": "BRUNELBANTERS Desi Beatz : HALLOWEEN MELA! | 26.10.26 | Ministry of Sound",
-   "opts": {
-    "03eeb875-8e5b-4829-8d40-4a4b354bf17b": {
-     "notified_at": "2026-10-14T18:12:38.080069+00:00",
-     "st": "completed"
-    },
-    "0c00401f-db9c-4e85-9e05-29ae1e3fb275": {
-     "notified_at": "2026-10-14T18:12:38.080069+00:00",
-     "st": "completed"
-    },
-    "388cbf6a-4f10-48e8-a500-729d6017eacc": {
-     "notified_at": "2026-10-14T18:12:38.080069+00:00",
-     "st": "completed"
-    },
-    "68afc5f3-9eea-406c-a496-fcdcee2e8a10": {
-     "notified_at": "2026-10-14T18:12:38.080069+00:00",
-     "st": "completed"
-    },
-    "72c82b86-e9a0-4f86-8736-02677ceebf30": {
-     "notified_at": "2026-10-21T07:43:05.518567+00:00",
-     "st": "completed"
-    },
-    "947c841a-fdd4-4607-949b-17254ecf6dd0": {
-     "notified_at": "2026-10-14T18:12:38.080069+00:00",
-     "st": "completed"
-    },
-    "c40a320a-e402-48a0-b0f3-a21f04aacb63": {
-     "notified_at": "2026-10-14T18:12:38.080069+00:00",
-     "st": "completed"
-    },
-    "d987074f-9e0f-4a1c-a0f5-a97eea34abe7": {
-     "notified_at": "2026-10-26T09:07:56.640125+00:00",
-     "st": "completed"
-    },
-    "f5c05a7c-3036-4ffb-b6d4-04ddc59d7c15": {
-     "notified_at": "2026-10-14T18:12:38.080069+00:00",
-     "st": "completed"
     }
    }
   },
