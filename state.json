@@ -125,28 +125,6 @@
     }
    }
   },
-  "0c2c6543-c830-4f17-8780-329a9c3f52bc": {
-   "ends": "2026-10-27T03:00:00+00:00",
-   "name": "MOTION HALLOWEEN \ud83c\udf83",
-   "opts": {
-    "054da3c7-7a06-4521-870f-8f7745eba5c7": {
-     "notified_at": "2026-10-19T21:34:57.799663+00:00",
-     "st": "sold_out"
-    },
-    "5dcedf13-e3ef-4677-8465-1029a549cef7": {
-     "notified_at": "2026-10-23T10:16:32.841779+00:00",
-     "st": "sold_out"
-    },
-    "6161427d-39f9-48bf-8b09-771139ddd5bb": {
-     "notified_at": "2026-10-24T00:33:50.412032+00:00",
-     "st": "sold_out"
-    },
-    "8a761fb2-78a0-476b-ac4c-c8c3d8af8cfe": {
-     "notified_at": "2026-10-08T14:02:55.027890+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "0c707f0e-ddc5-4ff5-8258-9b95c9d8f89e": {
    "ends": "2026-10-30T00:00:00+00:00",
    "name": "TLACS Presents\u2026 TRICK OR TREAT: The Halloween Party!",
@@ -683,35 +661,6 @@
     },
     "cc689a58-4905-4de3-87f7-f37dddb47d15": {
      "notified_at": "2026-10-07T15:34:20.714740+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
-  "31973c31-0833-4c2f-8b29-cccda8f41d84": {
-   "ends": "2026-10-27T03:00:00+00:00",
-   "name": "MOTION HALLOWEEN \ud83c\udf83",
-   "opts": {
-    "a2386ffe-4ef2-4cf3-8a18-b50f37603603": {
-     "notified_at": "2026-10-08T14:03:54.743340+00:00",
-     "st": "sold_out"
-    },
-    "a83bc44a-ac23-4d8b-91dd-3d60e5cfaa64": {
-     "notified_at": "2026-10-24T00:35:50.625494+00:00",
-     "st": "sold_out"
-    },
-    "d59b13f7-d3bd-458e-b667-f124d4d565cc": {
-     "st": "sold_out"
-    },
-    "eea02f17-4a91-4610-9c06-970e405ad6cb": {
-     "notified_at": "2026-10-08T14:03:54.743340+00:00",
-     "st": "sold_out"
-    },
-    "eef70102-7b07-4525-9c11-05bd08d0b3b3": {
-     "notified_at": "2026-10-08T14:03:54.743340+00:00",
-     "st": "sold_out"
-    },
-    "ef76adac-dab7-49ed-8347-0265f70240e6": {
-     "notified_at": "2026-10-08T14:03:54.743340+00:00",
      "st": "sold_out"
     }
    }
@@ -1627,35 +1576,6 @@
     }
    }
   },
-  "7606776e-a107-4cfd-a2b2-858bf7ab28fa": {
-   "ends": "2026-10-27T03:00:00+00:00",
-   "name": "MOTION HALLOWEEN \ud83c\udf83",
-   "opts": {
-    "263b5891-1031-4931-8656-d90378ae6ce9": {
-     "notified_at": "2026-10-08T14:04:55.178967+00:00",
-     "st": "sold_out"
-    },
-    "3d9672c2-3e85-4239-83b2-b7e09bb75dff": {
-     "notified_at": "2026-10-08T14:04:55.178967+00:00",
-     "st": "sold_out"
-    },
-    "718e1e8c-ffbf-4555-bbb4-a1f139b2ebca": {
-     "notified_at": "2026-10-08T14:04:55.178967+00:00",
-     "st": "sold_out"
-    },
-    "8a2cdbbb-0551-40bd-811c-caea6c4a78d0": {
-     "notified_at": "2026-10-25T08:45:44.402040+00:00",
-     "st": "sold_out"
-    },
-    "9a7cfce6-0bf4-4571-a605-de7130822a92": {
-     "st": "sold_out"
-    },
-    "e93238f0-df23-460e-8b2a-08bf778c5a20": {
-     "notified_at": "2026-10-22T11:56:50.887716+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "7638a59b-1a70-424e-a0a4-c86830ef8033": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "F*CK ME It's Halloween 2026 - The UK's Biggest Halloween Tour | Freshers 2026",
@@ -1946,34 +1866,6 @@
      "st": "available"
     },
     "dd9752c2-f930-4935-97ef-f8fd5476895e": {
-     "st": "sold_out"
-    }
-   }
-  },
-  "8fdd8acc-5c15-4eae-a7da-45716df3fd90": {
-   "ends": "2026-10-27T03:00:00+00:00",
-   "name": "MOTION HALLOWEEN \ud83c\udf83",
-   "opts": {
-    "262046b1-22bd-4fdc-b970-22e20ff4e895": {
-     "st": "sold_out"
-    },
-    "35eb0375-dc8a-410b-8816-bf539df2f513": {
-     "notified_at": "2026-10-24T00:34:50.989623+00:00",
-     "st": "sold_out"
-    },
-    "7ac352f1-6f64-43ba-8140-435c1a0ebc72": {
-     "notified_at": "2026-10-08T14:03:54.743340+00:00",
-     "st": "sold_out"
-    },
-    "9fb4af75-668e-4d5a-b68c-f956e1028335": {
-     "st": "sold_out"
-    },
-    "cd607e6d-57af-404f-8d63-ee8b595a8af8": {
-     "notified_at": "2026-10-08T14:03:54.743340+00:00",
-     "st": "sold_out"
-    },
-    "e44a869e-2906-49b1-bec5-46f3584c31fa": {
-     "notified_at": "2026-10-08T14:03:54.743340+00:00",
      "st": "sold_out"
     }
    }
@@ -2376,28 +2268,6 @@
     }
    }
   },
-  "aa01d455-0eed-4b5d-8e00-10f259ec965f": {
-   "ends": "2026-10-27T03:00:00+00:00",
-   "name": "MOTION HALLOWEEN \ud83c\udf83",
-   "opts": {
-    "5b0c935b-6221-49f4-98c6-12c0aca1e218": {
-     "notified_at": "2026-10-24T22:22:30.098666+00:00",
-     "st": "sold_out"
-    },
-    "c665ce20-9ee5-4203-9dcf-9bfcb4058631": {
-     "notified_at": "2026-10-08T14:02:55.027890+00:00",
-     "st": "sold_out"
-    },
-    "cd11f290-0b41-4eb1-b0d3-56560e732947": {
-     "notified_at": "2026-10-08T14:02:55.027890+00:00",
-     "st": "sold_out"
-    },
-    "eb131406-526a-4a1b-b706-ea9b820ebbfb": {
-     "notified_at": "2026-10-08T14:02:55.027890+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "aacb0bba-e99e-4c93-a49a-846d932c9043": {
    "ends": "2026-10-27T04:00:00+00:00",
    "name": "Imperial College Punjabi Society : HALLOWEEN MELA! | 26.10.26 | MINISTRY OF SOUND",
@@ -2419,28 +2289,6 @@
     },
     "fbd2e5b6-ff19-4494-9379-178b11834633": {
      "notified_at": "2026-10-19T15:02:46.161975+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
-  "ab1f7073-3a7d-430c-9615-6c31f52bba7f": {
-   "ends": "2026-10-27T03:00:00+00:00",
-   "name": "MOTION HALLOWEEN \ud83c\udf83",
-   "opts": {
-    "1b52a096-ac76-4798-9d7b-7fc4d2a8086d": {
-     "notified_at": "2026-10-23T10:16:32.841779+00:00",
-     "st": "sold_out"
-    },
-    "309e209c-40ec-43c2-99ff-7938fbcb6186": {
-     "notified_at": "2026-10-08T14:02:55.027890+00:00",
-     "st": "sold_out"
-    },
-    "ca6f09e3-5e70-4811-bf7a-d78566500d13": {
-     "notified_at": "2026-10-08T14:02:55.027890+00:00",
-     "st": "sold_out"
-    },
-    "fdd11be8-6961-4317-9f39-de69310641cb": {
-     "notified_at": "2026-10-24T00:34:50.989623+00:00",
      "st": "sold_out"
     }
    }
