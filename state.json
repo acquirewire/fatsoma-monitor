@@ -917,15 +917,15 @@
    "opts": {
     "801df11b-78c0-478d-bc72-d41cdd9bdcf3": {
      "notified_at": "2026-10-26T12:19:57.697121+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "8b1ad40d-f37a-4e3e-b875-4809788128e0": {
      "notified_at": "2026-10-26T12:19:57.697121+00:00",
-     "st": "available"
+     "st": "completed"
     },
     "e97f8a00-90cd-4f86-8ae4-dac7970cde86": {
      "notified_at": "2026-10-26T12:19:57.697121+00:00",
-     "st": "available"
+     "st": "completed"
     }
    }
   },
@@ -1419,7 +1419,7 @@
    "opts": {
     "13b567a5-bcbd-406b-917e-dcd3436d3032": {
      "notified_at": "2026-10-05T01:31:02.479772+00:00",
-     "st": "available"
+     "st": "completed"
     },
     "46f5f8e6-3b5e-4892-a017-5abb5ef677d7": {
      "notified_at": "2026-10-05T01:31:02.479772+00:00",
@@ -1486,7 +1486,7 @@
     },
     "e55b0523-407d-4f20-8af1-671801f2962b": {
      "notified_at": "2026-10-05T01:32:02.932770+00:00",
-     "st": "available"
+     "st": "completed"
     }
    }
   },
@@ -1991,17 +1991,17 @@
    "name": "House of Horrors Halloween at EGG LDN | Thursday 29th October",
    "opts": {
     "2242c788-9d31-450c-afc2-d424352adccf": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "262b0ccc-e614-425b-bb0d-76fac4904ec8": {
      "notified_at": "2026-10-05T13:28:19.496939+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "5dbe3de4-03d3-48fd-8be4-34b8c571db1b": {
      "st": "available"
     },
     "f31c1c4a-7b8f-4643-9857-f8c9c5a1950c": {
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -2046,7 +2046,7 @@
      "st": "completed"
     },
     "5910cbd3-888b-4ffd-92df-e01dc590d351": {
-     "st": "available"
+     "st": "completed"
     },
     "6f224e36-f843-4c9e-aa98-d847dfe11f52": {
      "st": "completed"
@@ -2654,17 +2654,17 @@
    "name": "The Halloween House of Horrors",
    "opts": {
     "25f6e247-8cc0-4800-88d6-2f9cb4c74f4f": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "aa6bee41-b12f-4b87-9870-4c1558f05be1": {
      "notified_at": "2026-10-13T18:02:49.815485+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "f086bce3-b6cb-4e24-b46a-a6829608b609": {
-     "st": "available"
+     "st": "completed"
     },
     "fe8393ae-21b5-461d-acbb-8724b8c47056": {
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
