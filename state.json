@@ -1431,7 +1431,7 @@
     },
     "e8bfd030-f97b-4d56-ad72-d9f8bd21b571": {
      "notified_at": "2026-10-05T01:31:02.479772+00:00",
-     "st": "available"
+     "st": "completed"
     }
    }
   },
@@ -1474,7 +1474,7 @@
    "opts": {
     "2605ff53-dba2-434d-b765-4c6722039a41": {
      "notified_at": "2026-10-05T01:32:02.932770+00:00",
-     "st": "available"
+     "st": "completed"
     },
     "6a2e2a0b-c23c-4a8c-ae5f-d20be9098251": {
      "notified_at": "2026-10-28T17:25:28.542172+00:00",
@@ -1998,7 +1998,7 @@
      "st": "completed"
     },
     "5dbe3de4-03d3-48fd-8be4-34b8c571db1b": {
-     "st": "available"
+     "st": "completed"
     },
     "f31c1c4a-7b8f-4643-9857-f8c9c5a1950c": {
      "st": "completed"
@@ -2662,7 +2662,7 @@
     },
     "f086bce3-b6cb-4e24-b46a-a6829608b609": {
      "notified_at": "2026-10-30T00:53:45.461376+00:00",
-     "st": "available"
+     "st": "completed"
     },
     "fe8393ae-21b5-461d-acbb-8724b8c47056": {
      "st": "completed"
@@ -2760,7 +2760,7 @@
     },
     "6ce6ebf9-4e77-4550-9678-7f6772d53465": {
      "notified_at": "2026-10-05T01:31:02.479772+00:00",
-     "st": "available"
+     "st": "completed"
     },
     "adfeb47a-c5cc-4b47-9997-bf78fefb21b2": {
      "notified_at": "2026-10-05T01:31:02.479772+00:00",
