@@ -1947,6 +1947,10 @@
    "ends": "2026-11-01T08:00:00+00:00",
    "name": "Halloween Special - Rave To The Grave",
    "opts": {
+    "16390d1a-8e74-4d28-8d10-753967f8ca2a": {
+     "notified_at": "2026-10-30T17:26:11.769021+00:00",
+     "st": "available"
+    },
     "538b6c72-9936-4d8e-b626-99d28c5c4831": {
      "st": "available"
     },
