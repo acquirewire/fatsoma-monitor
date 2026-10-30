@@ -232,18 +232,6 @@
     }
    }
   },
-  "14e24363-71be-4625-bb34-2e6815c6d269": {
-   "ends": "2026-10-29T04:00:00+00:00",
-   "name": "Wednesday Club Halloween: House, Tech House, Electro & Hip Hop",
-   "opts": {
-    "15ee270e-44d0-4aa4-a916-f4fff233aeaf": {
-     "st": "completed"
-    },
-    "7f308791-fdec-4760-8cb0-2a7535f298c9": {
-     "st": "completed"
-    }
-   }
-  },
   "177dfc27-2a4d-474d-92a0-302d02d6d4bd": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Rave To The Grave at Egg London! Halloween 2026",
@@ -782,11 +770,6 @@
      "st": "sold_out"
     }
    }
-  },
-  "45fed4ab-0216-4f02-93d0-fffbcb0cda15": {
-   "ends": "2026-10-29T04:00:00+00:00",
-   "name": "Sports Night at SCALA London - Halloween Party!",
-   "opts": {}
   },
   "48c9d24a-fc10-4816-997a-806c498e22f1": {
    "ends": "2026-10-30T04:00:00+00:00",
@@ -1709,21 +1692,6 @@
     },
     "d943da02-c087-4c15-b215-4616977a75a2": {
      "st": "available"
-    }
-   }
-  },
-  "9ec2afdb-88ec-4181-85f9-a84676e78378": {
-   "ends": "2026-10-29T04:00:00+00:00",
-   "name": "EGG Wednesday Club / Halloween Special ",
-   "opts": {
-    "08314699-59f8-4ed9-acf2-42d4af5b3008": {
-     "st": "completed"
-    },
-    "db51176b-a5c9-4f2d-bf80-260bc5fe9252": {
-     "st": "completed"
-    },
-    "f1174ca9-8b1c-467b-95ca-20b0b3569b4c": {
-     "st": "completed"
     }
    }
   },
