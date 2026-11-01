@@ -349,18 +349,6 @@
     }
    }
   },
-  "27e732cd-69ff-446d-bbbd-4f949deff2ff": {
-   "ends": "2026-10-31T01:00:00+00:00",
-   "name": "ELECTRIC DREAMS HALLOWEEN PARTY @ The Star of Kings",
-   "opts": {
-    "6c3ef1a2-97b9-41ec-855b-f9bc0cf0d4fa": {
-     "st": "available"
-    },
-    "d15c6738-6d43-4305-8485-8b881fafbfe1": {
-     "st": "available"
-    }
-   }
-  },
   "295af59f-c064-40bc-83d5-41a74a6238bb": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "HALLOWEEN ",
@@ -1155,21 +1143,6 @@
     },
     "f215fee2-6a25-48ea-af7a-5343eccd64c4": {
      "st": "completed"
-    }
-   }
-  },
-  "87594164-e584-443b-ac73-02101f72d38b": {
-   "ends": "2026-10-31T01:00:00+00:00",
-   "name": "HALLOWEEN CENTRAL LONDON PUB CRAWL FRIDAY 30TH OCTOBER",
-   "opts": {
-    "77666298-685e-49cb-987b-59b6752cf965": {
-     "st": "available"
-    },
-    "b57853e4-d7a7-4dde-b3f4-17cee1f26959": {
-     "st": "available"
-    },
-    "e3ef4e3d-dd9b-48c5-a418-3602efbe12e5": {
-     "st": "available"
     }
    }
   },
