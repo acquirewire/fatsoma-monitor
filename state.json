@@ -851,21 +851,6 @@
     }
    }
   },
-  "68bd662d-22d8-4eb4-bada-f51ed25a24a2": {
-   "ends": "2026-10-31T01:30:00+00:00",
-   "name": "No Scrubs: 90 & 00s R&B & Hip-Hop Halloween Party (London)",
-   "opts": {
-    "22d750a4-d0e8-48c2-a175-811c22101d28": {
-     "st": "available"
-    },
-    "a6c47fc8-d08d-474c-949e-c45457151beb": {
-     "st": "available"
-    },
-    "f4e14917-2769-4d1d-8c9f-c9e2da49a342": {
-     "st": "available"
-    }
-   }
-  },
   "69207e2b-14d8-4e33-a2f9-2b44bf91053e": {
    "ends": "2026-10-31T03:00:00+00:00",
    "name": "PROJECT HALLOWEEN LONDON 2026 \ud83c\udf83 London's Biggest Halloween Event! Only Student Event to be held at 93 Feet East!",
@@ -2109,18 +2094,6 @@
    "opts": {
     "e04a42a6-c78e-4cb8-b785-00242f15e1df": {
      "st": "available"
-    }
-   }
-  },
-  "ed2d8564-f1ac-413d-90ef-65263b5303b0": {
-   "ends": "2026-10-31T01:30:00+00:00",
-   "name": "The 80s Halloween Party: Age Against The Machine (18+) - 30th October, 8:30pm-1:30am *1/3 Sold Already*",
-   "opts": {
-    "001306cc-295a-46a4-b1b2-0a55c538ea32": {
-     "st": "available"
-    },
-    "daf7d211-59ca-4e69-a315-d51678fbd11f": {
-     "st": "sold_out"
     }
    }
   },
