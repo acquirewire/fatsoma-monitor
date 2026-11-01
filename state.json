@@ -854,30 +854,6 @@
     }
    }
   },
-  "a7324eb1-793c-4b33-8d77-8bae9b0a36e7": {
-   "ends": "2026-10-31T22:00:00+00:00",
-   "name": "Garage Nation Halloween Festival ",
-   "opts": {
-    "08036d0c-618d-4ef1-b27b-968d5486592a": {
-     "notified_at": "2026-10-09T12:00:34.833883+00:00",
-     "st": "available"
-    },
-    "3c84de50-d1fc-4c85-978c-1d240ff60ec9": {
-     "notified_at": "2026-10-09T12:00:34.833883+00:00",
-     "st": "available"
-    },
-    "4348a160-bed6-440a-b8a2-f33e4cf3d35a": {
-     "notified_at": "2026-10-09T12:00:34.833883+00:00",
-     "st": "available"
-    },
-    "8e00bb64-bd80-4253-82dc-e96044d68cd4": {
-     "st": "available"
-    },
-    "c2e59e94-efa6-480d-850e-94fee063b6bf": {
-     "st": "available"
-    }
-   }
-  },
   "a84863e2-7271-4837-b6e7-246223320a74": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "Nightmare in Clapham Halloween Party",
@@ -918,20 +894,6 @@
    "name": "REGGAETON All Night Long - Halloween Special",
    "opts": {
     "73e812f3-4932-4c48-8ed6-a4864b6aa6aa": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "b39a2687-cb40-4011-9cbb-991e27c57dcc": {
-   "ends": "2026-10-31T22:00:00+00:00",
-   "name": "Day Breaks Halloween Special Day Time Party",
-   "opts": {
-    "0d27549d-b805-4b36-b3be-db935777a7c7": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "711d3dbe-f8a2-4577-aec6-45ed7bb13e2c": {
      "notified_at": "2026-10-02T18:46:57.905958+00:00",
      "st": "available"
     }
@@ -1029,15 +991,6 @@
    "ends": "2026-11-07T22:00:00+00:00",
    "name": "Club Labrynth - Slightly Late Halloween Ball",
    "opts": {}
-  },
-  "d4ef1bbc-df27-4766-9572-5a9cfc406159": {
-   "ends": "2026-10-31T22:00:00+00:00",
-   "name": "Vivid People Party - Halloween 3",
-   "opts": {
-    "3d93b550-e748-4b4c-8547-718f7e52eabd": {
-     "st": "completed"
-    }
-   }
   },
   "d5663059-127b-436a-96b2-4dbb32a212eb": {
    "ends": "2026-11-01T03:00:00+00:00",
