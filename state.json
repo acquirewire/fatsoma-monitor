@@ -13,21 +13,6 @@
     }
    }
   },
-  "028f2b86-ff7c-4ab4-a33d-56feb9909285": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "So Fetch - 2000s Halloween Party (London)",
-   "opts": {
-    "a0d0ebd1-3546-460f-a599-6114495d94b0": {
-     "st": "available"
-    },
-    "e0e28873-35a4-42ac-baf8-901c48fba049": {
-     "st": "available"
-    },
-    "f339ef5c-e499-44e8-b651-acb2ea0cf319": {
-     "st": "available"
-    }
-   }
-  },
   "036584e2-fe34-4288-804d-d97fa579477d": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Pop Party - Pop All Night Long - Halloween Special",
@@ -147,21 +132,6 @@
     }
    }
   },
-  "124b2bf7-53a8-4ecb-979b-c230ca95533f": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "The Hip Hop Halloween - Central London Halloween Party!",
-   "opts": {
-    "09b1701b-b620-42a6-9777-3a32d4c4079b": {
-     "st": "available"
-    },
-    "55766e25-851f-4777-86c5-3beb6036f4d8": {
-     "st": "available"
-    },
-    "a9030be2-6370-444a-98d1-f8909d91bfb6": {
-     "st": "available"
-    }
-   }
-  },
   "13a0f1b4-8229-4c86-900b-aa19ba4a401e": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "Day of Dead Halloween Party Sat 31st London",
@@ -215,21 +185,6 @@
     }
    }
   },
-  "1dc83656-67fc-424e-8fcf-9eac461a5f1e": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "The Hip Hop Halloween - Central London Halloween Party!",
-   "opts": {
-    "1edb3b11-d3ba-4c77-9f41-e9be3354f21c": {
-     "st": "available"
-    },
-    "3c12e3cb-2512-4079-8077-b13667121923": {
-     "st": "available"
-    },
-    "a8b6086f-60b0-4f99-846f-4b13057b869c": {
-     "st": "available"
-    }
-   }
-  },
   "1ea5ff74-1cb0-424f-bfc3-7078d733dc6a": {
    "ends": "2026-11-25T04:00:00+00:00",
    "name": "\ud83d\udeab SOLD OUT! \ud83d\udeab Ministry of Sound, Milkshake \ud83c\udf8823 F*CKING YEARS - \ud83c\udf82 Official 23rd Birthday Event \ud83c\udf88\ud83d\udeab SOLD OUT! \ud83d\udeab ",
@@ -241,30 +196,6 @@
     "ad0334e7-c469-4e20-b2c5-63c7c5d944eb": {
      "notified_at": "2026-10-05T21:07:29.541955+00:00",
      "st": "sold_out"
-    }
-   }
-  },
-  "245f17e0-b4d0-41fd-93ad-739f34ca64c8": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "Greenwich University Halloween Party Friday 30th October",
-   "opts": {
-    "231e8a55-1b7b-4068-b4f4-586db22d6a8d": {
-     "st": "available"
-    },
-    "25c42c24-921c-4680-8f4d-ee534f3db8e6": {
-     "st": "available"
-    },
-    "72f57851-4c1f-4877-9296-0c0308f2fb9b": {
-     "st": "available"
-    },
-    "a3aacc32-b547-45a1-8c6c-f00fcff2b07f": {
-     "st": "available"
-    },
-    "e8f3f9ed-51fd-4dd6-81a1-91e573b1fdf7": {
-     "st": "available"
-    },
-    "ede41071-c4d2-49cc-ba16-210fa0c90e55": {
-     "st": "available"
     }
    }
   },
@@ -585,18 +516,6 @@
     }
    }
   },
-  "40893243-18a4-4e48-90f8-f44ad08138f8": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "\u041e\u0411\u0420\u0410\u0422\u041d\u041e \u0412 \u041f\u0420\u041e\u0428\u041b\u041e\u0415 90x & 2000x - RETRO HALLOWEEN \u0412\u0435\u0447\u0435\u0440\u0438\u043d\u043a\u0430 \u0432 \u041b\u043e\u043d\u0434\u043e\u043d\u0435 - The Aubrey",
-   "opts": {
-    "118a59f5-5a9f-4a0a-910c-3d24a8a2cf90": {
-     "st": "available"
-    },
-    "539b7712-d4ce-44a5-86bc-6cded4814a2d": {
-     "st": "available"
-    }
-   }
-  },
   "434f6a64-bd11-4425-b0aa-223015ce29a4": {
    "ends": "2026-10-31T05:00:00+00:00",
    "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
@@ -646,39 +565,6 @@
     "cacfd95f-64e5-47ca-b6dc-b64029745f53": {
      "notified_at": "2026-10-16T16:46:50.054523+00:00",
      "st": "sold_out"
-    }
-   }
-  },
-  "49117a8e-09ed-464f-891d-c7e667678bcd": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "BHANGRA VS BOLLYWOOD : HALLOWEEN HOUSE PARTY! | 30.10.26 | SIMMONS HOLBORN",
-   "opts": {
-    "2c621229-7252-42d4-a5c8-ebbd391128d5": {
-     "st": "available"
-    },
-    "41f9ee6d-d6c2-4c23-8d45-7e4ca4983613": {
-     "st": "available"
-    },
-    "49f1fb44-6410-4fc9-a93e-1e139e91dfb1": {
-     "st": "available"
-    },
-    "53592441-2c76-4619-a5d5-18b367d4e300": {
-     "st": "sold_out"
-    },
-    "599d1497-35aa-47ee-a6bf-c3600cd8f430": {
-     "st": "available"
-    },
-    "8f32b10b-ae5b-4c78-af34-e01479b4fe4a": {
-     "st": "available"
-    },
-    "cab8df0c-49cc-41bc-be01-b8f493c2b5b9": {
-     "st": "available"
-    },
-    "cc073d39-c72d-4167-a326-5a7a7767dc73": {
-     "st": "available"
-    },
-    "ef6e625a-8824-497a-b2bd-b479cc2bdbbc": {
-     "st": "available"
     }
    }
   },
@@ -842,27 +728,6 @@
     }
    }
   },
-  "69207e2b-14d8-4e33-a2f9-2b44bf91053e": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "PROJECT HALLOWEEN LONDON 2026 \ud83c\udf83 London's Biggest Halloween Event! Only Student Event to be held at 93 Feet East!",
-   "opts": {
-    "3c530a72-d6d3-45dc-b14d-9b94b48653af": {
-     "st": "available"
-    },
-    "42887783-a9eb-4288-818f-f35d3730d3c6": {
-     "st": "completed"
-    },
-    "4ab9437f-e560-4ef4-80d1-5aa140d0f300": {
-     "st": "available"
-    },
-    "6a7acecc-309e-4c6a-92a3-2f0fac009bab": {
-     "st": "available"
-    },
-    "71a7eef6-4357-4d96-ad6e-100f47aa3727": {
-     "st": "available"
-    }
-   }
-  },
   "6e11dea0-01dd-4c7c-ab93-360a58b5d85f": {
    "ends": "2026-11-01T21:30:00+00:00",
    "name": "SLOW JAMS NATION - Halloween Slow Jams & RnB Day Party in Brixton",
@@ -884,18 +749,6 @@
     },
     "de50555d-0672-49e6-a7dd-f644c30222e2": {
      "st": "available"
-    }
-   }
-  },
-  "6fb52a32-aae6-4b45-8a73-3b6271771491": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "TriOne Presents: Halloween After Dark ",
-   "opts": {
-    "14716109-d8bf-406f-9e9c-9b3d3b83897d": {
-     "st": "available"
-    },
-    "9784c6f0-5a98-43c6-bb73-0fded94b8937": {
-     "st": "sold_out"
     }
    }
   },
@@ -1119,36 +972,6 @@
     },
     "f215fee2-6a25-48ea-af7a-5343eccd64c4": {
      "st": "completed"
-    }
-   }
-  },
-  "8bbaf70a-1832-4f7f-8a8f-abd7e7a0b7c0": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "\ud83d\udea8LONDON HALLOWEEN PARTY PASS 2026 THIS WEEK\ud83c\udf83By UCLxKCL PARTIES,   & DROKTR\ud83d\udd25",
-   "opts": {
-    "063ffeb4-ca68-4dfe-8373-f864331015c7": {
-     "notified_at": "2026-10-27T02:44:25.844432+00:00",
-     "st": "available"
-    },
-    "4701e4d6-e434-4bb8-b585-f06e3cde0262": {
-     "notified_at": "2026-10-27T02:44:25.844432+00:00",
-     "st": "available"
-    },
-    "7676c9df-bea5-4df6-8ac4-7ce8fad89adb": {
-     "notified_at": "2026-10-27T02:44:25.844432+00:00",
-     "st": "available"
-    },
-    "842e58ba-1af1-4ffe-be0f-02fb404a5ec6": {
-     "notified_at": "2026-10-28T12:18:15.415444+00:00",
-     "st": "completed"
-    },
-    "8666ac85-37d8-45e7-bb71-835e8c776a26": {
-     "notified_at": "2026-10-27T02:44:25.844432+00:00",
-     "st": "available"
-    },
-    "c43c4ab9-c8e0-486a-a29f-1d8004118552": {
-     "notified_at": "2026-10-27T02:47:25.567430+00:00",
-     "st": "available"
     }
    }
   },
@@ -1607,18 +1430,6 @@
     }
    }
   },
-  "cb8273bf-a514-400b-b2f3-d1ec8b5978db": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "Halloween Pub Crawl London",
-   "opts": {
-    "b65f9196-1aa0-43f6-a4cf-b26e12191fe4": {
-     "st": "available"
-    },
-    "da390255-9182-4aa5-8127-9fc5dca6acb6": {
-     "st": "available"
-    }
-   }
-  },
   "cb90e26c-17db-4a05-95c7-9647e550d248": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "LEMONADE HALLOWEEN SPECIAL: POP, RNB, HIP HOP, OLD SCHOOL CLASSICS, AFROBEATS & DANCEHALL\u2026 TIL 4AM",
@@ -1931,21 +1742,6 @@
     }
    }
   },
-  "dc9428fc-6bd7-42aa-af1e-74ab607ee318": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "We Are Still Young: Halloween Party (London) \ud83e\udd18",
-   "opts": {
-    "277d516a-ad65-4113-af6c-2c84da76e935": {
-     "st": "available"
-    },
-    "4b690cb2-6a3e-4e9c-9c0a-8bccf47c9d41": {
-     "st": "available"
-    },
-    "64a50509-e347-4b82-bb04-fb3f5dd5be43": {
-     "st": "available"
-    }
-   }
-  },
   "ddfd028c-df55-4d31-810b-ed7aa4b4301f": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "HOUSE OF HORRORS 3-Room Halloween Indoor Festival Saturday 31st October",
@@ -1995,30 +1791,6 @@
      "st": "available"
     },
     "92372519-6352-4568-a6bc-6efc8357cb24": {
-     "st": "available"
-    }
-   }
-  },
-  "e82eb225-f332-420b-9b58-deeec7c01788": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "Greenwich University Halloween Party Friday 30th October",
-   "opts": {
-    "23dddce0-a7e0-44fe-95ce-162cd8301395": {
-     "st": "available"
-    },
-    "359033c7-68ed-4d90-a099-ef27b8041478": {
-     "st": "available"
-    },
-    "6f08663d-d177-4628-8629-078048d0d0e1": {
-     "st": "available"
-    },
-    "7606d8e8-b9b3-498c-b2f3-296853d5b970": {
-     "st": "available"
-    },
-    "e9ec7e38-84c5-4db5-8f48-17d3e9074598": {
-     "st": "available"
-    },
-    "f962105f-590c-4250-928b-98e2b7aba6ee": {
      "st": "available"
     }
    }
@@ -2106,33 +1878,6 @@
     }
    }
   },
-  "ee2c30b8-2b7b-44fe-aec9-8fe537c141a0": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "UCL\u2019s Official Halloween Party - Nightmare In Camden \ud83c\udf83  at the Electric Ballroom!",
-   "opts": {
-    "0c23bf0b-f002-4682-bc62-d7ad080e61f5": {
-     "notified_at": "2026-10-11T18:17:07.696120+00:00",
-     "st": "sold_out"
-    },
-    "13874180-449a-44bd-b5e5-098f58959ab4": {
-     "notified_at": "2026-10-06T21:07:06.142275+00:00",
-     "st": "sold_out"
-    },
-    "517e8a1b-4a23-498f-8df3-378ac18bf782": {
-     "st": "sold_out"
-    },
-    "72cc34ff-fc9c-4b5b-81b0-5e3f9f51556e": {
-     "st": "sold_out"
-    },
-    "a86f1738-0c7c-4f16-b0ff-7d4fbc49b520": {
-     "notified_at": "2026-10-14T12:22:29.356858+00:00",
-     "st": "sold_out"
-    },
-    "dc580e90-30eb-4919-b926-749cba906f75": {
-     "st": "sold_out"
-    }
-   }
-  },
   "ee747fb5-e5a5-4ea2-ba78-2e986ca6db98": {
    "ends": "2026-10-31T05:00:00+00:00",
    "name": "Haunted House Halloween Party",
@@ -2181,36 +1926,6 @@
     }
    }
   },
-  "f25ed98a-03dd-41d1-9fe8-bbcdb45aef46": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "Greenwich University Halloween Party Friday 30th October",
-   "opts": {
-    "1e9aab40-ce48-484f-8861-9ede0867ebe5": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "2d5e80ad-4b1f-45f8-aa9c-eb6f853af966": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "9baf13ee-1b90-4f2c-86d7-53a877c70a0c": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "ab08cb8d-7bd5-4c3e-94cd-872b39fb7042": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "c2fb2b6f-ab4e-49c4-aab6-c48cfb41449e": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "f6457507-7165-4e12-bc48-cf739772c3b3": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
   "f474176f-48c8-4c91-bbdb-e6740b2767fe": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "CONGAS 31 OCTOBER* HALLOWEEN EDICI\u00d3N ",
@@ -2223,30 +1938,6 @@
     },
     "e27e9485-c9e4-4f01-accf-d00ef1f49ca6": {
      "st": "sold_out"
-    }
-   }
-  },
-  "f48add6c-d698-4dc7-aa6d-f5ce45c174a1": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "Greenwich Halloween Party Friday 30th October",
-   "opts": {
-    "19f3c381-9171-46b1-97eb-fad88143bed6": {
-     "st": "available"
-    },
-    "1a1f6c31-18cc-43e0-bdac-072429b45c03": {
-     "st": "available"
-    },
-    "b7732fb9-c5c0-4127-9c0b-bf4a650bc787": {
-     "st": "available"
-    },
-    "c25a1b3d-6815-49c9-bb84-64a4e0136cf1": {
-     "st": "available"
-    },
-    "c868257a-3b1c-461c-bdd7-99414f9d06cb": {
-     "st": "available"
-    },
-    "f9e980c7-6ce4-4fe5-a29e-40b13ab03931": {
-     "st": "available"
     }
    }
   },
@@ -2281,18 +1972,6 @@
      "st": "sold_out"
     },
     "e19f3c0f-01c4-4fbb-87c0-ca6dd86d57c8": {
-     "st": "available"
-    }
-   }
-  },
-  "f9d010f0-fa57-4e4b-9741-01a73fc56e02": {
-   "ends": "2026-10-31T03:00:00+00:00",
-   "name": "Halloween Pub Crawl London",
-   "opts": {
-    "3fc15e0d-81d0-4e49-88e3-d0878081db38": {
-     "st": "available"
-    },
-    "ed81fb73-a06e-4c29-b90d-0e27c6a01476": {
      "st": "available"
     }
    }
