@@ -866,7 +866,7 @@
    "opts": {
     "90cce9e4-af71-4936-8719-f5cca9a0dbaf": {
      "notified_at": "2026-10-05T08:40:10.238528+00:00",
-     "st": "available"
+     "st": "completed"
     }
    }
   },
@@ -1036,18 +1036,6 @@
     }
    }
   },
-  "d01118d8-ebe1-4faa-9ee3-6dac8481a19c": {
-   "ends": "2026-10-31T20:00:00+00:00",
-   "name": "R'n'B LDN Day Party Halloween w/ Shortee Blitz",
-   "opts": {
-    "01c8b55c-b89f-4ed8-ad6a-5f12e6bbba6a": {
-     "st": "available"
-    },
-    "7ce216f2-9723-4e91-83af-0018fbf6a22f": {
-     "st": "available"
-    }
-   }
-  },
   "d12fc2c9-ffe5-4c0e-9dcf-2608d8e32991": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Halloween When Dark Meet Light",
@@ -1133,48 +1121,6 @@
     },
     "f89450e1-55fc-48bd-b2b9-eabd0f1a9d76": {
      "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "d67538ce-e45f-4679-9d1f-6d4a55045fdb": {
-   "ends": "2026-10-31T20:00:00+00:00",
-   "name": "BOLLYDAY OF THE DEAD! The UK's First Bollywood (Halloween) Daytimer!",
-   "opts": {
-    "211a44a3-1da2-403f-97de-25005a84e330": {
-     "st": "available"
-    },
-    "2281ce21-9d2f-4cb7-a3a1-7440ad69adcc": {
-     "st": "available"
-    },
-    "3fe364e5-d5d2-4b1e-9298-74cf5332255b": {
-     "st": "not_started"
-    },
-    "4e108683-d69c-42de-9297-85333238ce29": {
-     "st": "available"
-    },
-    "6bb0db58-caad-4034-8d17-2678422a2beb": {
-     "st": "available"
-    },
-    "9a4c0963-ebc0-4a3b-b76f-6c02b419e923": {
-     "st": "available"
-    },
-    "b5e13d64-522d-4561-90a0-afc6bdba47c7": {
-     "st": "available"
-    },
-    "bbf0c41f-b90b-4c37-8a29-8b342d5dc9f5": {
-     "st": "not_started"
-    },
-    "d12e60b6-d1b3-4dd4-afab-c66edd8e4b86": {
-     "st": "available"
-    },
-    "d7015c2c-19e5-41df-b485-c9e5e852a371": {
-     "st": "available"
-    },
-    "ec6a5142-c201-4da5-a525-798fb834df92": {
-     "st": "available"
-    },
-    "f47f3ce7-cef1-4066-ab68-1f01ee5e6dec": {
      "st": "available"
     }
    }
