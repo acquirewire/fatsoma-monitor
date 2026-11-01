@@ -39,16 +39,6 @@
     }
    }
   },
-  "0e3b6f2d-f57a-4f26-a201-8636e86e8d88": {
-   "ends": "2026-10-31T21:00:00+00:00",
-   "name": "UKG BINGO Sat 31st October London Halloween special",
-   "opts": {
-    "e4e62179-1e30-4d95-8494-0095ef815340": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
   "0f881029-5bd9-4f6e-9938-ec761c392ed9": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "BackOutside - MEDUSA HALLOWEEN SOIR\u00c9E",
@@ -440,16 +430,6 @@
      "st": "available"
     },
     "dd0cac58-39bc-4004-9ad3-391cb4f36ea2": {
-     "st": "available"
-    }
-   }
-  },
-  "602b6742-aaec-49df-a34f-c64513dc3548": {
-   "ends": "2026-10-31T21:00:00+00:00",
-   "name": "UKG BINGO Sat 31st October London Halloween special",
-   "opts": {
-    "beaed597-0a6e-4df1-a00c-b7090d825ecf": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
      "st": "available"
     }
    }
@@ -998,15 +978,6 @@
     }
    }
   },
-  "c8d540af-4f13-4581-b39a-5162d8cf486b": {
-   "ends": "2026-10-31T21:00:00+00:00",
-   "name": "Old Skool Bingo Sat 31st October Halloween London",
-   "opts": {
-    "865cce71-bdb5-4d76-bc57-359850d97e77": {
-     "st": "available"
-    }
-   }
-  },
   "c9b30874-86d0-4add-a04c-0371e9a4930a": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "Fancy Dress Halloween Party",
@@ -1203,7 +1174,7 @@
    "opts": {
     "abf7a2fb-9d53-4823-8071-3a7d5017e96a": {
      "notified_at": "2026-10-04T16:31:44.919653+00:00",
-     "st": "available"
+     "st": "completed"
     }
    }
   },
