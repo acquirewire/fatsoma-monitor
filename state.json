@@ -613,15 +613,6 @@
     }
    }
   },
-  "58e61766-15fd-421e-a240-79010f065cc8": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "VYBZ Kartel - Shoreditch Halloween Bashment Party",
-   "opts": {
-    "2622d0ac-b03d-4299-b02e-1e217fb97f5f": {
-     "st": "available"
-    }
-   }
-  },
   "59fbeedf-8d61-45b9-9613-7b085a721adc": {
    "ends": "2026-11-01T03:00:00+00:00",
    "name": "Halloween Pub Crawl London",
@@ -848,18 +839,6 @@
     }
    }
   },
-  "7931f046-834b-4cb7-86f1-fac38543c108": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "Fancy Dress Halloween Party",
-   "opts": {
-    "a59ea684-a538-4956-9590-16355d296b80": {
-     "st": "available"
-    },
-    "d9aa8126-28d8-49ea-81f2-8044fede982a": {
-     "st": "available"
-    }
-   }
-  },
   "7d8ad592-aa20-46d7-8283-5487a38186d6": {
    "ends": "2026-11-01T02:00:00+00:00",
    "name": "HALLOWEEN MASSACRE-ADE AT CIRCE\u2019S ROOFTOP",
@@ -872,18 +851,6 @@
     },
     "e2456111-2747-4b1e-8088-0d3abdac61b2": {
      "st": "available"
-    }
-   }
-  },
-  "7e07dcb8-7fb8-410a-8a14-32f7e15978a0": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "Haunted Shoreditch - Everyone Free Before 12AM",
-   "opts": {
-    "bc966c2e-d533-4685-a33e-0e31031adf89": {
-     "st": "completed"
-    },
-    "ebe1840b-2e6f-4371-822f-dae88752c8f6": {
-     "st": "completed"
     }
    }
   },
@@ -991,24 +958,6 @@
     },
     "eecf9ee8-65ae-4e7b-850f-f2665782a3c9": {
      "st": "available"
-    }
-   }
-  },
-  "8f40c465-9ea6-462a-800a-c5568111481c": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "The London Halloween Ball 2026 \ud83c\udf83 Live From Electric Brixton \ud83d\udd2e Tickets Out Now!",
-   "opts": {
-    "12335fca-684f-4ca5-8211-fd11d024097f": {
-     "st": "available"
-    },
-    "9c496f78-9c7f-42a8-892a-6baf30352c5e": {
-     "st": "available"
-    },
-    "b7e85b89-3c6d-41f3-849e-6337baf387e5": {
-     "st": "available"
-    },
-    "dd9752c2-f930-4935-97ef-f8fd5476895e": {
-     "st": "sold_out"
     }
    }
   },
@@ -1354,21 +1303,6 @@
     }
    }
   },
-  "c368598b-9e9c-4899-a684-406013a5650d": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "PROJECT HALLOWEEN LONDON 2026 \ud83c\udf83 London's Biggest Halloween Event! Only Student Event to be held at 93 Feet East!",
-   "opts": {
-    "b82fa318-754d-4246-b089-627687578ed9": {
-     "st": "available"
-    },
-    "c3a09a09-f4d5-4cee-94e8-85bc0f2019ba": {
-     "st": "available"
-    },
-    "c8e68ab8-c74a-42a0-86b0-3dd942489c5e": {
-     "st": "available"
-    }
-   }
-  },
   "c5eff0cc-2390-4dfe-93df-a9fd48ae5035": {
    "ends": "2026-10-31T05:00:00+00:00",
    "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
@@ -1443,18 +1377,6 @@
     }
    }
   },
-  "ce033891-83bf-4c16-bb8a-098a3e9a549c": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "Halloween Shoreditch Free Party - Everyone Free Before 12AM",
-   "opts": {
-    "1d785758-42ea-420a-81d5-58380c1c17a7": {
-     "st": "available"
-    },
-    "a2a923f9-15af-4dd8-b0ed-fd63ddcb9c1e": {
-     "st": "available"
-    }
-   }
-  },
   "ce46fa85-45e1-426f-ba6d-26c0612545d2": {
    "ends": "2026-10-31T05:00:00+00:00",
    "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
@@ -1497,18 +1419,6 @@
      "st": "available"
     },
     "e6326b14-4c0b-45a1-8cb9-5ffe8cd37caf": {
-     "st": "available"
-    }
-   }
-  },
-  "cf1bf76f-e293-49d6-bbeb-e7f7b3099466": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "Get Wild - Shoreditch Halloween Party - Everyone Free Before 12AM",
-   "opts": {
-    "06fa5da8-4fdd-4775-a5fe-26b5b15ddb07": {
-     "st": "available"
-    },
-    "59f6436f-4a12-4ea4-93db-0a6638004f1e": {
      "st": "available"
     }
    }
@@ -1579,16 +1489,16 @@
    "name": "XOYO Halloween: In The Field with Jamie Fielding [SOLD OUT]",
    "opts": {
     "1a29e331-b451-40d6-a904-eb44cedee90a": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "4f1ecd56-19af-4eba-af33-7fc077cc63af": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "6a03e644-09f5-4cec-950a-67699cfdcf2b": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "ea6ad497-a9fd-440f-a5b1-811b013fd268": {
-     "st": "sold_out"
+     "st": "completed"
     }
    }
   },
@@ -1668,15 +1578,6 @@
     },
     "f028e3ad-bf75-47f1-b08f-415d965f9b72": {
      "st": "available"
-    }
-   }
-  },
-  "daa39249-db4f-4c8c-846e-a55af8de0235": {
-   "ends": "2026-10-31T04:00:00+00:00",
-   "name": "G.IRL Halloween: London",
-   "opts": {
-    "e0af1bce-4d1c-4df3-9e5a-523349fb0951": {
-     "st": "completed"
     }
    }
   },
