@@ -206,33 +206,6 @@
     }
    }
   },
-  "295d6426-96da-493c-a095-626cedf535e6": {
-   "ends": "2026-10-31T06:00:00+00:00",
-   "name": "Halloween Special - The Zombie Rave",
-   "opts": {
-    "01ae7291-98be-4b51-934e-3e35967ce135": {
-     "st": "available"
-    },
-    "1ba28515-8ad1-4e00-84cf-21cc630e1a9b": {
-     "notified_at": "2026-10-27T16:06:39.937266+00:00",
-     "st": "available"
-    },
-    "56cae31e-8784-426b-8905-8a66ecaf60c8": {
-     "notified_at": "2026-10-30T21:44:18.629224+00:00",
-     "st": "completed"
-    },
-    "95e86def-1283-42de-92f7-d15a18ed7d4e": {
-     "st": "completed"
-    },
-    "cb15e000-4414-456d-a2cd-eb26a905cc74": {
-     "st": "available"
-    },
-    "ffff5634-ae07-4ca1-9c85-33ecc6eb820f": {
-     "notified_at": "2026-10-27T16:07:40.127361+00:00",
-     "st": "available"
-    }
-   }
-  },
   "2a2b1b5f-adc9-43a9-8631-9ecf04dc477f": {
    "ends": "2026-11-25T04:00:00+00:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 24th 2026 \ud83c\udf0d ",
@@ -265,15 +238,6 @@
    "opts": {
     "2bff4dca-38e7-4ce3-ae9c-155f3e865e4f": {
      "st": "available"
-    }
-   }
-  },
-  "2c6e7705-1a44-4cbe-8faf-7dd0fc41307a": {
-   "ends": "2026-10-31T06:00:00+00:00",
-   "name": "PARTY PARTY HALLOWEEN BOAT PARTY / \u00a320 flash sale",
-   "opts": {
-    "efb20666-0405-4eaa-9058-69afc37f2860": {
-     "st": "completed"
     }
    }
   },
@@ -773,28 +737,6 @@
     },
     "fa37f4eb-edfc-4623-9626-b505ff80746a": {
      "st": "available"
-    }
-   }
-  },
-  "865ad0f6-0fec-489b-9f24-d907437ea16c": {
-   "ends": "2026-10-31T06:00:00+00:00",
-   "name": "EGG LDN / HALLOWEEN / FRI 31 OCT",
-   "opts": {
-    "57f1bda9-aebd-47b3-9548-31cc4e511e83": {
-     "st": "completed"
-    },
-    "6cecf03a-a55f-4402-b388-86584b0e340b": {
-     "st": "completed"
-    },
-    "8f57243d-a4f3-4172-a1f1-85794435876f": {
-     "notified_at": "2026-10-30T22:55:19.379770+00:00",
-     "st": "completed"
-    },
-    "97f06612-deb7-44be-b605-358f7aab0824": {
-     "st": "completed"
-    },
-    "f215fee2-6a25-48ea-af7a-5343eccd64c4": {
-     "st": "completed"
     }
    }
   },
