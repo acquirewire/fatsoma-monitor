@@ -434,11 +434,6 @@
     }
    }
   },
-  "62a95314-3835-4ebd-b772-b687473feb64": {
-   "ends": "2026-10-31T23:00:00+00:00",
-   "name": "BIGGEST HALLOWEEN BOAT REGGAETON PARTY BY I LOVE REGGAETON - SAT 31/10/26",
-   "opts": {}
-  },
   "63614452-aa26-4cdd-b4f7-574466534469": {
    "ends": "2026-11-01T02:00:00+00:00",
    "name": "Studio 338 Halloween Club Night",
@@ -634,13 +629,13 @@
    "name": "Tollywood HALLOWEEN \ud83c\udf83 LONON \ud83c\uddec\ud83c\udde7 by ELE.ENTERTAINMENTS",
    "opts": {
     "0b624f82-c257-487c-9ea0-ad0635a4ba77": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "5b02f0a2-8370-4c4a-ba4a-4ce4ba7676d4": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "6adfe46e-d21d-4b8d-bc2e-49ba95987015": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "7535d192-5a72-422d-bf60-1fcd26009553": {
      "notified_at": "2026-11-01T07:07:59.402756+00:00",
@@ -648,7 +643,7 @@
     },
     "83099b99-df26-4d96-8844-15921916fd7a": {
      "notified_at": "2026-11-01T03:53:38.698827+00:00",
-     "st": "sold_out"
+     "st": "completed"
     },
     "8feff866-fd15-49be-9cbe-7f24b44f3aaf": {
      "notified_at": "2026-11-01T21:38:20.021570+00:00",
@@ -711,15 +706,6 @@
      "st": "available"
     },
     "d2c996be-bb5a-4efd-ab7f-b612bf0bd6e7": {
-     "st": "available"
-    }
-   }
-  },
-  "90b76090-254b-42f0-abfe-c9306ecc9a35": {
-   "ends": "2026-10-31T23:00:00+00:00",
-   "name": "London's Hottest Halloween Boat Party - 31st October",
-   "opts": {
-    "0a661f0c-e77f-4467-90af-0f6e96b11e62": {
      "st": "available"
     }
    }
@@ -916,7 +902,7 @@
    "name": "Halloween special: Day of the Dead",
    "opts": {
     "e1e01a17-d876-4a38-9fac-dc5c8891f00b": {
-     "st": "sold_out"
+     "st": "completed"
     },
     "f4ba4cd3-dccb-4e61-ade5-8e629ea0b3db": {
      "st": "available"
@@ -981,11 +967,6 @@
      "st": "available"
     }
    }
-  },
-  "d1e67a6f-9765-4f14-bc06-4211ecf683dd": {
-   "ends": "2026-10-31T23:00:00+00:00",
-   "name": "London Halloween Boat Party with FREE After Party!",
-   "opts": {}
   },
   "d455c364-d27e-4d98-a83c-487d87b32a59": {
    "ends": "2026-11-07T22:00:00+00:00",
