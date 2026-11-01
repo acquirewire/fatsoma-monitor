@@ -22,32 +22,6 @@
     }
    }
   },
-  "03d0c45e-2f65-4019-ac6c-c347cd21ce87": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
-   "opts": {
-    "3822be3f-7b10-4015-8ad6-898726a89665": {
-     "notified_at": "2026-10-14T11:00:18.539060+00:00",
-     "st": "completed"
-    },
-    "874d5acb-fe6f-4df5-a6f3-6d6735cd5a3c": {
-     "notified_at": "2026-10-14T11:00:18.539060+00:00",
-     "st": "completed"
-    },
-    "be5d07cb-6162-4f70-98ce-ec005c7a083e": {
-     "notified_at": "2026-10-14T11:00:18.539060+00:00",
-     "st": "completed"
-    },
-    "cd18695d-d2d5-4c4e-ae5e-4d55ac2e9928": {
-     "notified_at": "2026-10-14T11:00:18.539060+00:00",
-     "st": "completed"
-    },
-    "e2a5189c-fe98-4d98-babf-ac455f6fc1ba": {
-     "notified_at": "2026-10-19T19:41:57.577286+00:00",
-     "st": "completed"
-    }
-   }
-  },
   "0675c958-2d9c-4170-b85e-391fd6a7be13": {
    "ends": "2026-10-31T23:55:00+00:00",
    "name": "Halloween Boat Party ",
@@ -92,24 +66,6 @@
      "st": "available"
     },
     "fca7782b-d2cc-4de2-b65d-19e084aee6b7": {
-     "st": "available"
-    }
-   }
-  },
-  "10d2967e-72a4-4a65-9acf-d0f2acf331ae": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "LOCURA FRIDAY HALLOWEEN EDITION @PARADISE NIGHTCLUB ",
-   "opts": {
-    "4ee810fa-136c-4aad-b1c9-cd7fbcdcce1e": {
-     "st": "available"
-    },
-    "55ff6086-67bc-4de9-9c30-60d26d661300": {
-     "st": "available"
-    },
-    "7385e3fd-5ca3-4dda-9e22-b5546f2d4db7": {
-     "st": "available"
-    },
-    "e37b4aed-d17f-4313-bffa-48caf37b237e": {
      "st": "available"
     }
    }
@@ -199,27 +155,6 @@
     }
    }
   },
-  "24fb240b-729c-447c-a8c6-689398988a10": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "Jungle Cakes Halloween 360",
-   "opts": {
-    "4ce7049b-7b80-49ee-8be9-32a00ff23b19": {
-     "st": "available"
-    },
-    "63790733-79a4-4381-9e5f-5b4f4f22ed68": {
-     "st": "completed"
-    },
-    "83e41735-8f42-4ecb-835e-24e43104345d": {
-     "st": "available"
-    },
-    "d4a320fd-e583-49c1-8bf3-7513483bc019": {
-     "st": "completed"
-    },
-    "fb707d8a-1b54-490a-818e-3bb7b55d10a7": {
-     "st": "completed"
-    }
-   }
-  },
   "25b0bbba-9c99-4fce-9343-2d03ba252f92": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Insomnia London: Halloween Special",
@@ -244,30 +179,6 @@
     },
     "e1d0b0f7-703f-4b6f-8b70-3d77871f8596": {
      "st": "available"
-    }
-   }
-  },
-  "2617f8a6-f65b-43d4-a1c0-f5fdb4ef3243": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "Cirque Du Soul: London // Halloween",
-   "opts": {
-    "6ee4c11f-c1c6-4d72-8e13-fa053f578017": {
-     "st": "available"
-    },
-    "9b63c609-a153-469b-b4b4-05b8f593d102": {
-     "st": "sold_out"
-    },
-    "b2771966-c35a-43a0-97cc-22c9ea49aaf7": {
-     "st": "available"
-    },
-    "cd1b65f5-caf4-4882-9172-83537ffa2715": {
-     "st": "available"
-    },
-    "dffeb2d8-c2a2-4701-9916-5c298764ea9e": {
-     "st": "available"
-    },
-    "f2e11236-f635-4ccf-822e-941b5ddecb5f": {
-     "st": "sold_out"
     }
    }
   },
@@ -516,32 +427,6 @@
     }
    }
   },
-  "434f6a64-bd11-4425-b0aa-223015ce29a4": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
-   "opts": {
-    "6f76a994-1ddf-4029-8a96-181e30881488": {
-     "notified_at": "2026-10-14T10:30:18.822997+00:00",
-     "st": "completed"
-    },
-    "73170340-b336-451a-b6c2-e4785232f9db": {
-     "notified_at": "2026-10-14T10:30:18.822997+00:00",
-     "st": "completed"
-    },
-    "83bb97ee-f828-4302-91c9-21cf63023871": {
-     "notified_at": "2026-10-14T10:30:18.822997+00:00",
-     "st": "completed"
-    },
-    "8c6705f4-1017-4129-b546-75911827a7d5": {
-     "notified_at": "2026-10-14T10:30:18.822997+00:00",
-     "st": "completed"
-    },
-    "dd2dabfa-d1ec-408c-890e-4486b6d13485": {
-     "notified_at": "2026-10-14T10:30:18.822997+00:00",
-     "st": "completed"
-    }
-   }
-  },
   "444d6f8c-3670-4878-91f4-014b9803e506": {
    "ends": "2026-11-04T04:00:00+00:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 3rd 2026 \ud83c\udf0d ",
@@ -724,21 +609,6 @@
    "name": "SLOW JAMS NATION - Halloween Slow Jams & RnB Day Party in Brixton",
    "opts": {
     "f374960e-13a4-48e5-a64a-005a037e9ecf": {
-     "st": "available"
-    }
-   }
-  },
-  "707d5b3f-09d6-4442-b470-ec24d1635a2f": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "Bashment Invasion : Halloween Party",
-   "opts": {
-    "18fdbefb-fbbe-4ef4-b336-3a4d3409c8fa": {
-     "st": "available"
-    },
-    "229a275f-a885-4c6d-9225-9f2209991140": {
-     "st": "available"
-    },
-    "853eb5cd-969d-4d04-bc4f-9ca77e509e88": {
      "st": "available"
     }
    }
@@ -1231,62 +1101,6 @@
    "name": "HAUNTED HOUSE | HALLOWEEN PARTY SAT 31ST OCTOBER",
    "opts": {}
   },
-  "ba1e08c0-558e-469f-8b8d-c678d93b0f6c": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "All Night Long - Halloween Special - 4 Rooms of Music",
-   "opts": {
-    "3e7b09ee-da5f-42f3-8704-a01f9d0a8678": {
-     "st": "sold_out"
-    },
-    "5bf85022-47b2-4a1e-97f6-f7814c4886dd": {
-     "st": "available"
-    },
-    "62024eb5-35fd-4a57-a603-a52150cad509": {
-     "st": "available"
-    },
-    "d0205a7f-650a-49f2-9c9d-3a132115687c": {
-     "st": "available"
-    }
-   }
-  },
-  "ba37ff05-f549-43b6-8dc2-327329e179b4": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
-   "opts": {
-    "03ec93e3-c81e-47a4-9bbd-899b2ff00be8": {
-     "notified_at": "2026-10-14T09:00:17.896253+00:00",
-     "st": "completed"
-    },
-    "22b4cdee-5039-46c4-aba1-64539f63940c": {
-     "notified_at": "2026-10-14T09:00:17.896253+00:00",
-     "st": "completed"
-    },
-    "9fc7dbf1-0b5a-400d-b8bf-b4ad31fad6cd": {
-     "notified_at": "2026-10-14T09:00:17.896253+00:00",
-     "st": "completed"
-    },
-    "b11fa05d-c5e1-47d2-a109-60c15481e1a7": {
-     "notified_at": "2026-10-14T09:00:17.896253+00:00",
-     "st": "completed"
-    },
-    "d2ab8352-a348-43b7-88ec-f58114deec43": {
-     "notified_at": "2026-10-19T19:49:57.876305+00:00",
-     "st": "completed"
-    }
-   }
-  },
-  "bd54c0fa-9e67-4a4b-89c6-e2e4bd5638e5": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "Shoreditch Halloween Free Party- Everyone Free Before 12AM",
-   "opts": {
-    "4a1ef041-e5ea-4192-adea-2f13861c96cd": {
-     "st": "available"
-    },
-    "55bf3752-b253-425d-88be-f105efddc98d": {
-     "st": "available"
-    }
-   }
-  },
   "c1a4bea3-f535-4089-afa2-29ff1f6ee458": {
    "ends": "2026-11-01T08:00:00+00:00",
    "name": "Halloween Special - Rave To The Grave",
@@ -1299,32 +1113,6 @@
      "st": "available"
     },
     "60c1be55-8e5d-416c-9526-b8eb1c815672": {
-     "st": "completed"
-    }
-   }
-  },
-  "c5eff0cc-2390-4dfe-93df-a9fd48ae5035": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
-   "opts": {
-    "08ca001b-28d2-464c-8fb5-c41cc295a563": {
-     "notified_at": "2026-10-14T10:00:18.796443+00:00",
-     "st": "completed"
-    },
-    "45e3e5db-f669-4c68-a3d2-2138d207606f": {
-     "notified_at": "2026-10-14T10:00:18.796443+00:00",
-     "st": "completed"
-    },
-    "686784c7-e218-4b29-b058-e01bdc41341d": {
-     "notified_at": "2026-10-14T10:00:18.796443+00:00",
-     "st": "completed"
-    },
-    "8b11649f-1c01-482d-8b1b-8cee31182e94": {
-     "notified_at": "2026-10-14T10:00:18.796443+00:00",
-     "st": "completed"
-    },
-    "c26093bd-bf0d-4e48-9267-79a655f49dff": {
-     "notified_at": "2026-10-14T10:00:18.796443+00:00",
      "st": "completed"
     }
    }
@@ -1373,40 +1161,6 @@
      "st": "completed"
     },
     "f3ba23e5-7e44-432f-a379-506c35d14b06": {
-     "st": "completed"
-    }
-   }
-  },
-  "ce46fa85-45e1-426f-ba6d-26c0612545d2": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "HALLOWEEN 2026 AT EGG LONDON! THE ZOMBIE RAVE ALL NIGHTER!",
-   "opts": {
-    "29fd91a3-1d7e-4adf-a34f-6e688a5361f3": {
-     "notified_at": "2026-10-08T11:50:47.198215+00:00",
-     "st": "completed"
-    },
-    "5bc6db8f-d8a4-4faa-98e7-436c98f5ff8c": {
-     "notified_at": "2026-10-08T11:50:47.198215+00:00",
-     "st": "completed"
-    },
-    "6127e93f-ba35-4a65-a0de-55b6c7524aae": {
-     "notified_at": "2026-10-08T11:50:47.198215+00:00",
-     "st": "completed"
-    },
-    "ae748296-c6e1-4d0e-9eb6-759077e40512": {
-     "notified_at": "2026-10-30T20:17:12.201247+00:00",
-     "st": "completed"
-    },
-    "d30b1f4c-31f1-42e1-b1e6-3ddb3a867766": {
-     "notified_at": "2026-10-08T11:50:47.198215+00:00",
-     "st": "completed"
-    },
-    "e9b52338-7939-40fc-96ce-5a749edcde16": {
-     "notified_at": "2026-10-08T11:50:47.198215+00:00",
-     "st": "completed"
-    },
-    "ec09e536-9995-4bd3-a344-055bba9e9ad9": {
-     "notified_at": "2026-10-28T23:41:37.817679+00:00",
      "st": "completed"
     }
    }
@@ -1761,21 +1515,6 @@
     },
     "f507a12d-f791-4b65-9ee0-8299e51eab6f": {
      "notified_at": "2026-10-09T14:00:34.591537+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "ee747fb5-e5a5-4ea2-ba78-2e986ca6db98": {
-   "ends": "2026-10-31T05:00:00+00:00",
-   "name": "Haunted House Halloween Party",
-   "opts": {
-    "63a4db6c-cd1a-4ee4-b152-324ef564f819": {
-     "st": "available"
-    },
-    "94867f17-790d-4fa6-8b8a-612b34070601": {
-     "st": "available"
-    },
-    "9b33d6a1-e3a2-4c2f-b234-69e88e9e05f2": {
      "st": "available"
     }
    }
