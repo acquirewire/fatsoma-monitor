@@ -59,24 +59,6 @@
     }
    }
   },
-  "38f1bd58-0058-4c83-b073-334c7037a138": {
-   "ends": "2026-11-01T06:00:00+00:00",
-   "name": "I LOVE REGGAETON - HALLOWEEN - LONDON'S BIGGEST REGGAETON PARTY - 31/10/26",
-   "opts": {
-    "41acda81-c60c-48df-868e-4185b5c5ca72": {
-     "st": "available"
-    },
-    "54102aa7-8dba-4a29-990b-d65812b667c4": {
-     "st": "sold_out"
-    },
-    "7e870432-b837-43b5-a6cf-7baed491e7f0": {
-     "st": "sold_out"
-    },
-    "ea3096b9-234e-44c2-8b04-4f4689f465ad": {
-     "st": "available"
-    }
-   }
-  },
   "396ebfb0-0540-40ca-8a44-7f560683570f": {
    "ends": "2026-11-11T04:00:00+00:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 10th 2026 \ud83c\udf0d ",
@@ -231,19 +213,6 @@
     }
    }
   },
-  "a9e0e988-97fc-4f7a-9a50-a53feaaa1c32": {
-   "ends": "2026-11-01T06:00:00+00:00",
-   "name": "Release Halloween | Ida Egberg, Bontan, Nick Curly, Matthias Tanzmann + more",
-   "opts": {
-    "4d11e3ce-62a9-4f70-8803-9fb6d2bc38be": {
-     "notified_at": "2026-10-10T08:47:08.612059+00:00",
-     "st": "sold_out"
-    },
-    "505f9f67-7224-47eb-b7dc-f8ae153cc80d": {
-     "st": "sold_out"
-    }
-   }
-  },
   "b6816d5c-6eab-4023-99a5-02e794811964": {
    "ends": "2026-11-02T05:00:00+00:00",
    "name": "Halloween special: Day of the Dead",
@@ -276,24 +245,6 @@
    "ends": "2026-11-07T22:00:00+00:00",
    "name": "Club Labrynth - Slightly Late Halloween Ball",
    "opts": {}
-  },
-  "d588bccb-b623-4b24-939b-70a21e25fe98": {
-   "ends": "2026-11-01T06:00:00+00:00",
-   "name": "XOYO Halloween: In The Field with Jamie Fielding [SOLD OUT]",
-   "opts": {
-    "1a29e331-b451-40d6-a904-eb44cedee90a": {
-     "st": "completed"
-    },
-    "4f1ecd56-19af-4eba-af33-7fc077cc63af": {
-     "st": "completed"
-    },
-    "6a03e644-09f5-4cec-950a-67699cfdcf2b": {
-     "st": "completed"
-    },
-    "ea6ad497-a9fd-440f-a5b1-811b013fd268": {
-     "st": "completed"
-    }
-   }
   },
   "dc0c7fec-210b-4914-a976-cee332f6493d": {
    "ends": "2026-12-01T04:00:00+00:00",
@@ -348,15 +299,6 @@
     },
     "ff7fd608-4198-461a-9661-1c29cbeb11d2": {
      "notified_at": "2026-10-23T11:53:33.047728+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "fbf3efec-9bf3-4cca-ac50-ccfcad7ac430": {
-   "ends": "2026-11-01T06:00:00+00:00",
-   "name": "HAUNTED HOUSE PARTY (ALL INCLUSIVE)",
-   "opts": {
-    "0d59e2ec-9189-47e9-9ff5-3a077154a848": {
      "st": "available"
     }
    }
