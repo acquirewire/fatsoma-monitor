@@ -462,18 +462,6 @@
     }
    }
   },
-  "72985db4-c960-464e-9192-f60bdbff779f": {
-   "ends": "2026-11-01T02:30:00+00:00",
-   "name": "Halloween Party at Bar Soho with Welcome Drink & VIP Room",
-   "opts": {
-    "db3ce24a-7c56-4cc0-b6d5-d66b3ff2cbcd": {
-     "st": "available"
-    },
-    "e5b8f3fe-b6ad-4137-8f9d-023eba77fa10": {
-     "st": "available"
-    }
-   }
-  },
   "72d81002-ff56-4e49-a485-4f95ed0c705e": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Bashment Invasion : Halloween Party",
