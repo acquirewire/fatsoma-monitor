@@ -586,27 +586,6 @@
     }
    }
   },
-  "7ef12df9-e201-42cd-8192-c3239f669027": {
-   "ends": "2026-11-01T01:30:00+00:00",
-   "name": "The Halloween Disco at 93 Feet East // Sat 31st Oct",
-   "opts": {
-    "0595c415-fa9d-4674-889f-e90b713f3e14": {
-     "st": "available"
-    },
-    "67f43eb7-df62-47d2-89a2-6a05437367f4": {
-     "st": "sold_out"
-    },
-    "7a24c232-757b-4379-b473-f9394eda6cf4": {
-     "st": "completed"
-    },
-    "7eb8317a-9b89-4532-a94a-838eff24afce": {
-     "st": "completed"
-    },
-    "b126d7db-0876-4204-b3e9-744e81bf646c": {
-     "st": "available"
-    }
-   }
-  },
   "83e391a0-393d-46b8-b57e-da7781fbdd56": {
    "ends": "2026-11-02T04:00:00+00:00",
    "name": "Tollywood HALLOWEEN \ud83c\udf83 LONON \ud83c\uddec\ud83c\udde7 by ELE.ENTERTAINMENTS",
