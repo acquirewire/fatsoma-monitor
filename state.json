@@ -4,50 +4,6 @@
   "London Halloween club nights"
  ],
  "events": {
-  "01f86a61-d3dc-4dbe-a641-ee871669fd79": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Secret Halloween Warehouse Rave",
-   "opts": {
-    "ab9a5fdb-f7dc-41cf-a33c-f6a5e98e47bd": {
-     "st": "available"
-    }
-   }
-  },
-  "036584e2-fe34-4288-804d-d97fa579477d": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Pop Party - Pop All Night Long - Halloween Special",
-   "opts": {
-    "45ce6595-926d-44a1-8e7d-6f43ac24a646": {
-     "st": "available"
-    }
-   }
-  },
-  "177dfc27-2a4d-474d-92a0-302d02d6d4bd": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Rave To The Grave at Egg London! Halloween 2026",
-   "opts": {
-    "36ef221c-0d5a-4cf6-82be-126bbd3d5226": {
-     "notified_at": "2026-10-05T12:15:10.764468+00:00",
-     "st": "sold_out"
-    },
-    "543a4ccd-6b3f-41f4-944c-df91ceb230b2": {
-     "notified_at": "2026-10-23T00:12:14.103123+00:00",
-     "st": "sold_out"
-    },
-    "65f8c7f4-3683-4d20-a3e4-607f571c3d33": {
-     "notified_at": "2026-10-18T23:40:14.165537+00:00",
-     "st": "sold_out"
-    },
-    "8bc9dedf-a01e-4356-a182-e696ab782c7e": {
-     "notified_at": "2026-10-05T12:14:10.242998+00:00",
-     "st": "sold_out"
-    },
-    "a5f83619-c23e-452c-8bee-e71db87f67e7": {
-     "notified_at": "2026-10-11T21:20:08.680129+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "1ea5ff74-1cb0-424f-bfc3-7078d733dc6a": {
    "ends": "2026-11-25T04:00:00+00:00",
    "name": "\ud83d\udeab SOLD OUT! \ud83d\udeab Ministry of Sound, Milkshake \ud83c\udf8823 F*CKING YEARS - \ud83c\udf82 Official 23rd Birthday Event \ud83c\udf88\ud83d\udeab SOLD OUT! \ud83d\udeab ",
@@ -59,48 +15,6 @@
     "ad0334e7-c469-4e20-b2c5-63c7c5d944eb": {
      "notified_at": "2026-10-05T21:07:29.541955+00:00",
      "st": "sold_out"
-    }
-   }
-  },
-  "25b0bbba-9c99-4fce-9343-2d03ba252f92": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Insomnia London: Halloween Special",
-   "opts": {
-    "205379b1-76ef-4873-af76-4a30e5cc45e1": {
-     "st": "available"
-    },
-    "40e9b4a2-7df6-43b7-9eb2-326ffa97d047": {
-     "st": "available"
-    },
-    "7e98ff33-04dc-4fcd-b245-e89b493c3968": {
-     "st": "available"
-    },
-    "a7365f04-0499-4181-84f0-5847cbbe6ba4": {
-     "st": "available"
-    },
-    "b3667ce6-ef19-4913-847f-6795a38eebed": {
-     "st": "available"
-    },
-    "dd724b86-883d-4758-a0c6-86077cb906d3": {
-     "st": "sold_out"
-    },
-    "e1d0b0f7-703f-4b6f-8b70-3d77871f8596": {
-     "st": "available"
-    }
-   }
-  },
-  "295af59f-c064-40bc-83d5-41a74a6238bb": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "HALLOWEEN ",
-   "opts": {
-    "301dd216-1d9a-4dc8-9ee8-878b2a91f43b": {
-     "st": "available"
-    },
-    "6e344509-77e6-4bae-a6e0-341bb116849e": {
-     "st": "available"
-    },
-    "c8b871ea-c9eb-4cb2-891b-a98c563169e9": {
-     "st": "available"
     }
    }
   },
@@ -219,33 +133,6 @@
     }
    }
   },
-  "4e720665-219d-4b81-9433-5e24f703125d": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "HALLOWEEN: TOXIC JUNGLE",
-   "opts": {
-    "4f499ecc-825f-4944-b4e2-f2a38c45667e": {
-     "st": "available"
-    },
-    "912a61b9-437c-4e05-8e2f-86bcb8e245c0": {
-     "st": "available"
-    }
-   }
-  },
-  "574aeb80-1037-4953-a0de-367a5579fe50": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Goosebumps LDN - London's Craziest Halloween Party",
-   "opts": {
-    "83728865-094b-4ce7-b77a-83d8d365a554": {
-     "st": "available"
-    },
-    "c3990f24-4424-4bac-b1ef-d9649f777267": {
-     "st": "available"
-    },
-    "f2f068e1-9ffb-4b67-ac8a-b47ff0da621c": {
-     "st": "available"
-    }
-   }
-  },
   "66fcff5e-cb8b-4a88-b9ad-acfd317ee441": {
    "ends": "2026-11-01T11:00:00+00:00",
    "name": "Beyond Sin - Halloween Special",
@@ -269,21 +156,6 @@
    "name": "SLOW JAMS NATION - Halloween Slow Jams & RnB Day Party in Brixton",
    "opts": {
     "f374960e-13a4-48e5-a64a-005a037e9ecf": {
-     "st": "available"
-    }
-   }
-  },
-  "72d81002-ff56-4e49-a485-4f95ed0c705e": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Bashment Invasion : Halloween Party",
-   "opts": {
-    "5c42756f-9191-4a80-ab72-a7a686a419c4": {
-     "st": "available"
-    },
-    "90e4d834-ddd2-4c74-9a7c-38ee59ce56e8": {
-     "st": "available"
-    },
-    "a5063890-2b41-4276-9bdb-06ff2b8fba48": {
      "st": "available"
     }
    }
@@ -323,34 +195,6 @@
    "name": "BURNA BOY AFROPIANOFEST HALLOWEEN PARTY ",
    "opts": {}
   },
-  "90365c1c-b900-4ba6-86a3-83ddb60e6688": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Halloween Warehouse Rave",
-   "opts": {
-    "2a114620-9294-4aec-92ce-6ab35d6e810e": {
-     "st": "available"
-    },
-    "392f73e6-2cbd-447e-b1b7-1802907277ea": {
-     "st": "available"
-    },
-    "9cf796b8-5a07-428e-835b-ea5bcc353f5e": {
-     "st": "available"
-    },
-    "d2c996be-bb5a-4efd-ab7f-b612bf0bd6e7": {
-     "st": "available"
-    }
-   }
-  },
-  "95cbc766-8a35-47a0-a589-6dd9a546591f": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Secret Halloween Warehouse Rave",
-   "opts": {
-    "af68d217-197c-4997-b4e1-12ac797b2305": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
   "995501fa-e106-477e-b609-bfaaf6f546b8": {
    "ends": "2026-11-01T23:00:00+00:00",
    "name": "BASHMENT NATION - London's Wildest Halloween Party (2000+ RAVERS)",
@@ -377,21 +221,6 @@
     }
    }
   },
-  "a23c0101-092a-4278-a848-4e104484f556": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Haunted House Halloween Party - Saturday Bliss",
-   "opts": {
-    "73861ee0-0fd5-4614-b9d5-e555b395ee7a": {
-     "st": "available"
-    },
-    "7bdcc0f4-e27a-42a1-a721-55cd0ac239b1": {
-     "st": "available"
-    },
-    "909e91d4-4c53-467e-8304-e913c2fe4a1f": {
-     "st": "available"
-    }
-   }
-  },
   "a2a6ef21-86e1-4fc8-bf2f-902d48119134": {
    "ends": "2026-11-01T23:00:00+00:00",
    "name": "BASHMENT NATION - London\u2019s Biggest Bashment Halloween Festival",
@@ -415,16 +244,6 @@
     }
    }
   },
-  "b1a6523d-190e-4ef5-9bb4-2c910cf6bd5a": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "REGGAETON All Night Long - Halloween Special",
-   "opts": {
-    "73e812f3-4932-4c48-8ed6-a4864b6aa6aa": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
   "b6816d5c-6eab-4023-99a5-02e794811964": {
    "ends": "2026-11-02T05:00:00+00:00",
    "name": "Halloween special: Day of the Dead",
@@ -436,11 +255,6 @@
      "st": "available"
     }
    }
-  },
-  "b732a71f-dc0c-406e-b14f-da4e045c72f6": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "HAUNTED HOUSE | HALLOWEEN PARTY SAT 31ST OCTOBER",
-   "opts": {}
   },
   "c1a4bea3-f535-4089-afa2-29ff1f6ee458": {
    "ends": "2026-11-01T08:00:00+00:00",
@@ -455,27 +269,6 @@
     },
     "60c1be55-8e5d-416c-9526-b8eb1c815672": {
      "st": "completed"
-    }
-   }
-  },
-  "ce6f4caa-6e4b-4cba-ae3f-df33e4b4dd54": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "HALLOWEEN REGGAETON PARTY @ PARADISE CLUB -SATURDAY 31ST OCTOBER 2026",
-   "opts": {
-    "3bd97100-1ead-48e2-9267-3de9395e88a6": {
-     "st": "available"
-    },
-    "e6326b14-4c0b-45a1-8cb9-5ffe8cd37caf": {
-     "st": "available"
-    }
-   }
-  },
-  "d12fc2c9-ffe5-4c0e-9dcf-2608d8e32991": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Halloween When Dark Meet Light",
-   "opts": {
-    "44f24421-0833-4f17-b208-5498f9d7aa2d": {
-     "st": "available"
     }
    }
   },
@@ -499,28 +292,6 @@
     },
     "ea6ad497-a9fd-440f-a5b1-811b013fd268": {
      "st": "completed"
-    }
-   }
-  },
-  "d658688e-38fb-4552-ae8b-cc6a0d5928bd": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "CLIMAX HALLOWEEN COME BACK X-OVER EDITION!",
-   "opts": {
-    "74c28f34-1080-4ff2-ae41-48539d9f4716": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "759df507-8e39-4bce-97f4-6806968ce422": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "9c8d025b-0246-4c12-98fe-976a70c091fb": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "f89450e1-55fc-48bd-b2b9-eabd0f1a9d76": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
     }
    }
   },
@@ -555,27 +326,6 @@
     }
    }
   },
-  "e52fc6f7-110c-4a61-b294-a454c5ff0344": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "Halloween in London 2026 The Official & Complete Guide \ud83c\udf83 SIGN UP FOR UPDATES!",
-   "opts": {
-    "64156c89-a578-4a15-8917-da472efa8f6e": {
-     "st": "available"
-    },
-    "92372519-6352-4568-a6bc-6efc8357cb24": {
-     "st": "available"
-    }
-   }
-  },
-  "e9b85eb1-c981-46fb-b043-a4c1b60ecd2f": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "VIVA Reggaeton Halloween",
-   "opts": {
-    "8d868ea9-dcb0-414c-8f04-71e3615b6f20": {
-     "st": "available"
-    }
-   }
-  },
   "e9db53e2-e377-41b6-b0d9-382df2f8bbc5": {
    "ends": "2026-11-18T04:00:00+00:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 17th 2026 \ud83c\udf0d ",
@@ -599,30 +349,6 @@
     "ff7fd608-4198-461a-9661-1c29cbeb11d2": {
      "notified_at": "2026-10-23T11:53:33.047728+00:00",
      "st": "available"
-    }
-   }
-  },
-  "ea0433cf-ab7b-4bcd-a3d4-cecd65397363": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "SPOOKY ISLAND \ud83c\udf83\ud83c\udf34",
-   "opts": {
-    "bcdffa5a-1a20-4e7f-ab51-2be823330230": {
-     "st": "available"
-    }
-   }
-  },
-  "f474176f-48c8-4c91-bbdb-e6740b2767fe": {
-   "ends": "2026-11-01T05:00:00+00:00",
-   "name": "CONGAS 31 OCTOBER* HALLOWEEN EDICI\u00d3N ",
-   "opts": {
-    "2e14f6c8-1a5d-4178-934e-29142778a32f": {
-     "st": "available"
-    },
-    "b4cb7921-9a46-42ec-8668-a16f8fb2053a": {
-     "st": "available"
-    },
-    "e27e9485-c9e4-4f01-accf-d00ef1f49ca6": {
-     "st": "sold_out"
     }
    }
   },
