@@ -89,15 +89,6 @@
     }
    }
   },
-  "2712727c-4c3b-4ffb-99f1-1d8eb4483e0a": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "Bashment Motive - Halloween Party",
-   "opts": {
-    "b1e6c78f-7722-4718-b046-510ca2f8dcaf": {
-     "st": "available"
-    }
-   }
-  },
   "295af59f-c064-40bc-83d5-41a74a6238bb": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "HALLOWEEN ",
@@ -151,27 +142,6 @@
     },
     "ff03446f-0ed7-4a0a-b5a5-26e315d69a56": {
      "st": "available"
-    }
-   }
-  },
-  "375ba7a0-2b97-4e79-a2b9-1b564867941c": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "Milkshake Halloween House Party 2026 \ud83d\ude31 O2 Academy Islington \ud83c\udf83 ",
-   "opts": {
-    "689e40d7-1a6c-464b-8f5d-98d4bfbe4360": {
-     "st": "sold_out"
-    },
-    "8096c66d-101b-4a3d-b064-a62df8b85878": {
-     "st": "completed"
-    },
-    "a742edcd-4f9d-49dc-9a38-46dfcfe9450c": {
-     "st": "available"
-    },
-    "c7aa710e-c06d-42fa-844a-7dc1dee5d823": {
-     "st": "sold_out"
-    },
-    "f45a9af4-3809-48dd-bba1-57db7892df28": {
-     "st": "sold_out"
     }
    }
   },
@@ -276,30 +246,6 @@
     }
    }
   },
-  "6682fad2-0364-4cf8-b8b3-8c9261c04e69": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "The Halloween House Party 2026 \ud83d\ude31 O2 Academy Islington \ud83d\udc7a",
-   "opts": {
-    "14bf881e-3ba2-4176-9f5b-6c96f7c26d24": {
-     "st": "sold_out"
-    },
-    "4f60b2d0-145c-4514-a906-66bdac1c7bf2": {
-     "st": "available"
-    },
-    "9b8eaf3e-a16b-4a82-9352-d7c3cd87f47e": {
-     "st": "completed"
-    },
-    "a73c7d14-b106-4a23-9592-71fe5796ccaf": {
-     "st": "available"
-    },
-    "c9aab8b4-1d4c-490b-9972-ae0184299e67": {
-     "st": "available"
-    },
-    "dfcbd396-dc86-43e1-be21-14b298ffa798": {
-     "st": "sold_out"
-    }
-   }
-  },
   "66fcff5e-cb8b-4a88-b9ad-acfd317ee441": {
    "ends": "2026-11-01T11:00:00+00:00",
    "name": "Beyond Sin - Halloween Special",
@@ -341,11 +287,6 @@
      "st": "available"
     }
    }
-  },
-  "7638a59b-1a70-424e-a0a4-c86830ef8033": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "F*CK ME It's Halloween 2026 - The UK's Biggest Halloween Tour | Freshers 2026",
-   "opts": {}
   },
   "83e391a0-393d-46b8-b57e-da7781fbdd56": {
    "ends": "2026-11-02T04:00:00+00:00",
@@ -484,18 +425,6 @@
     }
    }
   },
-  "b55af9f4-1e8d-46e4-8666-6b691727559b": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "Trick or Treat - London's Biggest Halloween Party Everyone Free Before 12AM",
-   "opts": {
-    "3e60402b-58d3-4088-b151-a001483f78c9": {
-     "st": "available"
-    },
-    "c1536f58-51ab-485a-9680-ec7f8d94dd76": {
-     "st": "available"
-    }
-   }
-  },
   "b6816d5c-6eab-4023-99a5-02e794811964": {
    "ends": "2026-11-02T05:00:00+00:00",
    "name": "Halloween special: Day of the Dead",
@@ -528,23 +457,6 @@
      "st": "completed"
     }
    }
-  },
-  "c9b30874-86d0-4add-a04c-0371e9a4930a": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "Fancy Dress Halloween Party",
-   "opts": {
-    "2e401fc9-d596-4add-ae44-5a2eb67d699f": {
-     "st": "available"
-    },
-    "9ae2da23-4afe-4216-a1f6-7a86c26edc28": {
-     "st": "available"
-    }
-   }
-  },
-  "cb90e26c-17db-4a05-95c7-9647e550d248": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "LEMONADE HALLOWEEN SPECIAL: POP, RNB, HIP HOP, OLD SCHOOL CLASSICS, AFROBEATS & DANCEHALL\u2026 TIL 4AM",
-   "opts": {}
   },
   "ce6f4caa-6e4b-4cba-ae3f-df33e4b4dd54": {
    "ends": "2026-11-01T05:00:00+00:00",
@@ -612,24 +524,6 @@
     }
    }
   },
-  "dbcb9fa6-2a79-4a2b-8dde-557b9ddf44df": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "\ud83c\udf83HALLOWEEN | DRESS TO POSSESS\ud83d\ude08",
-   "opts": {
-    "046bdf7d-d99e-4d33-95cd-d29da3394408": {
-     "st": "available"
-    },
-    "32339d4a-d843-44ac-8df1-d963f14b280e": {
-     "st": "not_started"
-    },
-    "5c6018fe-1646-43c4-a6a0-a408eeb3ae05": {
-     "st": "not_started"
-    },
-    "e391b628-3993-469b-a846-a5b2b301f47a": {
-     "st": "available"
-    }
-   }
-  },
   "dc0c7fec-210b-4914-a976-cee332f6493d": {
    "ends": "2026-12-01T04:00:00+00:00",
    "name": "The London Halloween Ball 2026 \ud83c\udf83 Live From Electric Brixton \ud83d\udd2e Tickets Out Now! ",
@@ -651,24 +545,6 @@
     }
    }
   },
-  "dc773eab-80a3-4dce-816a-c17373f33385": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "LICK HALLOWEEN AT THE STRIP CLUB",
-   "opts": {
-    "aac81ee5-15d6-4973-8944-c486a71e086b": {
-     "st": "available"
-    }
-   }
-  },
-  "ddfd028c-df55-4d31-810b-ed7aa4b4301f": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "HOUSE OF HORRORS 3-Room Halloween Indoor Festival Saturday 31st October",
-   "opts": {
-    "949d8dd9-5366-4f92-85a5-237d52365d12": {
-     "st": "available"
-    }
-   }
-  },
   "df9899e9-a404-40aa-af64-1a1756a76036": {
    "ends": "2026-11-01T23:00:00+00:00",
    "name": "BASHMENT, SOCA, REGGAE HALLOWEEN DAY PARTY at STUDIO 338",
@@ -676,28 +552,6 @@
     "abf7a2fb-9d53-4823-8071-3a7d5017e96a": {
      "notified_at": "2026-10-04T16:31:44.919653+00:00",
      "st": "completed"
-    }
-   }
-  },
-  "e453c179-c66a-4164-b802-d84e6c18ff00": {
-   "ends": "2026-11-01T04:00:00+00:00",
-   "name": "HAUNTED LONDON- THE BIGGEST HALLOWEEN PARTY 1000+ Ravers",
-   "opts": {
-    "4daf4019-ac3b-4add-9f02-86536aad37d9": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "5093ab35-571a-4d1f-8e97-168dd235d39d": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "709582e8-9c75-4038-b6e3-369a167c1cdf": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "79dddf58-935f-4d81-9b35-461407ff080f": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
     }
    }
   },
