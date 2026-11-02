@@ -22,54 +22,6 @@
     }
    }
   },
-  "0f881029-5bd9-4f6e-9938-ec761c392ed9": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "BackOutside - MEDUSA HALLOWEEN SOIR\u00c9E",
-   "opts": {
-    "1f762cb7-d953-4dba-84f2-cc675a2719c3": {
-     "st": "available"
-    },
-    "5615698f-2d45-4cd4-821d-ca643e52fe6b": {
-     "st": "available"
-    },
-    "69b5051a-70fe-4e54-ad9f-519e5d2d3dc6": {
-     "st": "available"
-    },
-    "895f68cf-11f0-4779-b4ff-47da71be6dba": {
-     "st": "available"
-    },
-    "fca7782b-d2cc-4de2-b65d-19e084aee6b7": {
-     "st": "available"
-    }
-   }
-  },
-  "1164a5d3-f73d-46c0-945e-b1094078edf6": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "BHANGRA vs BOLLYWOOD : HALLOWEEN BALL! | 31.10.26 | SWAY BAR LONDON",
-   "opts": {
-    "740d6ffa-3810-4c55-8137-7cdd89d00fdc": {
-     "st": "available"
-    },
-    "9ab05639-2fbe-4586-8d84-46774c5f6fa0": {
-     "st": "available"
-    },
-    "bb78bd7b-e664-4855-8caf-a70e3e7b33be": {
-     "st": "available"
-    },
-    "e74f9cf1-860f-40b4-bf5b-b82ed1d27046": {
-     "st": "available"
-    }
-   }
-  },
-  "13a0f1b4-8229-4c86-900b-aa19ba4a401e": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Day of Dead Halloween Party Sat 31st London",
-   "opts": {
-    "7fa1c1e7-d5ec-4e52-a7c9-2536a995108f": {
-     "st": "available"
-    }
-   }
-  },
   "177dfc27-2a4d-474d-92a0-302d02d6d4bd": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Rave To The Grave at Egg London! Halloween 2026",
@@ -183,21 +135,6 @@
     },
     "f9c2147c-206d-422a-a635-c6b291a24fb6": {
      "notified_at": "2026-10-23T11:54:32.715125+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "2f72f5fa-7dcd-42a0-bba3-2f1c3371ec3f": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "PROPAGANDA \u2022 halloween indie rave @ barfly",
-   "opts": {
-    "494d2a2c-157b-4d17-b2e8-d3e0ce105718": {
-     "st": "available"
-    },
-    "c1b9207b-3eba-4332-befa-f20df459ea66": {
-     "st": "available"
-    },
-    "f88b7d02-2598-4bc5-b696-978c84be79ab": {
      "st": "available"
     }
    }
@@ -339,15 +276,6 @@
     }
    }
   },
-  "52d3f349-1117-40a2-9b87-97df17c9c521": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "The 90s Halloween Party - Saturday 31st October, 11pm-3am",
-   "opts": {
-    "0f2856d6-1750-431a-972e-2510bcc2df58": {
-     "st": "available"
-    }
-   }
-  },
   "574aeb80-1037-4953-a0de-367a5579fe50": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Goosebumps LDN - London's Craziest Halloween Party",
@@ -359,45 +287,6 @@
      "st": "available"
     },
     "f2f068e1-9ffb-4b67-ac8a-b47ff0da621c": {
-     "st": "available"
-    }
-   }
-  },
-  "58e2425e-6d14-42e8-883b-ee15a250f367": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "SleazeBox: HALLOWEEN - FOOTBALL ZOMBIES!",
-   "opts": {
-    "02b8962a-3af0-4dda-b453-6969dae77273": {
-     "st": "available"
-    }
-   }
-  },
-  "59fbeedf-8d61-45b9-9613-7b085a721adc": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Halloween Pub Crawl London",
-   "opts": {
-    "0caa0f41-e1d6-4a56-9cc4-e7e3d0a6b552": {
-     "st": "available"
-    },
-    "9d8cf42f-059c-4fb2-8afb-2489398862b3": {
-     "st": "available"
-    }
-   }
-  },
-  "5da7a01a-3d98-4f63-be49-03c042995c32": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Haunted Halloween Basement Party",
-   "opts": {
-    "4f9f71dc-e97b-442e-aca9-0529633e615e": {
-     "st": "sold_out"
-    },
-    "b27e52b5-3095-4e8f-850d-3c86d622e452": {
-     "st": "available"
-    },
-    "b59a1f02-5c1d-4726-a21b-477b013d48e2": {
-     "st": "available"
-    },
-    "dd0cac58-39bc-4004-9ad3-391cb4f36ea2": {
      "st": "available"
     }
    }
@@ -444,15 +333,6 @@
     }
    }
   },
-  "674abb5f-aaf8-49d0-ab6c-e5819cc344c0": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "House of Horrors Halloween Festival Nightmare in Clapham",
-   "opts": {
-    "e10f2530-0759-434b-b066-92cea7f18f12": {
-     "st": "available"
-    }
-   }
-  },
   "6e11dea0-01dd-4c7c-ab93-360a58b5d85f": {
    "ends": "2026-11-01T21:30:00+00:00",
    "name": "SLOW JAMS NATION - Halloween Slow Jams & RnB Day Party in Brixton",
@@ -477,50 +357,10 @@
     }
    }
   },
-  "757cff99-ac8d-4fd9-a055-4c32bbaf6997": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Haunted Haveli Halloween Party",
-   "opts": {
-    "13390aab-3b85-446e-8d1a-78ca2a190f73": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "5dc235cc-879a-479d-a980-770c614040f6": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "ef12b490-0ab8-4d6b-b16b-d5a26ca380bc": {
-     "st": "not_started"
-    },
-    "f4c406e8-4bad-42db-b1fb-bf9534dbfd73": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
   "7638a59b-1a70-424e-a0a4-c86830ef8033": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "F*CK ME It's Halloween 2026 - The UK's Biggest Halloween Tour | Freshers 2026",
    "opts": {}
-  },
-  "7852cb3f-a687-44eb-8aed-1a291cbb93a6": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Nightmare in Clapham Halloween Party",
-   "opts": {
-    "679b0835-2064-486d-a46d-07acee121f7a": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "7e7dab8a-eb84-4b23-97da-17efcc8ccd77": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Day of Dead Halloween Party Sat 31st London",
-   "opts": {
-    "48f7ca37-57ed-4f2b-a846-155b40bbbf21": {
-     "st": "available"
-    }
-   }
   },
   "83e391a0-393d-46b8-b57e-da7781fbdd56": {
    "ends": "2026-11-02T04:00:00+00:00",
@@ -548,39 +388,6 @@
      "st": "available"
     },
     "fa37f4eb-edfc-4623-9626-b505ff80746a": {
-     "st": "available"
-    }
-   }
-  },
-  "8d14d4d2-854c-4166-a221-3ecd861a6fe1": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "BHANGRA VS BOLLYWOOD : HALLOWEEN BALL! | 31.10.26 | Sway Bar",
-   "opts": {
-    "156ae728-4b7b-4dc0-9257-3f643e437c9e": {
-     "st": "available"
-    },
-    "1a38da17-919c-498c-9817-b45fdbdf1020": {
-     "st": "available"
-    },
-    "427a9d24-978b-46b9-a6b3-5b2e41c8338c": {
-     "st": "available"
-    },
-    "50209788-3894-4461-b126-3316066465f5": {
-     "st": "available"
-    },
-    "9a2b0126-59b5-4c0b-968a-a914c8670ec2": {
-     "st": "available"
-    },
-    "aa9e7c1f-bdcf-4f07-b94d-c48c84ef6900": {
-     "st": "available"
-    },
-    "bb2c036d-6e9d-412f-9591-6b304de4cbc0": {
-     "st": "available"
-    },
-    "ec93f3ec-7a7d-4140-a2db-8df473f62e05": {
-     "st": "available"
-    },
-    "eecf9ee8-65ae-4e7b-850f-f2665782a3c9": {
      "st": "available"
     }
    }
@@ -656,63 +463,6 @@
     }
    }
   },
-  "9b4b904a-a1bb-4daa-8d81-bba2513eb779": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "SPOOKY LONDON - LONDON'S BIGGEST HALLOWEEN PARTY",
-   "opts": {
-    "05930f35-1a9f-4864-98b1-712ec7107c10": {
-     "st": "available"
-    },
-    "236ef2b3-094c-4d30-9361-207b01d23e67": {
-     "st": "available"
-    },
-    "37f0b788-9235-4754-9b27-6eae31b87040": {
-     "st": "available"
-    },
-    "e6f756cf-850d-479d-956d-946254c8234d": {
-     "st": "available"
-    }
-   }
-  },
-  "9cc8fb03-f186-4ed6-9e4a-20b21f05845f": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "BHANGRA vs BOLLYWOOD : HALLOWEEN BALL! | 31.10.26 | SWAY BAR",
-   "opts": {
-    "0aab81a7-72af-4234-99b9-2df03d027345": {
-     "st": "available"
-    },
-    "1a0abe3a-d08f-4df8-bb70-7cc49101c438": {
-     "st": "available"
-    },
-    "aeb037c4-8aae-42d3-9acb-a48f2923669d": {
-     "st": "available"
-    },
-    "b3bd69a8-2f6b-44ed-8c77-3106a4b8733b": {
-     "st": "available"
-    }
-   }
-  },
-  "9d722f5d-2596-47c0-91c3-0206beb262ea": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Reggaeton Halloween Party (London) 2026 ",
-   "opts": {
-    "056a4687-dac1-4c0c-a7fd-0ea270c081cd": {
-     "st": "sold_out"
-    },
-    "15ecd43d-d416-4db0-b5a7-358582725207": {
-     "st": "available"
-    },
-    "75ff2cd7-a105-4d21-9c4c-29c3fce41cc5": {
-     "st": "sold_out"
-    },
-    "7f55b5aa-f748-45a5-9de4-e977524887f0": {
-     "st": "sold_out"
-    },
-    "d943da02-c087-4c15-b215-4616977a75a2": {
-     "st": "available"
-    }
-   }
-  },
   "a23c0101-092a-4278-a848-4e104484f556": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "Haunted House Halloween Party - Saturday Bliss",
@@ -735,28 +485,6 @@
     "90cce9e4-af71-4936-8719-f5cca9a0dbaf": {
      "notified_at": "2026-10-05T08:40:10.238528+00:00",
      "st": "completed"
-    }
-   }
-  },
-  "a84863e2-7271-4837-b6e7-246223320a74": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Nightmare in Clapham Halloween Party",
-   "opts": {
-    "063115a5-8dd6-4f87-9045-94d9d489e59f": {
-     "st": "sold_out"
-    },
-    "a503968a-304e-42fc-b545-153d9b0f440d": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "a8d5f239-a6a4-4038-8e4f-617feeec2a86": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Nightmare in Clapham Halloween Party",
-   "opts": {
-    "2adcdce5-f7d5-4d65-8a69-5cd9288bb39a": {
-     "st": "available"
     }
    }
   },
@@ -871,27 +599,6 @@
    "name": "Club Labrynth - Slightly Late Halloween Ball",
    "opts": {}
   },
-  "d5663059-127b-436a-96b2-4dbb32a212eb": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "    BOMBAY ROAR: HALLOWEEN AFTER DARK",
-   "opts": {
-    "03ed4eea-8d09-48b1-8061-20a9abcb11a2": {
-     "st": "available"
-    },
-    "0b7215ff-f3fc-4331-a3b7-6e072ee78b30": {
-     "st": "available"
-    },
-    "4d7ddb5b-5716-42cb-b712-e26fee4b5cf9": {
-     "st": "available"
-    },
-    "be4dbe98-d71a-47b5-b2e1-9ae4170a4f96": {
-     "st": "available"
-    },
-    "fba70423-98d7-4ed1-93e2-b62ede5a8044": {
-     "st": "available"
-    }
-   }
-  },
   "d588bccb-b623-4b24-939b-70a21e25fe98": {
    "ends": "2026-11-01T06:00:00+00:00",
    "name": "XOYO Halloween: In The Field with Jamie Fielding [SOLD OUT]",
@@ -928,21 +635,6 @@
     },
     "f89450e1-55fc-48bd-b2b9-eabd0f1a9d76": {
      "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "d7bf430f-bdb2-4403-904f-f80348e8cf93": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Bollywood House of Horror's",
-   "opts": {
-    "663eccea-ac0c-48e7-a8a7-4b5713769dbe": {
-     "st": "available"
-    },
-    "81341649-28c3-45cb-8a44-d22f21579e33": {
-     "st": "available"
-    },
-    "f028e3ad-bf75-47f1-b08f-415d965f9b72": {
      "st": "available"
     }
    }
@@ -1092,36 +784,6 @@
     }
    }
   },
-  "ea3539bb-b8dc-46b3-b25d-1b869708fb7f": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Halloween Pub Crawl London",
-   "opts": {
-    "243f72e2-68e4-47ee-ae7a-fee6fcd1061e": {
-     "st": "available"
-    },
-    "5e597c6c-c556-41a8-bd33-7214fec36338": {
-     "st": "available"
-    }
-   }
-  },
-  "ebeb49be-2239-4672-9afd-70df2d38a13e": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Bashment & Afrobeats - Halloween Party",
-   "opts": {
-    "e04a42a6-c78e-4cb8-b785-00242f15e1df": {
-     "st": "available"
-    }
-   }
-  },
-  "eec30e5f-d7de-4b57-b141-e8dacfdefbe5": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": " Halloween House Party Saturday 31st October London",
-   "opts": {
-    "e10b5978-7d1c-4933-bbb1-ae0bcf5b62e9": {
-     "st": "available"
-    }
-   }
-  },
   "f474176f-48c8-4c91-bbdb-e6740b2767fe": {
    "ends": "2026-11-01T05:00:00+00:00",
    "name": "CONGAS 31 OCTOBER* HALLOWEEN EDICI\u00d3N ",
@@ -1137,98 +799,12 @@
     }
    }
   },
-  "f5000f1f-932a-4743-b8ed-7e9fe4ac178e": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Halloween Pub Crawl Shoreditch",
-   "opts": {
-    "28656d6d-389a-41f2-b815-c015381cacb7": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    },
-    "59fae36f-a078-4f46-99b2-b0f5873336e2": {
-     "notified_at": "2026-10-02T18:46:57.905958+00:00",
-     "st": "available"
-    }
-   }
-  },
-  "f7c48c7f-ac73-43b3-991c-7eeb5957af66": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Club de Fromage Halloween Special, Sat 31st October, 11pm-3am (18+)",
-   "opts": {
-    "400f1d78-af3f-4ec0-a362-239c93ea8f31": {
-     "st": "available"
-    }
-   }
-  },
   "fbf3efec-9bf3-4cca-ac50-ccfcad7ac430": {
    "ends": "2026-11-01T06:00:00+00:00",
    "name": "HAUNTED HOUSE PARTY (ALL INCLUSIVE)",
    "opts": {
     "0d59e2ec-9189-47e9-9ff5-3a077154a848": {
      "st": "available"
-    }
-   }
-  },
-  "ff4991fb-432e-462e-bcde-dea6c457b323": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Just Like Heaven: Alt 80\u2019s Halloween Night (London)",
-   "opts": {
-    "1805e65d-3c13-43f9-89a5-d865da6baf37": {
-     "st": "available"
-    },
-    "b23c465d-b50f-4244-98c1-e92518ff3036": {
-     "st": "available"
-    },
-    "c6ea463e-7745-4266-bf28-b1ea5e5c9778": {
-     "st": "available"
-    }
-   }
-  },
-  "ff934760-a278-4969-a939-79fc3f6ff1a6": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "\u0411\u041e\u041b\u042c\u0428\u0410\u042f HALLOWEEN  \u0422\u0423\u0421\u041e\u0412\u041a\u0410 \u0412 \u041b\u041e\u041d\u0414\u041e\u041d\u0415 -  AMANO",
-   "opts": {
-    "d81dc8b4-a504-4972-a352-afd127dd6928": {
-     "st": "available"
-    },
-    "ea177db0-17b2-45bf-9cde-ae1b4e7d10af": {
-     "st": "available"
-    }
-   }
-  },
-  "ffafb54e-ab03-4f1e-8b72-9e63687e732a": {
-   "ends": "2026-11-01T03:00:00+00:00",
-   "name": "Halloween Rave | Sat 31 Oct at Electric Ballroom ",
-   "opts": {
-    "202c5043-6999-4344-be40-9700d768b1b9": {
-     "notified_at": "2026-10-06T12:39:54.934232+00:00",
-     "st": "available"
-    },
-    "25035e85-943e-4ced-a9a6-58f01c5d0b61": {
-     "st": "completed"
-    },
-    "25e0a88e-a16f-4aca-bd41-a690ee3ed067": {
-     "st": "completed"
-    },
-    "2e2b444c-bcad-47e6-80b6-a300480ca6e6": {
-     "st": "completed"
-    },
-    "3d734767-a246-459b-b40c-2df4f4402c60": {
-     "notified_at": "2026-10-21T15:52:16.032981+00:00",
-     "st": "completed"
-    },
-    "6505900d-8140-4a77-9a87-e7432c94e306": {
-     "st": "available"
-    },
-    "c43ef0d1-0370-45a1-8d70-a9d5b0957bac": {
-     "st": "available"
-    },
-    "d003a32f-8706-418a-b8f4-83e1cd2b54a8": {
-     "st": "completed"
-    },
-    "e5690d85-0c35-4669-974a-6548c82301c2": {
-     "notified_at": "2026-10-10T19:28:29.117215+00:00",
-     "st": "completed"
     }
    }
   }
