@@ -154,21 +154,6 @@
     }
    }
   },
-  "3662bf6b-b552-44e8-8ec1-8e055794cba6": {
-   "ends": "2026-11-01T03:30:00+00:00",
-   "name": "Mansion del Terror - Halloween - Mentirosa",
-   "opts": {
-    "10f8db52-bf64-4213-80da-8ed8ac61c2da": {
-     "st": "available"
-    },
-    "148fc13c-13dc-40b1-b20d-0bb7eedcc08a": {
-     "st": "available"
-    },
-    "b7a1883b-5953-45cd-ba28-9fd10d7298ff": {
-     "st": "available"
-    }
-   }
-  },
   "375ba7a0-2b97-4e79-a2b9-1b564867941c": {
    "ends": "2026-11-01T04:00:00+00:00",
    "name": "Milkshake Halloween House Party 2026 \ud83d\ude31 O2 Academy Islington \ud83c\udf83 ",
@@ -411,18 +396,6 @@
      "st": "available"
     },
     "d2c996be-bb5a-4efd-ab7f-b612bf0bd6e7": {
-     "st": "available"
-    }
-   }
-  },
-  "95b955cc-c3f4-4a2c-beaa-be84c903acae": {
-   "ends": "2026-11-01T03:30:00+00:00",
-   "name": "DON'T YOU WANT ME BABY?  HALLOWEEN SPECIAL - PARTY/THROWBACK/ POP/PARTY ANTHEMS",
-   "opts": {
-    "5c020e53-531e-48f5-b3e0-df58a0b8f42b": {
-     "st": "available"
-    },
-    "c25f0571-1b52-4e0f-bd32-3655727eabf9": {
      "st": "available"
     }
    }
