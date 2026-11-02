@@ -154,42 +154,6 @@
    "name": "BURNA BOY AFROPIANOFEST HALLOWEEN PARTY ",
    "opts": {}
   },
-  "995501fa-e106-477e-b609-bfaaf6f546b8": {
-   "ends": "2026-11-01T23:00:00+00:00",
-   "name": "BASHMENT NATION - London's Wildest Halloween Party (2000+ RAVERS)",
-   "opts": {
-    "313fca60-cead-4a5f-9cbb-5debafb8a49c": {
-     "notified_at": "2026-10-31T16:58:04.659057+00:00",
-     "st": "completed"
-    },
-    "4612dfc4-4970-483a-a022-3276867728ed": {
-     "notified_at": "2026-10-15T12:57:00.624566+00:00",
-     "st": "completed"
-    },
-    "66af14d4-0075-4422-ae51-6a8f1dcff6a4": {
-     "notified_at": "2026-10-08T09:58:47.085393+00:00",
-     "st": "completed"
-    },
-    "67881895-a32c-4100-b177-43199a8d6415": {
-     "notified_at": "2026-11-01T18:53:19.541804+00:00",
-     "st": "completed"
-    },
-    "e4e20c5e-27aa-46ea-867b-33974ddadffe": {
-     "notified_at": "2026-10-21T18:59:24.865000+00:00",
-     "st": "completed"
-    }
-   }
-  },
-  "a2a6ef21-86e1-4fc8-bf2f-902d48119134": {
-   "ends": "2026-11-01T23:00:00+00:00",
-   "name": "BASHMENT NATION - London\u2019s Biggest Bashment Halloween Festival",
-   "opts": {
-    "90cce9e4-af71-4936-8719-f5cca9a0dbaf": {
-     "notified_at": "2026-10-05T08:40:10.238528+00:00",
-     "st": "completed"
-    }
-   }
-  },
   "b6816d5c-6eab-4023-99a5-02e794811964": {
    "ends": "2026-11-02T05:00:00+00:00",
    "name": "Halloween special: Day of the Dead",
@@ -225,16 +189,6 @@
     "bd9a679b-8fe2-408b-b1dc-106e56d6700b": {
      "notified_at": "2026-10-02T18:46:57.905958+00:00",
      "st": "available"
-    }
-   }
-  },
-  "df9899e9-a404-40aa-af64-1a1756a76036": {
-   "ends": "2026-11-01T23:00:00+00:00",
-   "name": "BASHMENT, SOCA, REGGAE HALLOWEEN DAY PARTY at STUDIO 338",
-   "opts": {
-    "abf7a2fb-9d53-4823-8071-3a7d5017e96a": {
-     "notified_at": "2026-10-04T16:31:44.919653+00:00",
-     "st": "completed"
     }
    }
   },
