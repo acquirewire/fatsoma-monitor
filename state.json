@@ -225,22 +225,6 @@
     }
    }
   },
-  "c1a4bea3-f535-4089-afa2-29ff1f6ee458": {
-   "ends": "2026-11-01T08:00:00+00:00",
-   "name": "Halloween Special - Rave To The Grave",
-   "opts": {
-    "16390d1a-8e74-4d28-8d10-753967f8ca2a": {
-     "notified_at": "2026-11-01T03:13:38.636092+00:00",
-     "st": "completed"
-    },
-    "538b6c72-9936-4d8e-b626-99d28c5c4831": {
-     "st": "available"
-    },
-    "60c1be55-8e5d-416c-9526-b8eb1c815672": {
-     "st": "completed"
-    }
-   }
-  },
   "d455c364-d27e-4d98-a83c-487d87b32a59": {
    "ends": "2026-11-07T22:00:00+00:00",
    "name": "Club Labrynth - Slightly Late Halloween Ball",
