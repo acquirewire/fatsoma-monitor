@@ -108,6 +108,48 @@
     }
    }
   },
+  "91f4049c-7aa4-48e8-87e5-f9bd6ecdc65a": {
+   "ends": "2026-12-02T04:00:00+00:00",
+   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 3rd 2026 \ud83c\udf0d ",
+   "opts": {
+    "0515739d-e125-48d0-9062-5b7f4a962acf": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "19f803da-e002-4d97-8cc4-3ac5c1e009db": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "352fef0e-d865-4f33-b5fc-4b510ad9a8b6": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "679838eb-d083-43f9-aa3f-3ae492fe4db9": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "6c2fdee0-f2d5-477d-9238-ecfb328833c0": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "83ec62c2-cccb-4933-82f9-d46f907c95b8": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "8be60450-2824-4e48-970d-2d9a9a0f95af": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "8e3169eb-b4c3-4436-b242-cc74bdcaa614": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    },
+    "e80c13d6-d548-4d00-9ff0-ab9b57144757": {
+     "notified_at": "2026-11-04T00:23:33.424312+00:00",
+     "st": "available"
+    }
+   }
+  },
   "d455c364-d27e-4d98-a83c-487d87b32a59": {
    "ends": "2026-11-07T22:00:00+00:00",
    "name": "Club Labrynth - Slightly Late Halloween Ball",
