@@ -70,44 +70,6 @@
     }
    }
   },
-  "444d6f8c-3670-4878-91f4-014b9803e506": {
-   "ends": "2026-11-04T04:00:00+00:00",
-   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 3rd 2026 \ud83c\udf0d ",
-   "opts": {
-    "28136de2-6cdd-4fa1-8af5-4a41974847e6": {
-     "notified_at": "2026-10-16T16:46:50.054523+00:00",
-     "st": "sold_out"
-    },
-    "3eb46c1e-008e-4b1e-8403-7fe5874ab448": {
-     "notified_at": "2026-11-03T22:15:31.976651+00:00",
-     "st": "completed"
-    },
-    "59293f5e-3716-4755-95df-113da9de0146": {
-     "notified_at": "2026-11-03T22:17:33.818979+00:00",
-     "st": "completed"
-    },
-    "77936178-c4c2-41b3-94fb-814b7ca65199": {
-     "notified_at": "2026-11-01T19:16:20.283125+00:00",
-     "st": "completed"
-    },
-    "adf37587-7cba-4a22-925f-272cbb009772": {
-     "notified_at": "2026-10-18T20:43:12.727587+00:00",
-     "st": "sold_out"
-    },
-    "bb253535-b88e-4646-97db-f0bb687572e6": {
-     "notified_at": "2026-10-16T16:46:50.054523+00:00",
-     "st": "sold_out"
-    },
-    "c6160ab3-6137-4965-a9fa-7a6acaf3dd79": {
-     "notified_at": "2026-10-16T16:46:50.054523+00:00",
-     "st": "sold_out"
-    },
-    "cacfd95f-64e5-47ca-b6dc-b64029745f53": {
-     "notified_at": "2026-10-16T16:46:50.054523+00:00",
-     "st": "sold_out"
-    }
-   }
-  },
   "91f4049c-7aa4-48e8-87e5-f9bd6ecdc65a": {
    "ends": "2026-12-02T04:00:00+00:00",
    "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 3rd 2026 \ud83c\udf0d ",
