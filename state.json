@@ -300,6 +300,44 @@
     }
    }
   },
+  "cc72b5d5-1485-4d1a-89b0-72af8af73f93": {
+   "ends": "2026-12-09T04:00:00+00:00",
+   "name": "THE END OF YEAR RAVE @ FABRIC!",
+   "opts": {
+    "0500816b-aa18-4e0e-ae1a-6b89de25b723": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "2f3fa7be-3078-4f2d-a4ed-928eb2af4dbb": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "6ac92d3b-88f2-45ea-a39b-3f18b94e63c5": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "814d5a71-da2e-4434-9a7b-febbd95ca902": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "8248ddbd-ecfd-415a-a558-024338a13dcf": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "9ce41af1-87a3-4091-9fba-83b88ac848e9": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "aeb58fa5-9552-48a2-8887-f85517516025": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "cbfcea84-c4dd-4e2f-9856-1d3b44b029e2": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    }
+   }
+  },
   "dc0c7fec-210b-4914-a976-cee332f6493d": {
    "ends": "2026-12-01T04:00:00+00:00",
    "name": "The London Halloween Ball 2026 \ud83c\udf83 Live From Electric Brixton \ud83d\udd2e Tickets Out Now! ",
@@ -317,6 +355,36 @@
     },
     "bd9a679b-8fe2-408b-b1dc-106e56d6700b": {
      "notified_at": "2026-10-02T18:46:57.905958+00:00",
+     "st": "available"
+    }
+   }
+  },
+  "ddf34b69-533f-4861-9285-6f7db3ef7ce8": {
+   "ends": "2026-12-09T04:00:00+00:00",
+   "name": "THE END OF YEAR RAVE @ FABRIC!",
+   "opts": {
+    "112e073c-f338-4c8b-aacc-bf181f5a187f": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "2a93f9eb-60ca-481d-a801-218fc94ba40c": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "33798762-2cc5-421d-b5f5-12a26bcac8b4": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "6086f9d0-7c00-405a-b309-aa6ee16b279e": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "a265af0c-ec0a-40f9-aac9-2bcbf6fe484f": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
+     "st": "available"
+    },
+    "fefa55cb-cbdb-4ed6-b0dd-4537b667c4ce": {
+     "notified_at": "2026-11-11T19:02:02.083186+00:00",
      "st": "available"
     }
    }
