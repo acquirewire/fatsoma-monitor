@@ -414,6 +414,32 @@
      "st": "sold_out"
     }
    }
+  },
+  "ffcfa2b6-7dfd-47cb-a707-52fcb1b9a1cb": {
+   "ends": "2026-12-09T04:00:00+00:00",
+   "name": "THE END OF YEAR RAVE @ FABRIC! ",
+   "opts": {
+    "09657385-1789-4eae-98ab-eab008158d91": {
+     "notified_at": "2026-11-12T15:06:37.281742+00:00",
+     "st": "available"
+    },
+    "1baafb3b-af1d-4b95-a483-e228c1858143": {
+     "notified_at": "2026-11-12T15:06:37.281742+00:00",
+     "st": "available"
+    },
+    "3fa64479-cd8a-411a-8b89-f8ddcad23f28": {
+     "notified_at": "2026-11-12T15:06:37.281742+00:00",
+     "st": "available"
+    },
+    "b758ebc3-5df5-4c56-a2a7-1b38bf5990aa": {
+     "notified_at": "2026-11-12T15:06:37.281742+00:00",
+     "st": "available"
+    },
+    "e45329b0-963e-459d-984f-ed02fac9aa8a": {
+     "notified_at": "2026-11-12T15:06:37.281742+00:00",
+     "st": "available"
+    }
+   }
   }
  },
  "initialized": true
