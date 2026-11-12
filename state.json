@@ -48,48 +48,6 @@
     }
    }
   },
-  "396ebfb0-0540-40ca-8a44-7f560683570f": {
-   "ends": "2026-11-11T04:00:00+00:00",
-   "name": "Milkshake, Ministry of Sound | London's Biggest Student Night \ud83d\udd25 November 10th 2026 \ud83c\udf0d ",
-   "opts": {
-    "0bacd77d-2f2a-41cd-b940-3cf8c122c034": {
-     "notified_at": "2026-10-23T11:52:32.864619+00:00",
-     "st": "completed"
-    },
-    "22ea6b41-1326-4bdb-9389-0c3c27e32534": {
-     "notified_at": "2026-11-10T10:10:52.743108+00:00",
-     "st": "completed"
-    },
-    "3f4397a1-c586-4989-8d12-f30ac657ddce": {
-     "notified_at": "2026-10-23T11:52:32.864619+00:00",
-     "st": "completed"
-    },
-    "56411045-33c6-48e6-a528-4c1c7ccd1d66": {
-     "notified_at": "2026-11-08T09:02:05.344269+00:00",
-     "st": "completed"
-    },
-    "7d28e80e-130c-424a-800b-e8ffcea95625": {
-     "notified_at": "2026-11-08T09:02:05.344269+00:00",
-     "st": "completed"
-    },
-    "871bf248-793a-44aa-adbd-81a901a84523": {
-     "notified_at": "2026-10-23T11:52:32.864619+00:00",
-     "st": "completed"
-    },
-    "88b52f44-6cd6-48e9-b4a6-f456ea413b95": {
-     "notified_at": "2026-11-10T20:43:19.214061+00:00",
-     "st": "completed"
-    },
-    "d93b97a3-fecb-4e7d-bd8a-c5282148bb91": {
-     "notified_at": "2026-10-23T11:52:32.864619+00:00",
-     "st": "completed"
-    },
-    "e62ff93c-5b9f-4839-a47b-2e7305d173bf": {
-     "notified_at": "2026-11-10T16:50:04.646878+00:00",
-     "st": "completed"
-    }
-   }
-  },
   "3cf238d0-52a2-4e09-82a4-28885994fd61": {
    "ends": "2026-11-12T03:00:00+00:00",
    "name": "LSE AU Presents \ud83d\udc83 The Official LSE Sports Night : XOYO London \ud83e\udef6",
