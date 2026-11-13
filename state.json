@@ -308,6 +308,36 @@
     }
    }
   },
+  "d65f5674-9e29-4e1e-9f1c-69567d34119d": {
+   "ends": "2026-12-09T04:00:00+00:00",
+   "name": "THE END OF YEAR RAVE @ FABRIC!",
+   "opts": {
+    "2232ed8d-de64-44ee-9445-69608c1ba366": {
+     "notified_at": "2026-11-13T10:00:10.160091+00:00",
+     "st": "available"
+    },
+    "24b474c4-80b4-4ea9-85e4-ce92e109d389": {
+     "notified_at": "2026-11-13T10:00:10.160091+00:00",
+     "st": "available"
+    },
+    "4542dbe9-fa53-4529-9433-d095f5485098": {
+     "notified_at": "2026-11-13T10:00:10.160091+00:00",
+     "st": "available"
+    },
+    "6bccc53d-84fa-473a-85d4-cee17c167971": {
+     "notified_at": "2026-11-13T10:00:10.160091+00:00",
+     "st": "available"
+    },
+    "8f1fc830-a8c9-4d67-bde1-9145c18b7cea": {
+     "notified_at": "2026-11-13T10:00:10.160091+00:00",
+     "st": "available"
+    },
+    "d9a398b7-5319-4bf4-a3cb-e77abbabdc40": {
+     "notified_at": "2026-11-13T10:00:10.160091+00:00",
+     "st": "available"
+    }
+   }
+  },
   "dc0c7fec-210b-4914-a976-cee332f6493d": {
    "ends": "2026-12-01T04:00:00+00:00",
    "name": "The London Halloween Ball 2026 \ud83c\udf83 Live From Electric Brixton \ud83d\udd2e Tickets Out Now! ",
