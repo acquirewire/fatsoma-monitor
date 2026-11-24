@@ -102,6 +102,32 @@
     }
    }
   },
+  "679f8cc5-4a23-4012-b3f7-e1cdb7f96c88": {
+   "ends": "2026-12-03T04:00:00+00:00",
+   "name": "LSE AU Presents \ud83d\udc83 The Official LSE Sports Night : XOYO London \ud83e\udef6 Dec 2nd!",
+   "opts": {
+    "1f1a800e-f3bf-471a-8996-72ab7659a712": {
+     "notified_at": "2026-11-24T13:19:38.539983+00:00",
+     "st": "available"
+    },
+    "241c6081-74e0-400a-8960-ee9843a9a9a4": {
+     "notified_at": "2026-11-24T13:19:38.539983+00:00",
+     "st": "available"
+    },
+    "29111ddf-e072-4170-80ba-ce48081d452b": {
+     "notified_at": "2026-11-24T13:19:38.539983+00:00",
+     "st": "available"
+    },
+    "2f1f36fa-5b22-43f5-a99a-6457cbdd9a2a": {
+     "notified_at": "2026-11-24T13:19:38.539983+00:00",
+     "st": "available"
+    },
+    "427a6a0f-0bfe-4cf7-90f3-f991fe092899": {
+     "notified_at": "2026-11-24T13:19:38.539983+00:00",
+     "st": "available"
+    }
+   }
+  },
   "68991efb-d69b-430b-903a-3355cc55e9cb": {
    "ends": "2026-12-09T04:00:00+00:00",
    "name": "The Official Snow Rave 2026 \u2744\ufe0f Ministry of Sound - End Of Term Christmas Rave \ud83c\udf85",
